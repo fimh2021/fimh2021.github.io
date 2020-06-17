@@ -1,5 +1,5 @@
 ---
-permalink: /sponsors/
+permalink: /program/
 title: "Program"
 ---
 
