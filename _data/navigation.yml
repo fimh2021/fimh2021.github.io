@@ -12,7 +12,7 @@ main:
 
 sidebar-main:
   
-  - title: "Info"
+  - title: "Navigate"
     children:
       - title: "Registration"
         url: /
