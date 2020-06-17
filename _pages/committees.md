@@ -1,6 +1,6 @@
 ---
 permalink: /committees/
-title: "committees"
+title: "Committees"
 ---
 
 FIMH Board Committee
