@@ -17,16 +17,16 @@ sidebar-main:
       - title: "RSVP"
         url: /rsvp/
       - title: "Program"
-        url: /
+        url: /Program/
       - title: "Keynote Speakers"
         url: /registration/
       - title: "Workshops"
-        url: /
+        url: /Workshops/
       - title: "Events"
-        url: /
+        url: /Events/
       - title: "Travel"
-        url: /
-      - title: "Committee"
-        url: /
+        url: /Travel/
+      - title: "Committees"
+        url: /Committees/
       - title: "Sponsors"
-        url: /
+        url: /Sponsors/
