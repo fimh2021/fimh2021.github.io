@@ -3,7 +3,7 @@ main:
   - title: "About FIMH"
     url: /about/
   - title: "Abstract Submission"
-    url: /abstracts/
+    url: /abstract_sub/
   - title: "Program"
     url: /program/
   - title: "Registration"
