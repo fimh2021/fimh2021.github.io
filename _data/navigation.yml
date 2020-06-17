@@ -14,6 +14,8 @@ sidebar-main:
   
   - title: "Navigate"
     children:
+      - title: "RSVP"
+        url: /rsvp/
       - title: "Program"
         url: /
       - title: "Keynote Speakers"
