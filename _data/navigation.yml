@@ -15,4 +15,4 @@ sidebar-main:
   - title: "Navigate"
     children:
       - title: "Registration"
-        url: /
+        url: /registration/
