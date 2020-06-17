@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Coming Soon!"
+title:  "Conference Dates Announced!"
 date:   2020-03-31 11:16:35 -0700
 ---
 
