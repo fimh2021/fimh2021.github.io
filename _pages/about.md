@@ -1,6 +1,10 @@
 ---
 permalink: /about/
 title: "About"
+sidebar:
+  - title: "FIMH 2021"
+    image: /assets/images/FIMH-2021_Logo_150dpi.png
+  - nav: sidebar-main 
 ---
 
 FIMH-2021 will be the 11th biennial meeting on Functional Imaging and Modeling of the Heart. FIMH-2021 will celebrate 20 years of bringing together friends, colleagues, and collaborators to share and discuss the latest in cardiac and cardiovascular imaging and modeling methods and applications. Scientists and clinicians with an interest in advanced methods to study and evaluate cardiac structure, function, flow, electrical activity and remodeling are all welcome to attend.

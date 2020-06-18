@@ -2,6 +2,7 @@
 layout: single
 title:  "Conference Dates Announced!"
 date:   2020-06-11 15:00:00 -0700
+published: true
 ---
 
 FIMH-2021 will be held from **June 21-24 (2021)** and will be hosted on the Stanford University campus.
