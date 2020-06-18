@@ -4,20 +4,54 @@ title: "Committees"
 ---
 
 ### FIMH Board Members
-- Alistair Young (King's College London, London, United Kingdom)
-- Mihaela Pop (U. Toronoto, Toronto, Ontario, Canada) 
-- Patrick Clarysse (CREATIS, Lyon, France)  
-- Martyn Nash (U. Auckland, Auckland, New Zealand)
-- Leon Axel (New York University, New York, New York).
+- **Alistair Young** – King's College London, London, UK
+- **Mihaela Pop** – U. Toronoto, Toronto, Ontario, Canada
+- **Patrick Clarysse** – CREATIS, Lyon, France
+- **Martyn Nash** – U. Auckland, Auckland, New Zealand
+- **Leon Axel** – New York University, New York, NY, USA
 
 ### FIMH-2021 Local Organizing Committee
-- Daniel Ennis (Stanford University, Stanford, CA, USA)
-- Luigi Perotti (University of Central Florida, Orlando, FL, USA)
-- Vicky Wang (San Francisco VA Medical Center, San Francisco, CA, USA)
+- **Daniel Ennis** – Stanford University, Stanford, CA, USA
+- **Luigi Perotti** – University of Central Florida, Orlando, FL, USA
+- **Vicky Wang** – San Francisco VA Medical Center, San Francisco, CA, USA
 - **Contact us for most questions about FIMH-2021.**
 
 ### FIMH-2021 Program Committee
-- Coming soon...
+- **Daniel Balzani** – Ruhr-Universität Bochum, Bochum, Germany
+- **Peter Bovendeerd** – Eindhoven University of Technology, Eindhoven, Netherlands
+- **Oscar Camara** – Universitat Pompeu Fabra, Barcelona, Spain
+- **Teodora Chitiboi** – SIEMENS, Munich, Germany
+- **Henry Chubb** – Stanford University, Stanford, CA, USA
+- **Yves Coudière** – INRIA, Rocquencourt, France
+- **Tammo Delhaas** – Maastricht University, Maastricht, Netherlands
+- **Nicolas Duchateau** – CREATIS, Lyon, France
+- **Frederick Epstein** – University of Virginia, Charlottesville, VA, USA
+- **Alberto Figueroa** – University of Michigan, Ann Arbor, MI, USA
+- **Arun Holden** – University of Leeds, Leeds, UK
+- **Daniel Hurtado** – Pontificia Universidad Católica de Chile, Santiago, Chile
+- **Pablo Lamata** – King's College London, London, UK
+- **Cristian Linte** – Rochester University of Technology, Rochester, NY, USA
+- **Herve Lombaert** – Polytechnique Montréal, Montreal, Quebec, Canada
+- **Rob MacLeod** – University of Utah, Salt Lake City, UT, USA
+- **Tommaso Mansi** – SIEMENS, Munich, Germany
+- **Alison Marsden** – Stanford University, Stanford, CA, USA
+- **Steven Niederer** – King's College London, London, UK
+- **Vijay Rajagopal** – University of Melbourne, Melbourne, VIC, Australia
+- **Frank Sachse** – University of Utah, Salt Lake City, UT, USA
+- **Michael Sacks** – University of Texas at Austin, Austin, TX, USA
+- **Francisco Sahli** – Pontificia Universidad Católica de Chile, Santiago, Chile
+- **Andrew Scott** – Royal Brompton & Harefield NHS Foundation, London, UK
+- **Maxime Sermesant** – INRIA, Rocquencourt, France
+- **Shawn Shadden** – University of California, Berkeley, CA, USA
+- **Kaleem Siddiqi** – McGill University Montreal, Quebec, Canada
+- **Lawrence Staib** – Yale University, New Haven, CT, USA
+- **Regis Vaillant** – General Electric, Boston, MA, USA
+- **Samuel Wall** – University of Oslo, Oslo, Norway
+- **Linwei Wang** – Rochester University of Technology, Rochester, NY, USA
+- **Graham Wright** – University of Toronto, Toronto, Ontario, Canada
+- **Guang Yang** – Imperial College London, London, UK
+- **Nejib Zemzemi** – INRIA, Rocquencourt, France
+- **Xiahai Zhuang** – Fudan University, Shanghai, China
 
 ### FIMH-2021 Trainee Committee
 - Coming soon...
