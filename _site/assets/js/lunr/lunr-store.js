@@ -1,6 +1,6 @@
 var store = [{
         "title": "Coming Soon!",
-        "excerpt":"Stay tuned for more information about the 2021 International Conference on Functional Imaging and Modeling of the Heart !  ","categories": [],
+        "excerpt":"Stay tuned for more information about the 2021 International Conference on Functional Imaging and Modeling of the Heart!  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/coming-soon/",
         "teaser": null
