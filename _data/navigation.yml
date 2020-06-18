@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "About FIMH"
     url: /about/
   - title: "Abstract Submission"
@@ -14,7 +16,7 @@ sidebar-main:
   
   - title: "Navigate"
     children:
-      - title: "RSVP"
+      - title: "E-mail List"
         url: /rsvp/
       - title: "Program"
         url: /program/
