@@ -5,9 +5,9 @@ title: "Committees"
 
 ### FIMH Board Members
 - **Alistair Young** – King's College London, London, UK
-- **Mihaela Pop** – U. Toronoto, Toronto, Ontario, Canada
+- **Mihaela Pop** – University of Toronto, Toronto, Ontario, Canada
 - **Patrick Clarysse** – CREATIS, Lyon, France
-- **Martyn Nash** – U. Auckland, Auckland, New Zealand
+- **Martyn Nash** – University Auckland, Auckland, New Zealand
 - **Leon Axel** – New York University, New York, NY, USA
 
 ### FIMH-2021 Local Organizing Committee
@@ -20,9 +20,9 @@ title: "Committees"
 - **Daniel Balzani** – Ruhr-Universität Bochum, Bochum, Germany
 - **Peter Bovendeerd** – Eindhoven University of Technology, Eindhoven, Netherlands
 - **Oscar Camara** – Universitat Pompeu Fabra, Barcelona, Spain
-- **Teodora Chitiboi** – SIEMENS, Munich, Germany
+- **Teodora Chitiboi** – SIEMENS, Princeton, NJ, USA
 - **Henry Chubb** – Stanford University, Stanford, CA, USA
-- **Yves Coudière** – INRIA, Rocquencourt, France
+- **Yves Coudière** – INRIA, Bordeaux, France
 - **Tammo Delhaas** – Maastricht University, Maastricht, Netherlands
 - **Nicolas Duchateau** – CREATIS, Lyon, France
 - **Frederick Epstein** – University of Virginia, Charlottesville, VA, USA
@@ -30,10 +30,10 @@ title: "Committees"
 - **Arun Holden** – University of Leeds, Leeds, UK
 - **Daniel Hurtado** – Pontificia Universidad Católica de Chile, Santiago, Chile
 - **Pablo Lamata** – King's College London, London, UK
-- **Cristian Linte** – Rochester University of Technology, Rochester, NY, USA
+- **Cristian Linte** – Rochester Institute of Technology, Rochester, NY, USA
 - **Herve Lombaert** – Polytechnique Montréal, Montreal, Quebec, Canada
 - **Rob MacLeod** – University of Utah, Salt Lake City, UT, USA
-- **Tommaso Mansi** – SIEMENS, Munich, Germany
+- **Tommaso Mansi** – SIEMENS, Princeton, NJ, USA
 - **Alison Marsden** – Stanford University, Stanford, CA, USA
 - **Steven Niederer** – King's College London, London, UK
 - **Vijay Rajagopal** – University of Melbourne, Melbourne, VIC, Australia
@@ -41,16 +41,16 @@ title: "Committees"
 - **Michael Sacks** – University of Texas at Austin, Austin, TX, USA
 - **Francisco Sahli** – Pontificia Universidad Católica de Chile, Santiago, Chile
 - **Andrew Scott** – Royal Brompton & Harefield NHS Foundation, London, UK
-- **Maxime Sermesant** – INRIA, Rocquencourt, France
+- **Maxime Sermesant** – INRIA, Sophia-Nice, France
 - **Shawn Shadden** – University of California, Berkeley, CA, USA
 - **Kaleem Siddiqi** – McGill University Montreal, Quebec, Canada
 - **Lawrence Staib** – Yale University, New Haven, CT, USA
-- **Regis Vaillant** – General Electric, Boston, MA, USA
+- **Regis Vaillant** – General Electric, Paris, France
 - **Samuel Wall** – University of Oslo, Oslo, Norway
-- **Linwei Wang** – Rochester University of Technology, Rochester, NY, USA
+- **Linwei Wang** – Rochester Institute of Technology, Rochester, NY, USA
 - **Graham Wright** – University of Toronto, Toronto, Ontario, Canada
 - **Guang Yang** – Imperial College London, London, UK
-- **Nejib Zemzemi** – INRIA, Rocquencourt, France
+- **Nejib Zemzemi** – INRIA, Bordeaux, France
 - **Xiahai Zhuang** – Fudan University, Shanghai, China
 
 ### FIMH-2021 Trainee Committee
