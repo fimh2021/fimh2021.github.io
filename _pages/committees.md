@@ -7,7 +7,7 @@ title: "Committees"
 - **Alistair Young** – King's College London, London, UK
 - **Mihaela Pop** – University of Toronto, Toronto, Ontario, Canada
 - **Patrick Clarysse** – CREATIS, Lyon, France
-- **Martyn Nash** – University Auckland, Auckland, New Zealand
+- **Martyn Nash** – University of Auckland, Auckland, New Zealand
 - **Leon Axel** – New York University, New York, NY, USA
 
 ### FIMH-2021 Local Organizing Committee
@@ -20,7 +20,7 @@ title: "Committees"
 - **Daniel Balzani** – Ruhr-Universität Bochum, Bochum, Germany
 - **Peter Bovendeerd** – Eindhoven University of Technology, Eindhoven, Netherlands
 - **Oscar Camara** – Universitat Pompeu Fabra, Barcelona, Spain
-- **Teodora Chitiboi** – SIEMENS, Princeton, NJ, USA
+- **Teodora Chitiboi** – Siemens Healthineers, Princeton, NJ, USA
 - **Henry Chubb** – Stanford University, Stanford, CA, USA
 - **Richard Clayton** – University of Sheffield, Sheffield, UK
 - **Yves Coudière** – INRIA, Bordeaux, France
@@ -32,9 +32,9 @@ title: "Committees"
 - **Daniel Hurtado** – Pontificia Universidad Católica de Chile, Santiago, Chile
 - **Pablo Lamata** – King's College London, London, UK
 - **Cristian Linte** – Rochester Institute of Technology, Rochester, NY, USA
-- **Herve Lombaert** – Polytechnique Montréal, Montreal, Quebec, Canada
+- **Herve Lombaert** – ETS Montreal, Montreal, Quebec, Canada
 - **Rob MacLeod** – University of Utah, Salt Lake City, UT, USA
-- **Tommaso Mansi** – SIEMENS, Princeton, NJ, USA
+- **Tommaso Mansi** – Siemens Healthineers, Princeton, NJ, USA
 - **Alison Marsden** – Stanford University, Stanford, CA, USA
 - **Steven Niederer** – King's College London, London, UK
 - **Vijay Rajagopal** – University of Melbourne, Melbourne, VIC, Australia
@@ -42,9 +42,9 @@ title: "Committees"
 - **Michael Sacks** – University of Texas at Austin, Austin, TX, USA
 - **Francisco Sahli** – Pontificia Universidad Católica de Chile, Santiago, Chile
 - **Andrew Scott** – Royal Brompton & Harefield NHS Foundation, London, UK
-- **Maxime Sermesant** – INRIA, Sophia-Nice, France
+- **Maxime Sermesant** – INRIA, Sophia Antipolis, France
 - **Shawn Shadden** – University of California, Berkeley, CA, USA
-- **Kaleem Siddiqi** – McGill University Montreal, Quebec, Canada
+- **Kaleem Siddiqi** – McGill University, Montreal, Quebec, Canada
 - **Lawrence Staib** – Yale University, New Haven, CT, USA
 - **Regis Vaillant** – General Electric, Paris, France
 - **Samuel Wall** – University of Oslo, Oslo, Norway
