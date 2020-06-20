@@ -22,6 +22,7 @@ title: "Committees"
 - **Oscar Camara** – Universitat Pompeu Fabra, Barcelona, Spain
 - **Teodora Chitiboi** – SIEMENS, Princeton, NJ, USA
 - **Henry Chubb** – Stanford University, Stanford, CA, USA
+- **Richard Clayton** – University of Sheffield, Sheffield, UK
 - **Yves Coudière** – INRIA, Bordeaux, France
 - **Tammo Delhaas** – Maastricht University, Maastricht, Netherlands
 - **Nicolas Duchateau** – CREATIS, Lyon, France
