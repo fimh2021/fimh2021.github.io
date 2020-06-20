@@ -27,5 +27,7 @@ Dan, Luigi, and Vicky
 
 <!---
 Add line breaks to space out the blog posts a little more
--->
+Now that the intro is longer dont do this
 <br/>
+-->
+
