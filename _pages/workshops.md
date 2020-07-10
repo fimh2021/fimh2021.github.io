@@ -20,13 +20,15 @@ Organizers:
 Extensive online documentation and tutorials with clinical examples are provided online. 
 In this workshop, we will interactively take new users through a step-by-step tutorial, covering the basic steps of model construction, meshing, flow simulations, and best practices for high quality results. We will also introduce several new features of SimVascular, including a module for image segmentation with machine learning, a python scripting interface, and a pipeline for reduced-order modeling with a 1D solver.  Following a series of interactive demonstrations, we will moderate a question and answer session for current and potential users.   
 
+
+
 **[Cardiac Atlas Project](https://www.cardiacatlas.org) Workshop with an emphasis on congenital heart disease (June 21)**
 
 Organizers:       
 * Alistair Young, King's College London
 * Andrew McCulloch, UCSD
 
-![CAP](/assets/images/cap-logo-header.png){:class="img-responsive"}
+![CAP](/assets/images/cap-logo-header.png =250x){:class="img-responsive"}
 
 The Cardiac Atlas Project is a large-scale database of cardiac imaging exams, segmentations, annotations, and associated clinical data. CAP aims to develop a shareable and web-accessible atlas of normal and pathological heart structure and function. One goal of CAP is to facilitate collaborative statistical analysis of regional heart shape and wall motion and characterize cardiac function among and within population groups.
 
