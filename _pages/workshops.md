@@ -28,10 +28,12 @@ Organizers:
 * Alistair Young, King's College London
 * Andrew McCulloch, UCSD
 
-![CAP](/assets/images/cap-logo-header.png =250x){:class="img-responsive"}
+![CAP](/assets/images/cap-logo-header.png){:class="img-responsive"}
 
 The Cardiac Atlas Project is a large-scale database of cardiac imaging exams, segmentations, annotations, and associated clinical data. CAP aims to develop a shareable and web-accessible atlas of normal and pathological heart structure and function. One goal of CAP is to facilitate collaborative statistical analysis of regional heart shape and wall motion and characterize cardiac function among and within population groups.
 
 The CAP workshop will focus on congenital heart disease (CHD). Patients with congenital heart disease often require serial imaging examinations to monitor progression and determine the optimal time for interventions. While current global metrics of cardiac size and function, such as indexed ventricular mass and volumes, can identify patients at risk of adverse outcomes, they are not adequate to explain the underlying mechanisms causing them. Recently, data sharing initiatives enable collation of larger numbers of cases in order to enable morphometric informatics approaches. 
 
 This workshop will highlight recent advances in statistical atlases and modelling of congenital heart disease cohorts. Statistical atlases enable quantification of changes associated with disease and treatment therapies, and models are compatible with computation analysis of the mechanisms leading to these changes. Example topics are tetralogy of Fallot, single ventricle pathologies, volume and pressure overload, fluid structure interaction, growth and remodelling. The application of electromechanical models for interpretation of changes in shape and function across cohorts will be highlighted. The workshop will range from introductions of CHD anatomy and physiology for non-clinicians, to applications of data science methods for prediction of outcomes.
+
+![CAP](/assets/images/CAP_Fig.png){:class="img-responsive"}
