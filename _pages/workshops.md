@@ -37,3 +37,4 @@ The CAP workshop will focus on congenital heart disease (CHD). Patients with con
 This workshop will highlight recent advances in statistical atlases and modelling of congenital heart disease cohorts. Statistical atlases enable quantification of changes associated with disease and treatment therapies, and models are compatible with computation analysis of the mechanisms leading to these changes. Example topics are tetralogy of Fallot, single ventricle pathologies, volume and pressure overload, fluid structure interaction, growth and remodelling. The application of electromechanical models for interpretation of changes in shape and function across cohorts will be highlighted. The workshop will range from introductions of CHD anatomy and physiology for non-clinicians, to applications of data science methods for prediction of outcomes.
 
 ![CAP](/assets/images/CAP_Fig.png){:class="img-responsive"}
+Image Courtesy of Anna Mira.
