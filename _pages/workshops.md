@@ -22,7 +22,7 @@ In this workshop, we will interactively take new users through a step-by-step tu
 
 
 
-**[Cardiac Atlas Project](https://www.cardiacatlas.org) Workshop with an emphasis on congenital heart disease (June 21)**
+**[Cardiac Atlas Project](https://www.cardiacatlas.org) On Congenital Heart Disease (June 21)**
 
 Organizers:       
 * Alistair Young, King's College London
