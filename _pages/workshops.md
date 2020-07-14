@@ -29,7 +29,7 @@ Organizers:
 * Alistair Young, King's College London
 * Andrew McCulloch, UCSD
 
-<img src="/assets/images/cap-logo-header.png" height="200px">
+<img src="/assets/images/cap-logo-header.png" height="100px">
 
 The Cardiac Atlas Project is a large-scale database of cardiac imaging exams, segmentations, annotations, and associated clinical data. CAP aims to develop a shareable and web-accessible atlas of normal and pathological heart structure and function. One goal of CAP is to facilitate collaborative statistical analysis of regional heart shape and wall motion and characterize cardiac function among and within population groups.
 
