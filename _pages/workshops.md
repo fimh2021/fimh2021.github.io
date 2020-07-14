@@ -13,7 +13,7 @@ Organizers:
 * Shawn Shadden, UC Berkeley
 * Nathan Wilson, Open Source Medical Software Corporation
 
-![SimVascular](/assets/images/SimVascular.jpg){:class="img-responsive" height="200px"}
+![SimVascular]<img src="/assets/images/LNCS-Logo.jpg" width="100px">
 
 [SimVascular](http://www.simvascular.org) is the only fully open source software package providing a complete pipeline from medical image data to cardiovascular blood flow simulation results and analysis (www.simvascular.org).  It offers capabilities for image segmentation, unstructured adaptive meshing, physiologic boundary conditions, and two Navier-Stokes finite element solvers with fluid structure interaction capabilities, including large deformation motion with an Arbitrary Lagrangian Eulerian (ALE) formulation.  An accompanying vascular model repository provides over 100 clinical data sets with simulation results from different parts of the vasculature to enable research.  
 
