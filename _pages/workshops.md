@@ -29,7 +29,7 @@ Organizers:
 * Alistair Young, King's College London
 * Andrew McCulloch, UCSD
 
-<img src="/assets/images/cap-logo-header.png" width="600px">
+<img src="/assets/images/cap-logo-header.png" width="600px" />
 
 The Cardiac Atlas Project is a large-scale database of cardiac imaging exams, segmentations, annotations, and associated clinical data. CAP aims to develop a shareable and web-accessible atlas of normal and pathological heart structure and function. One goal of CAP is to facilitate collaborative statistical analysis of regional heart shape and wall motion and characterize cardiac function among and within population groups.
 
@@ -37,5 +37,5 @@ The CAP workshop will focus on congenital heart disease (CHD). Patients with con
 
 This workshop will highlight recent advances in statistical atlases and modelling of congenital heart disease cohorts. Statistical atlases enable quantification of changes associated with disease and treatment therapies, and models are compatible with computation analysis of the mechanisms leading to these changes. Example topics are tetralogy of Fallot, single ventricle pathologies, volume and pressure overload, fluid structure interaction, growth and remodelling. The application of electromechanical models for interpretation of changes in shape and function across cohorts will be highlighted. The workshop will range from introductions of CHD anatomy and physiology for non-clinicians, to applications of data science methods for prediction of outcomes.
 
-<img src="/assets/images/CAP_Fig.png" width="400px">
+<img src="/assets/images/CAP_Fig.png" width="400px" />
 Image Courtesy of Anna Mira.
