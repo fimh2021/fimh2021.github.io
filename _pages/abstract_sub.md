@@ -27,6 +27,6 @@ Additional important information:
 6. We encourage the inclusion of **all of the authors’ email addresses and ORCIDs in the header**, but at the very least, the email address of the corresponding author should be present.  
 7. LNCS now offers the option to include **embedded videos** in proceedings papers: for more information see [here](https://www.springer.com/gp/computer-science/lncs/embedded-videos/15066970).
 8. All **figures are printed in black and white** although colored figures remain in color in the online version. Please make sure that any colored figures are equally comprehensible in black and white. Figures and Tables should be cross referred in the text. Color in text, tables or in equations is not supported.
-9. If a paper includes an **Appendix**, it should be placed in front of the references. If there is only one, it is designated “Appendix”; if there are more than one, they are designated “Appendix1,” “Appendix 2,” etc.
+<!--- 9. If a paper includes an **Appendix**, it should be placed in front of the references. If there is only one, it is designated “Appendix”; if there are more than one, they are designated “Appendix1,” “Appendix 2,” etc. -->
 
 Previous FIMH proceedings can be found here: [https://link.springer.com/conference/fimh](https://link.springer.com/conference/fimh). 
