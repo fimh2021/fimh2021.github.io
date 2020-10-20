@@ -5,11 +5,11 @@ title: "Manuscript Submission"
 
 The conference proceedings will be published in Lecture Notes in Computer Science (LNCS) <img src="/assets/images/LNCS-Logo.jpg" width="100">
 
-The manuscript submission system can be accessed at [https://ocs.springer.com/ocs/home/FIMH2021](https://ocs.springer.com/ocs/home/FIMH2021). The submission system will be opened in November.
+The manuscript submission system can be accessed at [https://ocs.springer.com/ocs/home/FIMH2021](https://ocs.springer.com/ocs/home/FIMH2021). The submission system is now open.
 
 Please read the information reported below before starting the submission of your manuscript.
 
-The manuscript submission deadline is **Friday, January 22, at 11:59pm EST**.
+The manuscript submission deadline is **Friday, January 22, at 11:59pm PST**.
 
 Initial submission <!--- must be anonymized and --> is limited to 8 pages including references.
 
