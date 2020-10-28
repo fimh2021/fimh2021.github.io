@@ -18,7 +18,7 @@ To achieve this goal, we propose to analyze three sets of cine DENSE (Displaceme
 
 **Input data**
 The three sets of cine DENSE data consist of: 
-1. 1.	Synthetic cine DENSE images generated from a computational cylindrical phantom in which displacements are analytically defined and exact analytic strains are also known.
+1. Synthetic cine DENSE images generated from a computational cylindrical phantom in which displacements are analytically defined and exact analytic strains are also known.
 2. Midventricular cine DENSE images and cDTI (cardiac diffusion tensor imaging) data for N=2 healthy swine subjects.
 3. Midventricular cine DENSE images and cDTI data for N=2 swine subjects with an infarct.
 
