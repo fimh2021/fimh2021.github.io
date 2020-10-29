@@ -46,7 +46,7 @@ The organizers of the benchmark study have been in contact with two journals -- 
 
 **Participation form and mailing list**
 
-If you are interested in participating in this study, we kindly ask you to fill out this [form](FIMH 2021 Cardiac Kinematics Benchmark Study) so that it can help the organizers to gather participant’s information. If you would like to keep up to date with this benchmark, please subscribe to this mailing [list](https://mailman.stanford.edu/mailman/listinfo/fimh-kinematics-benchmark-2021). Using this mailing list, we will announce any relevant information for the benchmark study such as data release, deadelines, and a future date when we can discuss the benchmark data and clarify any doubts in a zoom meeting with all interested participants. 
+If you are interested in participating in this study, we kindly ask you to fill out this [form](https://forms.gle/3BbhNuiwRfALV4xy6) so that it can help the organizers to gather participant’s information. If you would like to keep up to date with this benchmark, please subscribe to this mailing [list](https://mailman.stanford.edu/mailman/listinfo/fimh-kinematics-benchmark-2021). Using this mailing list, we will announce any relevant information for the benchmark study such as data release, deadelines, and a future date when we can discuss the benchmark data and clarify any doubts in a zoom meeting with all interested participants. 
 
 
 For more information please feel free to contact Luigi Perotti (Luigi.Perotti at ucf dot edu) and Vicky Wang (vywang66 at stanford dot edu).
