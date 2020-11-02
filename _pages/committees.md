@@ -13,7 +13,7 @@ title: "Committees"
 ### FIMH-2021 Local Organizing Committee
 - **Daniel Ennis** – Stanford University, Stanford, CA, USA
 - **Luigi Perotti** – University of Central Florida, Orlando, FL, USA
-- **Vicky Wang** – San Francisco VA Medical Center, San Francisco, CA, USA
+- **Vicky Wang** – Stanford University, Stanford, CA, USA
 - **Contact us for most questions about FIMH-2021.**
 
 ### FIMH-2021 Program Committee
