@@ -3,7 +3,7 @@ permalink: /workshops/
 title: "Workshops"
 ---
 
-FIMH-2021 will host both a [SimVascular](http://www.simvascular.org) and [Cardiac Atlas Project](https://www.cardiacatlas.org) pre-conference workshops on June 21, 2021. Note, the main conference will start in June 22, 2021 and we expect to host a welcome event on the evening of June 21, 2021. More information about the workshops is forthcoming.
+FIMH-2021 will host both a [SimVascular](http://www.simvascular.org) and [Cardiac Atlas Project](https://www.cardiacatlas.org) pre-conference workshops on June 21, 2021. Note, the main conference will start in June 22, 2021. More information about the workshops is forthcoming.
 
 -----------------------------
 **[SimVascular](http://www.simvascular.org) Workshop and New User Training (June 21)**
