@@ -21,7 +21,7 @@ An important goal of this meeting is to promote the careers of young scientists,
 
 We look forward to seeing you at FIMH-2021.
 
-Best,
+Very best,
 
 Dan, Luigi, and Vicky
 
