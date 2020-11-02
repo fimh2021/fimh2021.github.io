@@ -24,10 +24,10 @@ sidebar-main:
         url: /keynote/
       - title: "Workshops"
         url: /workshops/
-      - title: "Events"
-        url: /events/
-      - title: "Travel"
-        url: /travel/
+      #- title: "Events"
+      #  url: /events/
+      #- title: "Travel"
+      #  url: /travel/
       - title: "Committees"
         url: /committees/
       - title: "Sponsors"
