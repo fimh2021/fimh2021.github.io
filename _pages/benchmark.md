@@ -7,7 +7,20 @@ FIMH-2021 will host a Cardiac Kinematics Benchmark study which aims to establish
 
 We want to emphasize that this benchmark is not meant as a challenge but simply as a platform for discussion and comparison to improve the calculation of cardiac strain values and improve our confidence to distinguish between cardiac health and disease based on this biomarker.
 
-More details about the benchmark and instructions on how to participate are provided in the following pdf file. Please check back frequently for additional details and updates:
+More details about the benchmark and instructions on how to participate are provided in the following pdf file:
+
+Please check back frequently for updates and subscribe to our mailing list (see below).
+
+**Meeting schedule to discuss benchmark data and questions**
+
+
+
+**Participation form and mailing list**
+
+If you are interested in participating in this study, we kindly ask you to fill out this [form](https://forms.gle/3BbhNuiwRfALV4xy6) so that it can help the organizers to gather participant’s information. If you would like to keep up to date with this benchmark, please subscribe to this mailing [list](https://mailman.stanford.edu/mailman/listinfo/fimh-kinematics-benchmark-2021). Using this mailing list, we will announce any relevant information for the benchmark study such as data release, deadlines, and meeting times to discuss the benchmark data and clarify any doubts in a zoom meeting with all interested participants. 
+
+
+For more information please feel free to contact Luigi Perotti (Luigi.Perotti at ucf dot edu) and Vicky Wang (vywang66 at stanford dot edu).
 
 <!--- We hope that this benchmark study will provide:
 1. Insights on the variability of cardiac strain values reported in the literature for healthy volunteers and patients with cardiomyopathies.
@@ -42,9 +55,4 @@ The organizers of the benchmark study have been in contact with two journals -- 
 
 
 
-**Participation form and mailing list**
 
-If you are interested in participating in this study, we kindly ask you to fill out this [form](https://forms.gle/3BbhNuiwRfALV4xy6) so that it can help the organizers to gather participant’s information. If you would like to keep up to date with this benchmark, please subscribe to this mailing [list](https://mailman.stanford.edu/mailman/listinfo/fimh-kinematics-benchmark-2021). Using this mailing list, we will announce any relevant information for the benchmark study such as data release, deadlines, and meeting times to discuss the benchmark data and clarify any doubts in a zoom meeting with all interested participants. 
-
-
-For more information please feel free to contact Luigi Perotti (Luigi.Perotti at ucf dot edu) and Vicky Wang (vywang66 at stanford dot edu).
