@@ -22,7 +22,7 @@ Blanca Rodriguez, Ph.D. is a Wellcome Trust Fellow in Basic Biomedical Science a
 
 <font size="3">
 
-<img align="right" src="/assets/images/SteffenPetersen.jpg" width="400">
+<img align="right" src="/assets/images/SteffenPetersen.jpg" width="250">
 
 Steffen Petersen, M.D. is a Professor of Cardiovascular Medicine at the William Harvey Research Institute, Queen Mary University of London and a Consultant Cardiologist and Clinical Director for Research at Barts Heart Centre, Barts Health NHS Trust. He is also the Cardiovascular Programme Director for the UCL Partners Academic Medical Centre. He is a world-leader in Cardiac MRI, author of several clinical guideline papers, and the UK Biobank cardiac imaging lead. The UK Biobank study is well underway and seeks to perform 100,000 CMR exams while also collecting substantial clinical data for deep phenotyping. 
 
