@@ -6,10 +6,11 @@ title: "Keynote Speakers"
 The Keynote speakers for FIMH-2021 are:
 * Blanca Rodriguez, Professor of Computational Medicine, Department of Computer Science, University of Oxford.
 
+<img align="right" src="/assets/images/BlancaRodriguez.jpg" width="400">
+
 <font size="3">
+
 Blanca Rodriguez, Ph.D. is a Wellcome Trust Fellow in Basic Biomedical Science and Professor of Computational Medicine in the Department of Computer Science at the University of Oxford. Her research focuses on investigating the variable response of human hearts to disease and therapies. Her team primarily focuses on computational modeling and simulation of the heart, combined with other approaches such as machine learning, to expand and augment the information extracted from experimental and clinical datasets. Her lab is part of the British Heart Foundation Centre of Research Excellence and is currently funded by the Wellcome Trust, the NC3Rs, the European Comission, the British Heart Foundation, EPSRC and the Royal Society.
-  
-<img align="right" src="/assets/images/BlancaRodriguez.jpg" width="100">
 
 [Link to Dr. Rodriguez's website](http://www.cs.ox.ac.uk/people/blanca.rodriguez/)
 
