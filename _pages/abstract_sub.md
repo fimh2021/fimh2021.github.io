@@ -29,7 +29,7 @@ Springer encourages authors to include their [ORCIDs](https://www.springer.com/g
 
 ## **Review process**
 
-Although there will not be a rebuttal phase, after receiving the reviews of their manuscript, authors are encouraged to incorporate as many reviewers' suggestions/comments as possible. Acceptance will be decided based on the **revised papers that can be up to 12 pages including references**.
+Although there will not be a rebuttal phase, after receiving the reviews of their manuscript, authors are encouraged to incorporate as many reviewers' suggestions/comments as possible. <!--- Acceptance will be decided based on the  --> **Final papers can be up to 12 pages including references**.
 
 ## **For accepted papers only**
 
