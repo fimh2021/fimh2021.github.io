@@ -24,8 +24,9 @@ Dr. Rodriguez's website is available <a href="https://www.cs.ox.ac.uk/people/bla
 
 Steffen Petersen, M.D. is a Professor of Cardiovascular Medicine at the William Harvey Research Institute, Queen Mary University of London and a Consultant Cardiologist and Clinical Director for Research at Barts Heart Centre, Barts Health NHS Trust. He is also the Cardiovascular Programme Director for the UCL Partners Academic Medical Centre. He is a world-leader in Cardiac MRI, author of several clinical guideline papers, and the UK Biobank cardiac imaging lead. The UK Biobank study is well underway and seeks to perform 100,000 CMR exams while also collecting substantial clinical data for deep phenotyping.  
 
-Dr. Petersen's website is available </font> <a href="https://www.qmul.ac.uk/whri/people/academic-staff/items/petersensteffen.html">here</a>
+Dr. Petersen's website is available <a href="https://www.qmul.ac.uk/whri/people/academic-staff/items/petersensteffen.html">here</a>.
 
+</font> 
 
 
 
@@ -37,7 +38,7 @@ Dr. Petersen's website is available </font> <a href="https://www.qmul.ac.uk/whri
 
 Joseph Woo, M.D. is a Professor and Chair of the Department of Cardiothoracic Surgery at the Stanford University School of Medicine. As an NIH funded investigator his laboratory explores the biomechanics optimization of cardiac valve repair operations and angiogenic bioengineering systems to optimize post-infarction remodeling. With over three hundred journal articles he is both highly productive and widely known for his contributions to clinical surgery, cardiovascular, device development, and basic science research.
 
-Dr. Woo's website is available here: [https://profiles.stanford.edu/joseph-woo]
+Dr. Woo's website is available here: <a href="https://profiles.stanford.edu/joseph-woo">here</a>.
 
 </font>
 
