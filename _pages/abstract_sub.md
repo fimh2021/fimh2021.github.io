@@ -26,9 +26,13 @@ Springer encourages authors to include their [ORCIDs](https://www.springer.com/g
 <!--- Authors can download relevant templates and partially completed "Consent-to-Publish form" at the following links: [Latex template](ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip), [Word template](https://nam02.safelinks.protection.outlook.com/?url=ftp%3A%2F%2Fftp.springernature.com%2Fcs-proceeding%2Fllncs%2Fword%2Fsplnproc1703.zip&data=02%7C01%7Cluigi.perotti%40ucf.edu%7C65166400d3ed45a267ba08d8174ba597%7Cbb932f15ef3842ba91fcf3c59d5dd1f1%7C0%7C1%7C637284961291000247&sdata=vMKykRz85b5vr%2BZPfuf6%2FP%2BLiQNpCZAVdFpQDA9HfYY%3D&reserved=0), and partially completed <a href="../../assets/Contract_Book_Contributor_Consent_to_Publish_LNCS_SIP.pdf" download="Contract_Book_Contributor_Consent_to_Publish_LNCS_SIP.pdf">Consent-to-Publish form</a>.
  -->
 
-<ins>**Review process -**</ins> Although there will not be a rebuttal phase, after receiving the reviews of their manuscript, authors are encouraged to incorporate as many suggestions/changes as possible based on the reviewers' comments. Acceptance will be decided based on the **revised papers that can be up to 12 pages long including references**.
+## **Review process**
 
-<ins>**For accepted papers only-**</ins> During the final upload phase, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a <a href="../../assets/Contract_Book_Contributor_Consent_to_Publish_LNCS_SIP.pdf" download="Contract_Book_Contributor_Consent_to_Publish_LNCS_SIP.pdf">Consent-to-Publish form</a>. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Springer does not accept digital signatures on the Consent-to-Publish form at present. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
+Although there will not be a rebuttal phase, after receiving the reviews of their manuscript, authors are encouraged to incorporate as many reviewers' suggestions/comments as possible. Acceptance will be decided based on the **revised papers that can be up to 12 pages including references**.
+
+## ** For accepted papers only**
+
+During the final upload phase, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a <a href="../../assets/Contract_Book_Contributor_Consent_to_Publish_LNCS_SIP.pdf" download="Contract_Book_Contributor_Consent_to_Publish_LNCS_SIP.pdf">Consent-to-Publish form</a>. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Springer does not accept digital signatures on the Consent-to-Publish form at present. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
 
 ## **Additional information**
 
