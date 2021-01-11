@@ -30,7 +30,7 @@ Springer encourages authors to include their [ORCIDs](https://www.springer.com/g
 
 Although there will not be a rebuttal phase, after receiving the reviews of their manuscript, authors are encouraged to incorporate as many reviewers' suggestions/comments as possible. Acceptance will be decided based on the **revised papers that can be up to 12 pages including references**.
 
-## ** For accepted papers only**
+## **For accepted papers only**
 
 During the final upload phase, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a <a href="../../assets/Contract_Book_Contributor_Consent_to_Publish_LNCS_SIP.pdf" download="Contract_Book_Contributor_Consent_to_Publish_LNCS_SIP.pdf">Consent-to-Publish form</a>. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Springer does not accept digital signatures on the Consent-to-Publish form at present. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
 
