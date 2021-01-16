@@ -55,4 +55,9 @@ title: "Committees"
 - **Xiahai Zhuang** – Fudan University, Shanghai, China
 
 ### FIMH-2021 Trainee Committee
-- Coming soon...
+- **Seraina Dual** – Stanford University, Stanford, CA, USA
+- **Alexander Kaiser** – Stanford University, Stanford, CA, USA
+- **Mathias Peirlinck** – Stanford University, Stanford, CA, USA
+- **Alexander Wilson** – Stanford University, Stanford, CA, USA
+
+
