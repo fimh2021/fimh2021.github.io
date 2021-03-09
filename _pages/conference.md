@@ -8,7 +8,7 @@ title: "FIMH Conference"
 	<meta charset="UTF-8">
 	<link rel="stylesheet" type="text/css" href="conf-styles.css">
 </head>
-<body id="all-content" style="margin-right: 25%;">
+<body id="all-content">
 <div class="content">
 	<div class="header">
 		<a href="" target="_blank"> <img class="site-logo" src="" alt="FIMH Logo" /></a>
