@@ -30,6 +30,8 @@ sidebar-main:
       #  url: /events/
       #- title: "Travel"
       #  url: /travel/
+      #- title: "FIMH Conference"
+      #  url: /conference/
       - title: "Committees"
         url: /committees/
       - title: "Sponsors"
