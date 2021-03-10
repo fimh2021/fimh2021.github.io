@@ -9,9 +9,18 @@ title: "FIMH Conference"
 	<link rel="stylesheet" type="text/css" href="conf-styles.css">
 </head>
 <body id="all-content">
-<div class="content">
-	<div class="header">
-		<a href="" target="_blank"> <img class="site-logo" src="" alt="FIMH Logo" /></a>
-	</div>
+<div class="content" markdown="1">
 <!-- end header -->
   <button id="open_button" onclick="open_convo()">&laquo; Open Conversation</button>
+  <div class="video" markdown="1">
+	  <iframe src="https://www.youtube.com/watch?v=qvUWA45GOMg&ab_channel=GEMNChillOut%26LofiMusic" style="min-height: calc(90vh - 254px);" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen> </iframe>
+	  <br/><br/>
+  </div>
+  <p style="text-align: center;">Please ask your questions using the chat box to the right of the videoor at <a href="http://www.slido.com" target="_blank"> slido.com</a> using the event code #CODE</p>
+     <div class="slido wrap-collapsible" id="slido-panel" markdown="1">
+	     <button id="close-button" onclick="close_convo()">&raquo; Close Conversation</button>
+	     <div class="content-inner"><p><iframe scr="" style="min-height: calc(100vh - 85px);" height"100%" width="100%" style="min-height: 560px;" title="Chat window"></iframe></p>
+     </div>
+  </div>
+</div>
+<!-- end content -->
