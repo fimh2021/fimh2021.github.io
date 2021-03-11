@@ -13,7 +13,7 @@ title: "FIMH Conference"
 <!-- end header -->
   <button id="open_button" onclick="open_convo()">&laquo; Open Conversation</button>
  <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=qvUWA45GOMg&ab_channel=GEMNChillOut%26LofiMusic" style="min-height: calc(90vh - 254px);" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen> </iframe>
+  <iframe src="https://youtu.be/qvUWA45GOMg" style="min-height: calc(90vh - 254px);" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen> </iframe>
   <br/><br/>
  </figure>
   <p style="text-align: center;">Please ask your questions using the chat box to the right of the videoor at <a href="http://www.slido.com" target="_blank"> slido.com</a> using the event code #CODE</p>
