@@ -2,12 +2,8 @@
 permalink: /conference/
 title: "FIMH Conference"
 ---
+<link rel="stylesheet" type="text/css" media="all" href="conf-styles.css" />
 
-<head>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta charset="UTF-8">
-	<link rel="stylesheet" type="text/css" href="conf-styles.css">
-</head>
 <body id="all-content">
 <div class="content" markdown="1">
 <!-- end header -->
@@ -17,9 +13,9 @@ title: "FIMH Conference"
   <br/><br/>
  </figure>
   <p style="text-align: center;">Please ask your questions using the chat box to the right of the videoor at <a href="http://www.slido.com" target="_blank"> slido.com</a> using the event code #CODE</p>
-     <div class="slido wrap-collapsible" id="slido-panel" markdown="1">
-	     <button id="close-button" onclick="close_convo()">&raquo; Close Conversation</button>
-	     <div class="content-inner"><p><iframe scr="https://app.sli.do/event/h0z3zaz5" style="min-height: calc(100vh - 85px);" height"100%" width="100%" style="min-height: 560px;" title="Chat window"></iframe></p>
+   <div class="slido wrap-collapsible" id="slido-panel" markdown="1">
+     <button id="close-button" onclick="close_convo()">&raquo; Close Conversation</button>
+     <div class="content-inner"><p><iframe scr="https://app.sli.do/event/h0z3zaz5" style="min-height: calc(100vh - 85px);" height"100%" width="100%" style="min-height: 560px;" title="Chat window"></iframe></p>
      </div>
   </div>
 </div>
