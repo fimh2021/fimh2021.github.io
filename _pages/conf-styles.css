@@ -1,0 +1,75 @@
+.video {
+    background-color: #333333;
+    text-align: center;
+    min-height: calc(100vh - 520px - 12%);
+    vertical-align: middle;
+    padding: 1%;
+}
+
+.slido {
+  position: absolute; 
+  right: 0; 
+  width: 25%; 
+  top: 0; 
+  min-height: 100vh; 
+  background-color: #ececec; 
+  border-left: 1px solid #cecece; 
+  padding-bottom: 11%; 
+}
+
+.slido p {
+  padding: 0px; 
+  margin: 0px;
+}
+
+@media only screen and (max-width: 975px){
+  .video {padding: 0px;}
+  .slido {width: 100%; position: relative; float: left;}
+  body {margin-right: 0px !important;}
+}
+@media only screen and (max-width: 735px){
+  .iframe1 {width: 100%;}
+  }
+
+#open_button{
+  display:none;
+  float: right;
+  font-family: monospace;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  padding: 10px;
+}
+
+#close-button{
+  width: 100%;
+  font-family: monospace;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  padding: 10px;
+  display: block;
+}
+
+button {
+    -webkit-appearance: button;
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: #333;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    background-color: #ccc;
+    box-sizing: border-box;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 6px;
+    border-width: 0px;
+    border-style: outset;
+    border-color: #ccc;
+    border-image: initial;
+}
