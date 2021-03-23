@@ -2,7 +2,7 @@
 permalink: /conference/
 title: "FIMH Conference"
 ---
-<link rel="stylesheet" type="text/css" media="all" href="conf-styles.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/_pages/conf-styles.css" />
 
 <body id="all-content">
 <div class="content" markdown="1">
