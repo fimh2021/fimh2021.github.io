@@ -23,7 +23,7 @@ title: "FIMH Conference"
 <script>
     function close_convo() {
 	document.getElementById("all-content").style.marginRight = "0%";
-	document.getElementById("slido-panel).style.display = "none";
+	document.getElementById("slido-panel").style.display = "none";
 	document.getElementById("open_button").style.display = "block";
     }
 	
