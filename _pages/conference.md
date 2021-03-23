@@ -30,6 +30,6 @@ title: "FIMH Conference"
     function open_convo() {
 	document.getElementById("all-content").style.marginRight = "25%";
 	document.getElementById("slido-panel").style.display = "block";
-	document.getElementById("open_button").style.display. = "none";
+	document.getElementById("open_button").style.display = "none";
     }
 </script>
