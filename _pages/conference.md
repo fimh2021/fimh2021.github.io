@@ -15,7 +15,7 @@ title: "FIMH Conference"
   <p style="text-align: center;">Please ask your questions using the chat box to the right of the videoor at <a href="http://www.slido.com" target="_blank"> slido.com</a> using the event code #CODE</p>
    <div class="slido wrap-collapsible" id="slido-panel" markdown="1">
    <button id="close-button" onclick="close_convo()">&raquo; Close Conversation</button>
-   <figure class="content-inner"><p><iframe scr="https://app.sli.do/event/h0z3zaz5" style="min-height: calc(100vh - 85px);" height"100%" width="100%" style="min-height: 560px;" title="Chat window"></iframe></p>
+   <figure class="content-inner"><iframe scr="https://app.sli.do/event/h0z3zaz5" style="min-height: calc(100vh - 85px);" height"100%" width="100%" style="min-height: 560px;" title="Chat window"></iframe>
    </figure>
   </div>
 </div>
