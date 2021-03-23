@@ -20,18 +20,16 @@ title: "FIMH Conference"
   </div>
 </div>
 <!-- end content -->
-	
-<!--start script -->
-```javascript
-function close_convo() {
+
+    function close_convo() {
 	document.getElementById("all-content").style.marginRight = "0%";
 	document.getElementById("slido-panel).style.display = "none";
 	document.getElementById("open_button").style.display = "block";
-}
+    }
 	
-function open_convo() {
+    function open_convo() {
 	document.getElementById("all-content").style.marginRight = "25%";
 	document.getElementById("slido-panel").style.display = "block";
 	document.getElementById("open_button").style.display. = "none";
-}
-```
+    }
+
