@@ -20,7 +20,7 @@ title: "FIMH Conference"
   </div>
 </div>
 <!-- end content -->
-
+<script>
     function close_convo() {
 	document.getElementById("all-content").style.marginRight = "0%";
 	document.getElementById("slido-panel).style.display = "none";
@@ -32,4 +32,4 @@ title: "FIMH Conference"
 	document.getElementById("slido-panel").style.display = "block";
 	document.getElementById("open_button").style.display. = "none";
     }
-
+</script>
