@@ -76,10 +76,10 @@ button {
 
 @media (min-width: 80em)
 .page {
-    padding-right: 0px;
+    padding-right: 0px !important;
 }
 
 @media (min-width: 64em)
 .page {
-    padding-right: 0px;
+    padding-right: 0px !important;
 }
