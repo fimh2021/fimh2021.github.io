@@ -73,3 +73,13 @@ button {
     border-color: #ccc;
     border-image: initial;
 }
+
+@media (min-width: 80em)
+.page {
+    padding-right: 0px;
+}
+
+@media (min-width: 64em)
+.page {
+    padding-right: 0px;
+}
