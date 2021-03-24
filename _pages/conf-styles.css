@@ -21,6 +21,10 @@
   margin: 0px;
 }
 
+figure .content-inner{
+    margin-top: 0px;
+}
+
 @media only screen and (max-width: 975px){
   .video {
       padding: 0px;
