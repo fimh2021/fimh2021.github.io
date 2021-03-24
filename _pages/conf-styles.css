@@ -8,7 +8,7 @@
 
 .slido {
   position: absolute; 
-  right: 0; 
+  right: -160px;
   width: 25%; 
   top: 0; 
   min-height: 100vh; 
@@ -23,13 +23,23 @@
 }
 
 @media only screen and (max-width: 975px){
-  .video {padding: 0px;}
-  .slido {width: 100%; position: relative; float: left;}
-  body {margin-right: 0px !important;}
+  .video {
+      padding: 0px;
+  }
+  .slido {
+      width: 100%; 
+      position: relative; 
+      float: left;
+  }
+  body {
+      margin-right: 0px !important;
+  }
 }
 @media only screen and (max-width: 735px){
-  .iframe1 {width: 100%;}
+  .iframe1 {
+      width: 100%;
   }
+}
 
 #open_button{
   display:none;
