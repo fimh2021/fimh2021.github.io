@@ -46,7 +46,8 @@ figure .content-inner{
 
 #open_button{
   display:none;
-  float: right;
+  margin-right: 0px;
+  margin-left: auto;
   font-family: monospace;
   font-size: 18px;
   text-transform: uppercase;
