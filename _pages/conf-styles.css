@@ -1,9 +1,7 @@
 .video {
-    background-color: #333333;
     text-align: center;
     min-height: calc(100vh - 520px - 12%);
     vertical-align: middle;
-    padding: 1%;
 }
 
 .slido {
