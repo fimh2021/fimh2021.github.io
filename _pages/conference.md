@@ -24,6 +24,7 @@ title: "FIMH Conference"
     function close_convo() {
 	document.getElementById("slido-panel").style.display = "none";
 	document.getElementById("open_button").style.display = "block";
+	document.getElementByIt("video").style.width = "800px";
     }
 	
     function open_convo() {
