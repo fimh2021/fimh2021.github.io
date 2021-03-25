@@ -31,6 +31,6 @@ title: "FIMH Conference"
 	document.getElementById("all-content").style.marginRight = "25%";
 	document.getElementById("slido-panel").style.display = "block";
 	document.getElementById("open_button").style.display = "none";
-	document.getElementById("main").style.margin-left = "200px";
+	document.getElementById("main").style.marginLeft = "200px";
     }
 </script>
