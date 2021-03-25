@@ -3,7 +3,7 @@ permalink: /program/
 title: "Program"
 ---
 
-Due to the ongoing pandemic, we are considering either a fully virtual event or a hybrid event with an in-person option. Please stay tuned for more information. Preliminary details are as follows:
+Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Please stay tuned for more information. Preliminary details are as follows:
 
 **Monday, June 21** -- [SimVascular](http://www.simvascular.org) Workshop and New User Training
 
