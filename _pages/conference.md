@@ -9,7 +9,7 @@ title: "FIMH Conference"
 <!-- end header -->
   <button id="open_button" onclick="open_convo()">&laquo; Open Conversation</button>
  <figure class="video">
-  <iframe src="https://youtu.be/qvUWA45GOMg" style="min-height: calc(90vh - 254px);" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen = "true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/KSRM3tPhMVQ" style="min-height: calc(90vh - 254px);" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen = "true"> </iframe>
   <br/><br/>
  </figure>
   <p style="text-align: center;">Please ask your questions using the chat box to the right of the video or at <a href="http://www.slido.com" target="_blank"> slido.com</a> using the event code #CODE</p>
@@ -22,13 +22,11 @@ title: "FIMH Conference"
 <!-- end content -->
 <script>
     function close_convo() {
-	document.getElementById("all-content").style.marginRight = "0%";
 	document.getElementById("slido-panel").style.display = "none";
 	document.getElementById("open_button").style.display = "block";
     }
 	
     function open_convo() {
-	document.getElementById("all-content").style.marginRight = "25%";
 	document.getElementById("slido-panel").style.display = "block";
 	document.getElementById("open_button").style.display = "none";
 	document.getElementById("main").style.marginLeft = "200px";
