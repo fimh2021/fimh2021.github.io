@@ -8,7 +8,7 @@ FIMH-2021 will host a Cardiac Kinematics Benchmark study which aims to establish
 We want to emphasize that this benchmark is not meant as a challenge but simply as a platform for discussion and comparison to improve the calculation of cardiac strains and improve our confidence to distinguish between cardiac health and disease based on this biomarker.
 
 More details about the benchmark and instructions on how to participate are provided in the following pdf file:
-<a href="../../assets/FIMH2021_Benchmark_v1.pdf" download="FIMH2021_Benchmark_v1">BenchmarkInstructions_v1</a>. 
+<a href="../../assets/FIMH2021_Benchmark_v1-1.pdf" download="FIMH2021_Benchmark_v1.1">BenchmarkInstructions_v1.1</a>. 
 
 Please check back frequently for updates and subscribe to our mailing list (see below).
 
