@@ -8,7 +8,7 @@
   position: absolute; 
   right: -320px;
   width: 50%; 
-  top: 23px; 
+  top: 29px; 
   min-height: 100vh; 
   background-color: #fff;  
   padding-bottom: 11%; 
@@ -21,6 +21,10 @@
 
 figure .content-inner{
     margin-top: 0px;
+}
+
+.content {
+    width: 800px;
 }
 
 @media only screen and (max-width: 975px){
