@@ -34,5 +34,9 @@ title: "FIMH Conference"
 	document.getElementById("slido-panel").style.display = "block";
 	document.getElementById("open_button").style.display = "none";
 	document.getElementById("main").style.marginLeft = "200px";
+	var videoElements = document.getElementsByClassName("video");
+		for (var i = 0; i < videoElements.length; i++) {
+			videoElements[i].style.width = "635px";
+		}
     }
 </script>
