@@ -51,7 +51,7 @@ Organizers:
 * Jess Tate, University of Utah
 * Sumientra Rampersad, Northeastern University
 
-<img src="/assets/images/uncertainSCI.png" width="200px" />
+<img src="/assets/images/uncertainSCI.png" width="400px" />
 
 [UncertainSCI](https://www.sci.utah.edu/cibc-software/uncertainsci.html) is a Python-based toolkit that harnesses modern techniques to estimate model and parametric uncertainty, with a particular emphasis on needs for biomedical simulations and applications. This toolkit enables non-intrusive integration of these techniques with well-established biomedical simulation software.
 
