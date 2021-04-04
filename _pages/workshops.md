@@ -3,7 +3,7 @@ permalink: /workshops/
 title: "Workshops"
 ---
 
-FIMH-2021 will host both a [SimVascular](http://www.simvascular.org) and [Cardiac Atlas Project](https://www.cardiacatlas.org) pre-conference workshops on June 21, 2021. Note, the main conference will start in June 22, 2021. More information about the workshops is forthcoming.
+FIMH-2021 will host two pre-conference workshops on June 21, 2021, [SimVascular](http://www.simvascular.org) and [Cardiac Atlas Project](https://www.cardiacatlas.org), and one post-conference workshops on June 25, 2021 [UncertainSCI](https://www.sci.utah.edu/uqworkshop-2021.html). Note, the main conference will start in June 22, 2021. More information about the workshops is forthcoming.
 
 -----------------------------
 **[SimVascular](http://www.simvascular.org) Workshop and New User Training (June 21)**
@@ -40,3 +40,19 @@ This workshop will highlight recent advances in statistical atlases and modellin
 <img src="/assets/images/CAP_Fig.png" width="400px" />
 
 Image Courtesy of Anna Mira.
+
+
+-----------------------------
+**[UncertainSCI](https://www.sci.utah.edu/uqworkshop-2021.html) Uncertainty Quantification Workshop (June 25)**
+
+Organizers:       
+* Rob MacLeod, University of Utah
+* Akil Narayan, University of Utah
+* Jess Tate, University of Utah
+* Sumientra Rampersad, Northeastern University
+
+<img src="/assets/images/uncertainSCI.png" width="200px" />
+
+[UncertainSCI](https://www.sci.utah.edu/cibc-software/uncertainsci.html) is a Python-based toolkit that harnesses modern techniques to estimate model and parametric uncertainty, with a particular emphasis on needs for biomedical simulations and applications. This toolkit enables non-intrusive integration of these techniques with well-established biomedical simulation software.
+
+For the workshop schedule and more information, please visit the workshop homepage [here](https://www.sci.utah.edu/uqworkshop-2021.html)
