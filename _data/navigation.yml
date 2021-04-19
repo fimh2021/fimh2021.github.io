@@ -26,6 +26,10 @@ sidebar-main:
         url: /workshops/
       - title: "Benchmark"
         url: /benchmark/
+      - title: "MIS-C Special Theme Session"
+        url: /misc/
+      - title: "Meet the experts"
+        url: /meetexperts/
       #- title: "Events"
       #  url: /events/
       #- title: "Travel"
