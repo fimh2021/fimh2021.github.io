@@ -18,7 +18,7 @@ Organizers:
 * Radomir Chabiniok, UT Southwestern Medical Center Dallas
 * Tarique Hussain, UT Southwestern Medical Center Dallas
 
-<img src="/assets/images/MISClogo.png" width="200px" />
+<img src="/assets/images/MISClogo.png" width="400px" />
   
 
 
