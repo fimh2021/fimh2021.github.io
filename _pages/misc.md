@@ -18,6 +18,6 @@ Organizers:
 * Radomir Chabiniok, UT Southwestern Medical Center Dallas
 * Tarique Hussain, UT Southwestern Medical Center Dallas
 
-<img src="/assets/images/UTSW_logo" width="200px" />
-<img src="/assets/images/childrens_logo" width="200px" />
+<img src="/assets/images/UTSW_logo.png" width="200px" />
+<img src="/assets/images/childrens_logo.png" width="200px" />
 
