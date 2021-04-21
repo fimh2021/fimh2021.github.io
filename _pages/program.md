@@ -13,4 +13,4 @@ Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Please stay tuned 
 
 **Friday, June 25** -- [UncertainSCI](https://www.sci.utah.edu/uqworkshop-2021.html) Uncertainty Quantification Workshop
 
-<img src="/assets/images/FIMH2021_Schedule_v0.png" width="500px" />
+<img src="/assets/images/FIMH2021_Schedule_v0.png" width="700px" />
