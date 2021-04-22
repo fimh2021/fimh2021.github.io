@@ -46,7 +46,7 @@ title: "Committees"
 - **Vijay Rajagopal** – University of Melbourne, Melbourne, VIC, Australia
 - **Frank Sachse** – University of Utah, Salt Lake City, UT, USA
 - **Michael Sacks** – University of Texas at Austin, Austin, TX, USA
-- **Francisco Sahli** – Pontificia Universidad Católica de Chile, Santiago, Chile
+- **Francisco Sahli Costabal** – Pontificia Universidad Católica de Chile, Santiago, Chile
 - **Andrew Scott** – Royal Brompton & Harefield NHS Foundation, London, UK
 - **Maxime Sermesant** – INRIA, Sophia Antipolis, France
 - **Shawn Shadden** – University of California, Berkeley, CA, USA
