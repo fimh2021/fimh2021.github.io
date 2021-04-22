@@ -1,6 +1,6 @@
 ---
 permalink: /meetexperts/
-title: "Meet the experts"
+title: "Meet the Expert"
 ---
 The 2021 FIMH Trainee Committee is excited to invite all interested fellow trainees to join us for our “Meet the Expert” sessions.
 
