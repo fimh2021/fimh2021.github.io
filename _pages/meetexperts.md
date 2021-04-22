@@ -5,7 +5,7 @@ title: "Meet the experts"
 
 
 -----------------------------
-**Meet the experts session 1 (US & Pacific) (June 22 - 12:00 pm to 12:45 pm PDT)**
+**Session 1 (US & Pacific) (June 22 - 12:00 pm to 12:45 pm PDT)**
 
 <img src="https://i1.rgstatic.net/ii/profile.image/279228231766021-1443584606690_Q128/Teodora-Chitiboi.jpg" width="200px" />
 
@@ -29,7 +29,7 @@ title: "Meet the experts"
 <br />
 
 -----------------------------
-**Meet the experts session 2 (UK & Europe) (June 23 - 07:00 am to 07:45 am PDT)**
+**Session 2 (UK & Europe) (June 23 - 07:00 am to 07:45 am PDT)**
 
 <img src="https://eng.ox.ac.uk/media/1490/alsion-noble-2.jpg?center=0.5,0.5714285714285714&mode=crop&width=250&height=250&rnd=132454329310000000" width="200px" />
 
