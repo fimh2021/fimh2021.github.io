@@ -15,9 +15,9 @@ We are looking to create a relaxed environment where trainees and the expert wil
 *[Teodora Chitiboi (Siemens Healthineers)](https://scholar.google.com/citations?user=A5V06EIAAAAJ&hl=en)*
 
 <br />
-<img src="https://profiles.stanford.edu/proxy/api/cap/profiles/9528/resources/profilephoto/350x350.1558580500549.jpg" width="200px" />
+<img src="https://profiles.stanford.edu/proxy/api/cap/profiles/67644/resources/profilephoto/350x350.1509496354776.jpg" width="200px" />
 
-*[Ellen Kuhl (Stanford University, Professor of Mechanical Engineering and Bioengineering)](https://profiles.stanford.edu/ellen-kuhl)*
+*[Alison Marsden (Stanford University, Professor of Pediatrics (Cardiology) and of Bioengineering)](https://profiles.stanford.edu/alison-marsden)*
 
 <br />
 <img src="https://unidirectory.auckland.ac.nz/people/imageraw/martyn-nash/10307038/biggest" width="200px" />
