@@ -16,6 +16,12 @@ title: "Committees"
 - **Vicky Wang** – Stanford University, Stanford, CA, USA
 - **Contact us for most questions about FIMH-2021.**
 
+### FIMH-2021 Trainee Committee
+- **Seraina Dual** – Stanford University, Stanford, CA, USA
+- **Alexander Kaiser** – Stanford University, Stanford, CA, USA
+- **Mathias Peirlinck** – Stanford University, Stanford, CA, USA
+- **Alexander Wilson** – Stanford University, Stanford, CA, USA
+
 ### FIMH-2021 Program Committee
 - **Daniel Balzani** – Ruhr-Universität Bochum, Bochum, Germany
 - **Peter Bovendeerd** – Eindhoven University of Technology, Eindhoven, Netherlands
@@ -53,11 +59,3 @@ title: "Committees"
 - **Guang Yang** – Imperial College London, London, UK
 - **Nejib Zemzemi** – INRIA, Bordeaux, France
 - **Xiahai Zhuang** – Fudan University, Shanghai, China
-
-### FIMH-2021 Trainee Committee
-- **Seraina Dual** – Stanford University, Stanford, CA, USA
-- **Alexander Kaiser** – Stanford University, Stanford, CA, USA
-- **Mathias Peirlinck** – Stanford University, Stanford, CA, USA
-- **Alexander Wilson** – Stanford University, Stanford, CA, USA
-
-
