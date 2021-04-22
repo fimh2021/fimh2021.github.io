@@ -3,6 +3,9 @@ permalink: /meetexperts/
 title: "Meet the experts"
 ---
 
+The “Meet the expert” sessions provide an informal setting for trainees to interact with more experienced scientists (see below).
+We are looking to create a relaxed environment where trainees and the expert will discuss career advice, approaches to research, or creative solutions to work-life balance. We have organized two sessions to accommodate different time zones. 
+**Interested trainees can sign up during registration.**
 
 -----------------------------
 **Session 1 (US & Pacific) (June 22 - 12:00 pm to 12:45 pm PDT)**
