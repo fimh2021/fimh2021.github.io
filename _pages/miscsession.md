@@ -1,9 +1,9 @@
 ---
 permalink: /miscsession/
-title: "MIS-C special theme session"
+title: "Multisystem Inflammatory Syndrome in Children (MIS-C) "
 ---
 
-**June 24 - 7 am to 8:30 am PDT**
+**June 24 - 07:00 am to 08:30 am PDT**
 
 Multisystem Inflammatory Syndrome in Children (MIS-C, PIMS-TS), is a rare but serious condition associated with the coronavirus SARS-Cov-2 appearing in children typically of the age 4-18 years. It is caused by a delayed aberrant reaction of the immune system to the coronavirus. It affects various organs and organ systems, of which the cardiovascular system is the most common (80% of patients). 80% of MIS-C patients end at Intensive Care Unit (ICU) hospitalization (cardiovascular shock and heart failure). 
  

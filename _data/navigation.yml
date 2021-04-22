@@ -1,3 +1,5 @@
+#<img src="/assets/images/FIMH_logo_20years.jpg" width="200px" />
+
 # main links
 main:
   - title: "Home"
@@ -24,11 +26,11 @@ sidebar-main:
         url: /keynote/
       - title: "Workshops"
         url: /workshops/
-      - title: "Benchmark"
+      - title: "Special Theme Session I: Cardiac Kinematics Benchmark"
         url: /benchmark/
-      - title: "MIS-C Special Session"
+      - title: "Special Theme Session II: MIS-C"
         url: /miscsession/
-      - title: "Meet the experts"
+      - title: "Trainee Event: Meet the experts"
         url: /meetexperts/
       #- title: "Events"
       #  url: /events/
