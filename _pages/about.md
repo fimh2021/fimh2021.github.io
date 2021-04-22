@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 ---
-<img align="left" src="/assets/images/FIMH_logo_20years_resize.jpg" width="100" />
+<img src="/assets/images/FIMH_logo_20years.jpg" width="200" />
 
 <center><b>Welcome to the FIMH-2021, the 11th biennial meeting on Functional Imaging and Modeling of the Heart. FIMH-2021 will be held from June 21-25, 2021 as a fully virtual event.</b></center>
 
