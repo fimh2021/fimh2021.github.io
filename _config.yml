@@ -280,8 +280,8 @@ defaults:
       related: true
       sidebar:
         - title: " "
-          image: /assets/images/FIMH_logo_20years.png
-          #image: /assets/images/FIMH-2021_Logo_150dpi.png
+          #image: /assets/images/FIMH_logo_20years.png
+          image: /assets/images/FIMH-2021_Logo_150dpi.png
         - nav: sidebar-main
   # _pages
   - scope:
