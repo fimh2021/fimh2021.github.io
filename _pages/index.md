@@ -10,12 +10,16 @@ author_profile: false
   
 #title: "FIMH-2021"
 
-title: "Welcome to FIMH-2021 – the 11th biennial meeting on Functional Imaging and Modeling of the Heart. FIMH-2021 will be held from June 21-25, 2021 as a fully virtual event."
+title: "Welcome to FIMH-2021" 
 ---
+ 
+<p align="center">
+  
+**The 11th biennial meeting on Functional Imaging and Modeling of the Heart.**
 
-#<p align="center">
+**FIMH-2021 will be held from June 21-25, 2021 as a fully virtual event.**
 
-#</p> 
+</p>
 
 <img align="left" src="/assets/images/FIMH_Map_Home.jpg" width="500" />
 
