@@ -2,8 +2,7 @@
 permalink: /meetexperts/
 title: "Meet the experts"
 ---
-
-The Trainee Committee is excited to invite all intersted fellow trainees to join us for out “Meet the Expert” sessions.
+The 2021 FIMH Trainee Committee is excited to invite all interested fellow trainees to join us for our “Meet the Expert” sessions.
 
 In these sessions, we aim to provide an informal setting where trainees can interact with more experienced scientists within the field (see below).
 The goal is to create a relaxed environment where career advice, approaches to research, creative solutions to work-life balance, ... will be discussed.
