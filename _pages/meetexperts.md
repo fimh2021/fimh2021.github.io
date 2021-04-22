@@ -10,7 +10,7 @@ We like to motivate all participating trainees to come up with interesting quest
 
 We organize two sessions to accommodate different time zones. 
 
-**Interested trainees can sign up during registration.** Please 
+**Interested trainees can sign up during registration.** 
 
 -----------------------------
 **Session 1 (US & Pacific)**
