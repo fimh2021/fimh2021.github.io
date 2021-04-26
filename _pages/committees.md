@@ -10,7 +10,7 @@ title: "Committees"
 - **Katie Pontius** - Stanford University, Stanford, CA, USA
 - **Ashley Williams** - Stanford University, Stanford, CA, USA
 - **Jaqueline Velazquez** - Stanford University, Stanford, CA, USA
-- **Contact us for most questions about FIMH-2021.**
+- **Contact us @ fimh-conference-chairs@lists.stanford.edu for most questions about FIMH-2021.**
 
 ### FIMH-2021 Trainee Committee
 - **Seraina Dual** – Stanford University, Stanford, CA, USA
