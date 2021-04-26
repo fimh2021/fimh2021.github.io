@@ -3,17 +3,13 @@ permalink: /committees/
 title: "Committees"
 ---
 
-### FIMH Board Members
-- **Alistair Young** – King's College London, London, UK
-- **Mihaela Pop** – University of Toronto, Toronto, Ontario, Canada
-- **Patrick Clarysse** – CREATIS, Lyon, France
-- **Martyn Nash** – University of Auckland, Auckland, New Zealand
-- **Leon Axel** – New York University, New York, NY, USA
-
 ### FIMH-2021 Local Organizing Committee
 - **Daniel Ennis** – Stanford University, Stanford, CA, USA
 - **Luigi Perotti** – University of Central Florida, Orlando, FL, USA
 - **Vicky Wang** – Stanford University, Stanford, CA, USA
+- **Katie Pontius** - Stanford University, Stanford, CA, USA
+- **Ashley Williams** - Stanford University, Stanford, CA, USA
+- **Jaqueline Velazquez** - Stanford University, Stanford, CA, USA
 - **Contact us for most questions about FIMH-2021.**
 
 ### FIMH-2021 Trainee Committee
@@ -59,3 +55,11 @@ title: "Committees"
 - **Guang Yang** – Imperial College London, London, UK
 - **Nejib Zemzemi** – INRIA, Bordeaux, France
 - **Xiahai Zhuang** – Fudan University, Shanghai, China
+
+
+### FIMH Board Members
+- **Alistair Young**    –   King's College London, London, UK
+- **Mihaela Pop**       –   University of Toronto, Toronto, Ontario, Canada
+- **Patrick Clarysse**  –   CREATIS, Lyon, France
+- **Martyn Nash**       –   University of Auckland, Auckland, New Zealand
+- **Leon Axel**         –   New York University, New York, NY, USA
