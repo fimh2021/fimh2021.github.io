@@ -9,3 +9,10 @@ The accepted proceedings will be published in Lecture Notes in Computer Science 
 
 Scientists and clinicians with an interest in advanced methods to study and evaluate cardiac structure (cell to whole organ), function (regional to global), flow (measured and simulated), electrical activity, and remodeling are all welcome to attend.
 
+
+### FIMH Board Members
+- **Alistair Young**    –   King's College London, London, UK
+- **Mihaela Pop**       –   University of Toronto, Toronto, Ontario, Canada
+- **Patrick Clarysse**  –   CREATIS, Lyon, France
+- **Martyn Nash**       –   University of Auckland, Auckland, New Zealand
+- **Leon Axel**         –   New York University, New York, NY, USA
