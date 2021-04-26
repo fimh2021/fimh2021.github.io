@@ -31,6 +31,16 @@ Very best,
 
 Dan, Luigi, and Vicky
 
+### FIMH-2021 Local Organizing Committee
+- **Daniel Ennis** – Stanford University, Stanford, CA, USA
+- **Luigi Perotti** – University of Central Florida, Orlando, FL, USA
+- **Vicky Wang** – Stanford University, Stanford, CA, USA
+- **Katie Pontius** - Stanford University, Stanford, CA, USA
+- **Ashley Williams** - Stanford University, Stanford, CA, USA
+- **Jaqueline Velazquez** - Stanford University, Stanford, CA, USA
+
+**Contact us at fimh-conference-chairs@lists.stanford.edu for questions about FIMH-2021.**
+
 <!---
 Add line breaks to space out the blog posts a little more
 Now that the intro is longer dont do this
