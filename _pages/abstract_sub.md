@@ -9,7 +9,7 @@ The manuscript submission system can be accessed at [https://ocs.springer.com/oc
 
 Please read the information reported below before starting the submission of your manuscript.
 
-Please also refer to the Editorial policies available here: [https://www.springer.com/gp/editorial-policies](https://www.springer.com/gp/editorial-policies).
+Please also refer to the Editorial Policies available here: [https://www.springer.com/gp/editorial-policies](https://www.springer.com/gp/editorial-policies).
 
 The manuscript submission deadline has been extended to **Friday February 19, 2021 at 11:59pm PST**.
 
