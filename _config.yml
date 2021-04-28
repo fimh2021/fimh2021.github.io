@@ -68,7 +68,7 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
-title-img                : "/assets/images/MICCAI_logo.jpg"
+navbar-img               : "/assets/img/MICCAI_logo.jpg"
 
 # Social Sharing
 twitter:
