@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "default" ,"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "FIMH2021"
   avatar           : "/assets/images/heart.png"
-  bio              : "12th International Conference on Functional Imaging and Modeling of the Heart"
+  bio              : "11th International Conference on Functional Imaging and Modeling of the Heart"
   location         : "Stanford, CA USA"
   email            :
   links:
