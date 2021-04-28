@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "FIMH2021"
-  avatar           : "/assets/images/heart.png"
+  avatar           : "/assets/images/MICCAI_logo.jpg" #"/assets/images/heart.png"
   bio              : "11th International Conference on Functional Imaging and Modeling of the Heart"
   location         : "Stanford, CA USA"
   email            :
