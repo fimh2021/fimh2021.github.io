@@ -551,3 +551,80 @@ body {
     }
   }
 }
+
+// start styles for program 
+
+.day {
+margin: 7px;
+display: block;
+background-color: #f0f4f5;
+border: 1px solid #ccc;
+color: teal;
+width: 100%;
+float: left;
+margin-right: 12px;
+vertical-align:top;
+text-align: center;
+}
+.day-detail {
+margin: 7px;
+display: block;
+background-color: #f0f4f5;
+border: 1px solid #ccc;
+color: teal;
+width: 100%;
+float: left;
+margin-right: 12px;
+vertical-align:top;
+text-align: left;
+}
+
+.date {
+padding: 7px;
+display: block;
+background-color: #ccc;
+color: #8c1515;
+margin-top: 0px;
+font-weight: 300;
+font-size: .9em;
+transition: all 0.2s ease-in-out;
+-webkit-transition: all 0.2s ease-in-out;
+}
+.row {float: left; clear: both; width: 100%;}
+.cell-narrow {background-color: #fff; padding: 7px; margin: 7px; color: #000; width: 25%; float: left;font-size: .7em;
+}
+.cell {background-color: #fff; padding: 7px; margin: 7px 0px 7px 0px; color: #000; width: 72%; float: left;font-size: .7em;
+}
+.detail-cell {background-color: #fff; padding: 7px; margin: 7px 0px 7px 0px; color: #000; width: 100%; float: left;font-size: .7em;
+}
+.smaller {font-size: .7em;}
+.center {text-align: center;}
+.headers{
+color: teal;
+text-transform: uppercase;
+background-color: #f0f4f5;
+margin-bottom: 0px;
+}
+.row .headers {border-bottom: 2px solid teal; margin-bottom: 0px; }
+
+.poster {border-right: 24px solid #a4c2f4; border-left: 24px solid #a4c2f4;}
+.trainee {border-right: 24px solid #c27ba0; border-left: 24px solid #c27ba0;}
+.yellow {border-right: 24px solid #ffe599; border-left: 24px solid #ffe599;}
+.keynote {border-right: 24px solid #ea9999; border-left: 24px solid #ea9999;}
+.session {border-right: 24px solid #b6d7a8; border-left: 24px solid #b6d7a8;}
+.special {border-right: 24px solid #f6b26b; border-left: 24px solid #f6b26b;}
+.gray {border-right: 24px solid #f0f4f5; border-left: 24px solid #f0f4f5;}
+
+.block-title {
+padding: 7px;
+background-color: #ececec;
+margin-top: 24px !important;
+}
+
+.legend {width: 100%; margin-left: 7px;}
+.square-poster{display: block; margin: 7px 7px 7px 0px; padding: 7px; float: left; background-color: #a4c2f4;}
+.square-trainee{display: block; margin: 7px 7px 7px 0px; padding: 7px; float: left; background-color: #c27ba0;}
+.square-yellow{display: block; margin: 7px 7px 7px 0px; padding: 7px; float: left; background-color: #ffe599;}
+.square-keynote{display: block; margin: 7px 7px 7px 0px; padding: 7px; float: left; background-color: #ea9999;}
+.square-session{display: block; margin: 7px 7px 7px 0px; padding: 7px; float: left; background-color: #b6d7a8;}
+.square-special{display: block; margin: 7px 7px 7px 0px; padding: 7px; float: left; background-color: #f6b26b;}
