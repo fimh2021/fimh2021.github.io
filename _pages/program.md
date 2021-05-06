@@ -4,7 +4,7 @@ title: "Program"
 classes: wide
 ---
 
-Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Please stay tuned for more information. Preliminary details are as follows:
+Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Details are as follows:
 
 <div class="legend"><span class="smaller">Program Legend: <br>
 	<div class="square-keynote">Keynote</div>
