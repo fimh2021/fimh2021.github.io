@@ -14,7 +14,7 @@ Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Details are as fol
 	<div class="square-trainee">Trainee Event</div>
 	</span>
 </div>
-<br>&nbsp;<br>
+<br>
 <h3>Pre-Conference</h3>
 <div class="day">
 <b class="date">Monday, June 21</b>
