@@ -8,4 +8,4 @@ Please use the following link to register:
 
 [FIMH-2021 registration website](https://www.eventbrite.com/e/fimh-2021-registration-142940529973)
 
-We look forward to seeing you (virtually) soon!!
+We look very much forward to seeing you (virtually) soon!!
