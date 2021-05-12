@@ -66,7 +66,7 @@ Break<br>10:30am - 10:45am (PDT)<br><span class="smaller">13:30am - 13:45pm (EDT
 				<div class="center"><p class="block-title">Cardiovascular Flow: Measurements and Simulations</p></div>
 
 				<h4>The role of extra-coronary vascular conditions that affect coronary fractional flow reserve estimation.</h4><span class="smaller">Jermiah Joseph, Ting-Yim Lee, Daniel Goldman, Christopher McIntyre, Sanjay Kharche</span><br>
-				<h4>Large in-silico analysis of the influence of pulmonary veins’ configuration on left atrial haemodynamics and thrombus formation</h4><span class="smaller">Jordi Mill, Andy Olivares, Xabier Morales, Jordina AViles, Jerome Noailly, Xavier Iriart, Hubert Cochet, Oscar Camara</span><br>
+				<h4>In-silico analysis of the influence of pulmonary vein configuration on left atrial haemodynamics and thrombus formation in a large cohort</h4><span class="smaller">Jordi Mill, Andy Olivares, Xabier Morales, Jordina AViles, Jerome Noailly, Xavier Iriart, Hubert Cochet, Oscar Camara</span><br>
 				<h4>3-D Intraventricular Vector Flow mapping Using Triplane Doppler Echo</h4><span class="smaller">Florian Vixège, Alain Berod, Franck Nicoud, Pierre-Yves Courand, Didier Vray, Damien Garcia</span><br>
 				<h4>Quantitative Hemodynamics in Aortic Dissection: Comparing in vitro MRI with FSI Simulation in a Compliant Model</h4><span class="smaller">Judith Zimmermann, Kathrin Bäumler, Michael Loecher, Tyler Cork, Fikunwa Kolawole, Kyle Gifford, Alison L Marsden, Dominik Fleischmann, Daniel B Ennis</span><br>
 				
