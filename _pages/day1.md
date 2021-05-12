@@ -28,7 +28,7 @@ classes: wide
 			</div>
 		<h4>Scar-Related Ventricular Arrhythmia Prediction from Imaging using Explainable Deep Learning</h4><span class="smaller">Buntheng LY, Sonny Finsterbach, Hubert Cochet, Maxime Sermesant</span><br>
 		<h4>The Effect of Modeling Assumptions on the ECG in Monodomain and Bidomain Simulations</h4><span class="smaller">Dennis Ogiermann, Daniel Balzani, Luigi Perotti</span><br>
-		<h4>Simultaneous Multi-Heartbeat ECGI Solution with a Time-Varying Forward Model: a Joint Inverse Formulation</h4><span class="smaller">Marianne Beach, Iain Sim, Arihant Mehta, Irum Kotadia, Daniel O’Hare, John Whitaker, Jose Alonso Solis-Lemus, Orod Razeghi, Amedeo Chiribiri, Mark O’Neill, Steven Williams, Steven Niederer, Caroline Roney</span><br>
+		<h4>Simultaneous Multi-Heartbeat ECGI Solution with a Time-Varying Forward Model: a Joint Inverse Formulation</h4><span class="smaller"> Jake Bergquist, Jaume Coll-Font, Brian Zenger, Lindsay Rupp, Wilson Good, Dana Brooks, Rob MacLeod</span><br>
 		<h4>Deep Adaptive Electrocardiographic Imaging with Generative Forward Model for Error Reduction</h4><span class="smaller">Maryam Toloubidokhti, Prashnna K. Gyawali, Omar A. Gharbia, Xiajun Jiang, Jaume Coll-Font, Jake Bergquist, Brian Zenger, Wilson W. Good, Dana H. Brooks, Rob S. MacLeod, Linwei Wang</span><br>&nbsp;<br>
 		<div class="center">
 			<p class="block-title">Session 2: Atrial Microstructure, Modeling, and Thrombosis Prediction<br><span class="smaller">Moderators: TBD</span></p>
@@ -37,7 +37,7 @@ classes: wide
 		<h4>Using the Universal Atrial Coordinate system for MRI and electroanatomic data registration in patient-specific atrial model construction and simulation</h4><span class="smaller">Marianne Beach, Iain Sim, Arihant Mehta, Irum Kotadia, Daniel O’Hare, John Whitaker, Jose Alonso Solis-Lemus, Orod Razeghi, Amedeo Chiribiri, Mark O’Neill, Steven Williams, Steven Niederer, Caroline Roney</span><br>
 		<h4>Learning atrial fiber orientations and conductivity tensors from intracardiac maps using physics-informed neural networks</h4><span class="smaller">Thomas Grandits, Simone Pezzuto, Francisco Sahli, Paris Perdikaris, Thomas Pock, Gernot Plank, Rolf Krause</span><br>
 		<h4>Geometric Deep Learning for the Assessment of Thrombosis Risk in the Left Atrial Appendage</h4><span class="smaller">Xabier Morales, Jordi Mill, Guillem Simeon, Kristine A. Juhl, Ole De Backer, Oscar Camara, Rasmus Reinhold Paulsen</span><br>
-		<h4>Thrombus (besides hairballs) can be fatal for your cat: shape analysis and computational fluid simulations to assess feline cardiac function</h4><span class="smaller">Andy Olivares, Maria Isabel Pons, Jordi Mill, Jose Novo Matos, Patricia Garcia-Canadilla, Inma Cerrada, Anna Guy, J. Ciaran Hutchinson, Ian C. Simcock, Owen J. Arthurs, Andrew C. Cook, Virginia Luis Fuentes, Oscar Camara</span><br>&nbsp;<br>
+		<h4>Shape analysis and computational fluid simulations to assess feline left atrial function and thrombogenesis</h4><span class="smaller">Andy Olivares, Maria Isabel Pons, Jordi Mill, Jose Novo Matos, Patricia Garcia-Canadilla, Inma Cerrada, Anna Guy, J. Ciaran Hutchinson, Ian C. Simcock, Owen J. Arthurs, Andrew C. Cook, Virginia Luis Fuentes, Oscar Camara</span><br>&nbsp;<br>
 		</div>
 	</div>	
 
