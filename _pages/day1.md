@@ -51,7 +51,7 @@ Break<br>10:00am - 10:15am (PDT)<br><span class="smaller">13:00am - 13:15pm (EDT
 		<div class="detail-cell session"><div class="center">Poster Session - 1<br>10:15am - 11:30am (PDT)<br><span class="smaller">13:15pm - 14:30pm (EDT) | 18:15pm - 19:30pm (GMT) | 05:15am- 06:30am (NZST + 1 day)</span><br>
 				<p class="block-title">Session 1A: Modeling Electrophysiology, ECG, and Arrhythmia</p>
 			</div>
-				<h4>Uncertainty Quantification for the 12-lead ECG: a Lead Field Approach</h4><span class="smaller">Michael Multerer, Simone Pezzuto</span><br>
+				<h4>Fast and Accurate Uncertainty Quantification for the ECG with Random Electrodes Location</h4><span class="smaller">Michael Multerer, Simone Pezzuto</span><br>
 				<h4>A volume source method for solving ECGI inverse problem</h4><span class="smaller">Mohamadou Malal Diallo, Yves Coudière, Remi DUBOIS</span><br>
 				<h4>Sensitivity analysis of a smooth muscle cell electrophysiological model</h4><span class="smaller">Sanjay Kharche, Galina Mironova, Daniel Goldman, Christopher McIntyre, Donald Welsh</span><br>
 				<h4>Simplified Electrophysiology Modeling Framework to Assess Ventricular Arrhythmia Risk in Infarcted Patients</h4><span class="smaller">Dolors Serra, Pau Romero, Miguel Lozano, Ignacio Garcia-Fernandez, Alejandro Liberos, Miguel Rodrigo, Antonio Berruezo, Alfonso Bueno-Orovio, Rafa Sebastian</span><br>
