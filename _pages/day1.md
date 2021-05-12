@@ -76,7 +76,7 @@ Break<br>10:00am - 10:15am (PDT)<br><span class="smaller">13:00am - 13:15pm (EDT
 				<h4>Three-Dimensional Embedded Attentive RNN (3D-EAR) Segmentor for Left Ventricle Delineation from Myocardial Velocity Mapping</h4><span class="smaller">Mengmeng Kuang, Yinzhe Wu, Lufei Gao, Diego Alonso-Álvarez, David Firmin, Jennifer Keegan, Peter Gatehouse, Guang Yang</span><br>
 				<h4>Cardiac MRI Left Ventricular Segmentation and Function Quantification Using Pre-trained Neural Networks</h4><span class="smaller">Fumin Guo, Matthew Ng, Idan Roifman, Graham Wright</span><br>
 				<h4>Image-Derived Geometric Characteristics Predict Abdominal Aortic Aneurysm Growth in a Machine Learning Model</h4><span class="smaller">Jordan Stoecker, Kevin Eddinger, Alison Pouch, Benjamin Jackson</span><br>
-				<h4>Poly-affine Regional Shape Prior for Segmentation and Deformation in 2D Echocardiography</h4><span class="smaller">Yingyu YANG, Maxime Sermesant</span><br>
+				<h4>Shape Constraints in Deep Learning for Robust 2D Echocardiography Analysis</h4><span class="smaller">Yingyu YANG, Maxime Sermesant</span><br>
 				<h4>Impact of Image Resolution and Resampling on Motion Tracking of the Left Chambers from Cardiac Scans</h4><span class="smaller">Orod Razeghi, Marina Strocchi, Cesare Corrado, Henry Chubb, Ronak Rajani, Daniel Ennis, Steven Niederer</span><br>
 				<h4>Population-based personalization of geometric models of myocardial infarction</h4><span class="smaller">Mom Kannara, Patrick CLARYSSE, Nicolas Duchateau</span><br>&nbsp;<br>
 				
