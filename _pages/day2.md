@@ -34,7 +34,7 @@ classes: wide
 			<p class="block-title">Session 4: Cardiac Microstructure – Measures to Models<br><span class="smaller">Moderators: TBD</span></p>
 			</div>
 
-		<h4>Deep Learning spatially constrained approach for myocardial T1 mapping</h4><span class="smaller">Maria Angeles Iglesias, Oscar Camara, Marta Sitges, Gaspar Delso</span><br>
+		<h4>Spatially constrained Deep Learning approach for myocardial T1 mapping</h4><span class="smaller">Maria Angeles Iglesias, Oscar Camara, Marta Sitges, Gaspar Delso</span><br>
 		<h4>Diffusion biomarkers in chronic myocardial infarction</h4><span class="smaller">Tanjib Rahman, Kevin Moulin, Daniel Ennis, Luigi Perotti</span><br>
 		<h4>A methodology for accessing the local arrangement of the sheets that make up the extracellular heart tissue</h4><span class="smaller">Shunli Wang, François Varray, Feng Yuan, isabelle Magnin</span><br>
 		<h4>A High-Fidelity 3D Micromechanical Model of Ventricular Myocardium</h4><span class="smaller">David Li, Emilio Mendiola, Reza Avaz, Frank Sachse, Michael Sacks</span><br>&nbsp;<br>
