@@ -28,7 +28,7 @@ classes: wide
 
 		<h4>In vivo pressure-volume loops using real-time 3D echocardiography and left ventricular catheterization – application to heart transplant patients</h4><span class="smaller">Bianca Freytag, Vicky Wang, Debbie Zhao, Kathleen Gilbert, Gina Quill, Abdallah Hasaballa, Thiranja Prasad Babarenda Gamage, Rob Doughty, Malcolm Legget, Peter Ruygrok, Alistair Young, Martyn Nash</span><br>
 		<h4>In silico mapping of the omecamtiv mecarbil effects from the sarcomere to the whole-heart and back again</h4><span class="smaller">Stefano Longobardi, Anna Sher, Steven Niederer</span><br>
-		<h4>Developing a Left Ventricle-Mitral Valve In-Silico Model to investigate Ischemic Mitral Regurgitation</h4><span class="smaller">Hao Liu, Harshita Narang, Robert Gorman, Joseph Gorman, Michael Sacks</span><br>
+		<h4>On the interrelationship between left ventricle infarction geometry and ischemic mitral regurgitation grade</h4><span class="smaller">Hao Liu, Harshita Narang, Robert Gorman, Joseph Gorman, Michael Sacks</span><br>
 		<h4>Cardiac support for the right ventricle: effects of timing on hemodynamics-biomechanics tradeoff</h4><span class="smaller">Ileana Pirozzi, Ali Kight, Edgar Aranda-Michael, Rohan Shad, Yuanjia Zhu, Lewis K. Waldman, William Hiesinger, Mark Cutkosky</span><br>&nbsp;<br>
 		</div>
 	</div>	
