@@ -617,8 +617,15 @@ margin-bottom: 0px;
 
 .block-title {
 padding: 7px;
-background-color: #ececec;
+background-color: #b6d7a6;
 margin-top: 24px !important;
+font-weight: bold;
+}
+.block-title-poster {
+padding: 7px;
+background-color: #a4c2f4;
+margin-top: 24px !important;
+font-weight: bold;
 }
 
 .legend {width: 100%; margin-left: 7px;}
@@ -628,3 +635,6 @@ margin-top: 24px !important;
 .square-keynote{display: block; margin: 7px 7px 7px 0px; padding: 7px; float: left; background-color: #ea9999;}
 .square-session{display: block; margin: 7px 7px 7px 0px; padding: 7px; float: left; background-color: #b6d7a8;}
 .square-special{display: block; margin: 7px 7px 7px 0px; padding: 7px; float: left; background-color: #f6b26b;}
+.detail-cell.session h4{font-weight: 500 !important; text-align: center;}
+.detail-cell.poster h4{font-weight: 500 !important; text-align: center;}
+.detail-cell.session .smaller{text-align: center;}
