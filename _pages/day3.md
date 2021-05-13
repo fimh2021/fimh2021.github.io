@@ -17,22 +17,23 @@ classes: wide
 		<div class="detail-cell session">
 			<div class="center">Oral Sessions<br>08:30am - 10:300am (PDT)<br><span class="smaller">11:30am - 13:30pm (EDT) | 16:30pm - 18:30pm (GMT) | 03:30am- 05:300am (NZST + 1 day)</span><br>
 		<p class="block-title">Session 5: Cardiac Mechanics: Measures and Models<br><span class="smaller">Moderators: TBD</span></p>
-			</div>
+			
 		<h4>A Framework for Evaluating Myocardial Stiffness Using 3D-Printed Hearts</h4><span class="smaller">Fikunwa Kolawole, Mathias Peirlinck, Tyler Cork, Vicky Wang, Seraina Dual, Marc Levenston, Ellen Kuhl, Daniel Ennis</span><br>
-		<h4>Sensitivity of Myocardial Stiffness Estimates to Inter-observer Variability in LV Geometric Modelling</h4><span class="smaller">Abdallah Hasaballa, Thiranja Prasad Babarenda Gamage, Vicky Wang, Debbie Zhao, Charlene Mauger, Zhinuo Wang, Bianca Freytag, Jane Cao, Alistair Young, Martyn Nash</span><br>
-		<h4>A computational approach on sensitivity of left ventricular wall strains to fiber orientation</h4><span class="smaller">Luca Barbarotta, Peter Bovendeerd</span><br>
+		<h4>Sensitivity of Myocardial Stiffness Estimates to Inter-observer Variability in LV Geometric Modeling</h4><span class="smaller">Abdallah Hasaballa, Thiranja Prasad Babarenda Gamage, Vicky Wang, Debbie Zhao, Charlene Mauger, Zhinuo Wang,<br> Bianca Freytag, Jane Cao, Alistair Young, Martyn Nash</span><br>
+		<h4>A Computational Approach on Sensitivity of Left Ventricular Wall Strains to Fiber Orientation</h4><span class="smaller">Luca Barbarotta, Peter Bovendeerd</span><br>
 		<h4>Theoretical Assessment of Focused Septal Growth in Hypertrophic Cardiomyopathy</h4><span class="smaller">Sandra Hager, Will Zhang, Renee Miller, Jack Lee, David Nordsletten</span><br>&nbsp;<br>
+		</div>
 		<div class="center">
 			<p class="block-title">Session 6: Translational Cardiac Mechanics<br><span class="smaller">Moderators: TBD</span></p>
-			</div>
+			
 
-		<h4>In vivo pressure-volume loops and chamber stiffness estimation using real-time 3D echocardiography and left ventricular catheterization – application to post-heart transplant patients </h4><span class="smaller">Bianca Freytag, Vicky Wang, Debbie Zhao, Kathleen Gilbert, Gina Quill, Abdallah Hasaballa, Thiranja Prasad Babarenda Gamage, Rob Doughty, Malcolm Legget, Peter Ruygrok, Alistair Young, Martyn Nash</span><br>
-		<h4>In silico mapping of the omecamtiv mecarbil effects from the sarcomere to the whole-heart and back again</h4><span class="smaller">Stefano Longobardi, Anna Sher, Steven Niederer</span><br>
-		<h4>On the interrelationship between left ventricle infarction geometry and ischemic mitral regurgitation grade</h4><span class="smaller">Hao Liu, Harshita Narang, Robert Gorman, Joseph Gorman, Michael Sacks</span><br>
+		<h4>In Vivo Pressure-volume Loops and Chamber Stiffness Estimation Using Real-time 3D Echocardiography and Left Ventricular Catheterization – Application to Post-heart Transplant Patients </h4><span class="smaller">Bianca Freytag, Vicky Wang, Debbie Zhao, Kathleen Gilbert, Gina Quill, Abdallah Hasaballa, Thiranja Prasad Babarenda Gamage, <br>Rob Doughty, Malcolm Legget, Peter Ruygrok, Alistair Young, Martyn Nash</span><br>
+		<h4>In Silico Mapping of the Omecamtiv Mecarbil Effects From the Sarcomere to the Whole-heart and Back Again</h4><span class="smaller">Stefano Longobardi, Anna Sher, Steven Niederer</span><br>
+		<h4>On the Interrelationship Between Left Ventricle Infarction Geometry and Ischemic Mitral Regurgitation Grade</h4><span class="smaller">Hao Liu, Harshita Narang, Robert Gorman, Joseph Gorman, Michael Sacks</span><br>
 		<h4>Cardiac support for the right ventricle: effects of timing on hemodynamics-biomechanics tradeoff</h4><span class="smaller">Ileana Pirozzi, Ali Kight, Edgar Aranda-Michael, Rohan Shad, Yuanjia Zhu, Lewis K. Waldman, William Hiesinger, Mark Cutkosky</span><br>&nbsp;<br>
 		</div>
 	</div>	
-
+</div>
 	<div class="row">
 		<div class="detail-cell">		
 			<div class="center">
