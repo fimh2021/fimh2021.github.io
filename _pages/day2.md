@@ -27,9 +27,9 @@ classes: wide
 			<div class="center">Oral Sessions<br>08:30am - 10:30am (PDT)<br><span class="smaller">11:30am - 13:30pm (EDT) | 16:30pm - 18:30pm (GMT) | 03:30am- 05:30am (NZST + 1 day)</span><br>
 		<p class="block-title">Session 3: Novel Approaches to Measuring Heart Deformation<br><span class="smaller">Moderators: TBD</span></p>
 			
-		<h4>CNN-based Cardiac Motion Extraction to Generate Deformable Geometric Left Ventricle Myocardial Models From Cine MRI</h4><span class="smaller">Roshan Reddy Upendra, Brian Jamison Wentz, Richard Simon, Suzanne Shontz, Cristian Linte</span><br>
+		<h4>CNN-based Cardiac Motion Extraction to Generate Deformable Geometric<br>Left Ventricle Myocardial Models From Cine MRI</h4><span class="smaller">Roshan Reddy Upendra, Brian Jamison Wentz, Richard Simon, Suzanne Shontz, Cristian Linte</span><br>
 		<h4>M-SiSSR: Regional Endocardial Function Using Multilabel Simultaneous Subdivision Surface Registration</h4><span class="smaller">Davis Vigneault, Francisco Contijoch, Christopher Bridge, Elliot McVeigh</span><br>
-		<h4>Investigation of the Impact of Normalization on the Study of Interactions Between Myocardial Shape and Deformation</h4><span class="smaller">Maxime Di Folco, Pamela Moceri, Patrick CLARYSSE, Nicolas Duchateau, Nicolas Guigui</span><br>
+		<h4>Investigation of the Impact of Normalization on the Study of<br>Interactions Between Myocardial Shape and Deformation</h4><span class="smaller">Maxime Di Folco, Pamela Moceri, Patrick CLARYSSE, Nicolas Duchateau, Nicolas Guigui</span><br>
 		<h4>Arbitrary Point Tracking With Machine Learning to Measure Cardiac Strain in Tagged MRI</h4><span class="smaller">Michael Loecher, Ariel Hannum, Luigi Perotti, Daniel Ennis</span><br>&nbsp;<br>
 		</div>
 		<div class="center">
@@ -62,22 +62,22 @@ Break<br>10:30am - 10:45am (PDT)<br><span class="smaller">13:30am - 13:45pm (EDT
 			
 				<h4>Systematic Study of Joint Influence of Angular Resolution and Noise in Cardiac Diffusion Tensor Imaging</h4><span class="smaller">Yunlong HE, Lihui Wang, Yang Feng, Yong Xia, Patrick CLARYSSE, Yuemin Zhu</span><br>
 				<h4>Analysis of Location-dependent Cardiomyocyte Branching</h4><span class="smaller">Alexander Wilson, Greg Sands, Daniel Ennis</span><br>
-				<h4>Quantitative Interpretation of Myocardial Fiber Structure in the Left and Right Ventricle of an Equine Heart Using Diffusion Tensor Cardiovascular Magnetic Resonance Imaging</h4><span class="smaller">Hilke Straatman, Imke van der Schoor, Martijn Froeling, Glenn van Steenkiste, Robert Holtackers, Tammo Delhaas</span><br>&nbsp;<br>
+				<h4>Quantitative Interpretation of Myocardial Fiber Structure in the Left and Right Ventricle of an<br>Equine Heart Using Diffusion Tensor Cardiovascular Magnetic Resonance Imaging</h4><span class="smaller">Hilke Straatman, Imke van der Schoor, Martijn Froeling, Glenn van Steenkiste, Robert Holtackers, Tammo Delhaas</span><br>&nbsp;<br>
 				</div>
 				<div class="center"><p class="block-title-poster">Cardiovascular Flow: Measurements and Simulations</p>
 
 				<h4>The Role of Extra-coronary Vascular Conditions That Affect Coronary Fractional Flow Reserve Estimation</h4><span class="smaller">Jermiah Joseph, Ting-Yim Lee, Daniel Goldman, Christopher McIntyre, Sanjay Kharche</span><br>
-				<h4>In-silico Analysis of the Influence of Pulmonary Vein Configuration on Left Atrial Haemodynamics and Thrombus Formation in a Large Cohort</h4><span class="smaller">Jordi Mill, Andy Olivares, Xabier Morales, Jordina AViles, Jerome Noailly, Xavier Iriart, Hubert Cochet, Oscar Camara</span><br>
+				<h4>In-silico Analysis of the Influence of Pulmonary Vein Configuration on<br>Left Atrial Haemodynamics and Thrombus Formation in a Large Cohort</h4><span class="smaller">Jordi Mill, Andy Olivares, Xabier Morales, Jordina AViles, Jerome Noailly, Xavier Iriart, Hubert Cochet, Oscar Camara</span><br>
 				<h4>3-D Intraventricular Vector Flow Mapping Using Triplane Doppler Echo</h4><span class="smaller">Florian Vixège, Alain Berod, Franck Nicoud, Pierre-Yves Courand, Didier Vray, Damien Garcia</span><br>
 				<h4>Quantitative Hemodynamics in Aortic Dissection: Comparing In-vitro MRI With FSI Simulation in a Compliant Model</h4><span class="smaller">Judith Zimmermann, Kathrin Bäumler, Michael Loecher, Tyler Cork, Fikunwa Kolawole, Kyle Gifford, Alison L Marsden, Dominik Fleischmann, Daniel B Ennis</span><br>
 				</div>
 				&nbsp;<br>
 				
 				<div class="center"><p class="block-title-poster">Cardiac Mechanics: Measures and Models</p>
-				<h4>From Clinical Imaging to Patient-specific Computational Model: Rapid Adaptation of the Living Heart Human Model to a Case of Aortic Stenosis</h4><span class="smaller">Andrew Wisneski, Salvatore Cutugno, Ashley Stroh, Salvatore Pasta, Jiang Yao, Vaikom Mahadevan, Julius Guccione</span><br>
-				<h4>Model-assisted Time-synchronization of Cardiac MR Image and Catheter Pressure Data</h4><span class="smaller">Maria Gusseva, Joshua S. Greer, Daniel A. Castellanos, Mohamed Abdelghafar Hussein, Gerald Greil, Surendranath R. Veeram Reddy, Tarique Hussain, Dominique Chapelle, Radomir Chabiniok</span><br>
-				<h4>Effects of Fibre Orientation on Electrocardiographic and Mechanical Functions in a Computational Human Biventricular Model</h4><span class="smaller">Lei Wang, Zhinuo Jenny Wang, Rubén Doste, Alfonso Santiago, Xin Zhou, Adria Quintanas, Mariano Vazquez, Blanca Rodriguez</span><br>
-				<h4>Parameter Estimation in a Rule-based Fiber Orientation Model From End Systolic Strains Using the Reduced Order Unscented Kalman Filter</h4><span class="smaller">Luca Barbarotta, Peter Bovendeerd</span><br>
+				<h4>From Clinical Imaging to Patient-specific Computational Model:<br>Rapid Adaptation of the Living Heart Human Model to a Case of Aortic Stenosis</h4><span class="smaller">Andrew Wisneski, Salvatore Cutugno, Ashley Stroh, Salvatore Pasta, Jiang Yao, Vaikom Mahadevan, Julius Guccione</span><br>
+				<h4>Model-assisted Time-synchronization of Cardiac MR Image and Catheter Pressure Data</h4><span class="smaller">Maria Gusseva, Joshua S. Greer, Daniel A. Castellanos, Mohamed Abdelghafar Hussein, Gerald Greil,<br>Surendranath R. Veeram Reddy, Tarique Hussain, Dominique Chapelle, Radomir Chabiniok</span><br>
+				<h4>Effects of Fibre Orientation on Electrocardiographic and Mechanical Functions<br>in a Computational Human Biventricular Model</h4><span class="smaller">Lei Wang, Zhinuo Jenny Wang, Rubén Doste, Alfonso Santiago, Xin Zhou, Adria Quintanas, Mariano Vazquez, Blanca Rodriguez</span><br>
+				<h4>Parameter Estimation in a Rule-based Fiber Orientation Model<br>From End Systolic Strains Using the Reduced Order Unscented Kalman Filter</h4><span class="smaller">Luca Barbarotta, Peter Bovendeerd</span><br>
 				<h4>Modeling Patient-specific Periaortic Interactions With Static and Dynamic Structures Using a Moving Heterogeneous Elastic Foundation Boundary Condition</h4><span class="smaller">Johane Bracamonte, John Wilson, Joao Soares</span><br>
 				&nbsp;<br>
 				</div>
