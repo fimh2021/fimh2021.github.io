@@ -12,7 +12,7 @@ author_profile: false
 
 title: "Welcome to FIMH-2021" 
 ---
-
+<br/><br/>
 <span style="color:red"> **Registration for FIMH 2021 is now open and can be found [here](https://www.eventbrite.com/e/fimh-2021-registration-142940529973)**
 </span>
 
