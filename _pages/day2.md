@@ -39,7 +39,7 @@ classes: wide
 		<h4>Spatially Constrained Deep Learning Approach for Myocardial T1 Mapping</h4><span class="smaller">Maria Angeles Iglesias, Oscar Camara, Marta Sitges, Gaspar Delso</span><br>
 		<h4>Diffusion Biomarkers in Chronic Myocardial Infarction</h4><span class="smaller">Tanjib Rahman, Kevin Moulin, Daniel Ennis, Luigi Perotti</span><br>
 		<h4>A Methodology for Accessing the Local Arrangement of the Sheets That Make Up the Extracellular Heart Tissue</h4><span class="smaller">Shunli Wang, François Varray, Feng Yuan, isabelle Magnin</span><br>
-		<h4>A High-Fidelity 3D Micromechanical Model of Ventricular Myocardium</h4><span class="smaller">David Li, Emilio Mendiola, Reza Avaz, Frank Sachse, Michael Sacks</span><br>&nbsp;<br>
+		<h4>A High-Fidelity 3D Micromechanical Model of Ventricular Myocardium</h4><span class="smaller">David Li, Emilio Mendiola, Reza Avazmohammadi, Frank Sachse, Michael Sacks</span><br>&nbsp;<br>
 		</div>
 	</div>	
 	</div>
