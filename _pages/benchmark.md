@@ -3,6 +3,23 @@ permalink: /benchmark/
 title: "Cardiac Kinematics Benchmark"
 ---
 
+**June 23 12:00pm - 13:30pm (PDT)**
+
+**Organizers:**
+* Luigi Perotti, University of Central Florida
+* Vicky Wang, Stanford University
+
+
+**Updated timeline**
+
+* Benchmark results are due on May 28th, 2021
+* Computational phantom data released on March 26th, 2021
+* Pre-clinical data relased in January, 2021
+* Benchmark lauchaed in Decemeber, 2020
+
+
+**Background**
+
 FIMH-2021 will host a Cardiac Kinematics Benchmark study which aims to establish a platform for 1) discussing variability in calculation of cardiac kinematics (displacements and strains); 2) validating kinematics analysis tools using computational phantoms; 3) comparing kinematics measurements using pre-clinical swine data across different analysis tools; and 4) improving our confidence in cardiac strain estimates as an imaging biomarker to distinguish between healthy and diseased hearts. 
 
 We want to emphasize that this benchmark is not meant as a challenge but simply as a platform for discussion and comparison to improve the calculation of cardiac strains and improve our confidence to distinguish between cardiac health and disease based on this biomarker.
@@ -12,13 +29,11 @@ More details about the benchmark and instructions on how to participate are prov
 
 Please check back frequently for updates and subscribe to our mailing list (see below).
 
+
 **Meeting schedule to discuss benchmark data and objectives**
 
-A zoom link and instructions on how to join will be emailed using the benchmark mailing list (please sign up using the link below) All benchmark participants are welcomed to attend to share ideas and questions.
-
-First meeting on <ins>Jan 8, 2021 from 11am to 12pm PST</ins>.
-
-
+<!--- A zoom link and instructions on how to join will be emailed using the benchmark mailing list (please sign up using the link below) All benchmark participants are welcomed to attend to share ideas and questions. --->
+We have hosted 3 participants meeting since the launch of the benchmark, please contact the benchmark organizers for recordings of those zoom meetings. 
 
 **Participation form and mailing list**
 
