@@ -20,7 +20,7 @@ In this special theme session, clinicians and non-clinical speakers will introdu
 * Sandy Engelhardt PhD, University Hospital Heidelberg, Germany: MIS-C  — Can AI play a role? 
 * Vasu D. Gooty MD, Le Bonheur Children’s Hospital, University of Tennessee Health Science Center, Memphis, TN: Cardiac imaging in acute MIS-C – echo based AI in the detection and early to mid-term follow up
 
-For more information, please go to this [page](https://m3disim.saclay.inria.fr/misc_special_session_fimh2021/)
+For more information, please go to this [page](https://m3disim.saclay.inria.fr/misc_special_session_fimh2021/).
 
 <img src="/assets/images/MISClogo.png" width="500px" />
   
