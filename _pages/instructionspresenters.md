@@ -16,7 +16,8 @@ Instructions for both talks' and posters' presentations are listed below.
 
 **Poster presenters**
 
-Posters will be presented in SpatialChat, where rooms and posters will be setup by the conference organizers with the presenters' posters.
+Posters will be presented in [SpatialChat](https://spatial.chat/), where rooms and posters will be setup by the conference organizers.
+
 Regarding the **poster format**, please see the instructions listed below:
 * Format: jpeg, highest quality. Please export from PDF or other formats to jpeg.
 * Sizing: 6912×5184 pixels. Equivalently, size ratio of 4:3, 48"x36", 144 dpi.
@@ -24,3 +25,6 @@ Regarding the **poster format**, please see the instructions listed below:
 * Filename format: Name your file lastname_title_fimh2021_abstractnumber.jpeg
 * Submission: Send a google drive or dropbox link to fimh2021posters@gmail.com.
 * Please submit your poster by **June 18, 2021, 11:59 pm PDT**.
+
+**Poster presentation**
+On the day of the conference, each presenter will be required to be at their e-poster for **35 minutes** to present and answer questions. Detailed information on the allocated time slots will be released in the final program. Please check the conference program regularly for update.  
