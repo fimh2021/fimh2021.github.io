@@ -23,7 +23,7 @@ Regarding the **poster format**, please see the instructions listed below:
 * Sizing: 6912×5184 pixels. Equivalently, size ratio of 4:3, 48"x36", 144 dpi.
 * Confirm your poster looks good on laptop screens.
 * Filename format: Name your file lastname_title_fimh2021_abstractnumber.jpeg
-* Submission: Send a google drive or dropbox link to this [email](fimh2021posters@gmail.com).
+* Submission: Send a google drive or dropbox link to this [email](mailto:fimh2021posters@gmail.com).
 * Please submit your poster by **June 18, 2021, 11:59 pm PDT**.
 
 **Poster presentation**
