@@ -9,10 +9,10 @@ Instructions for both talks' and posters' presentations are listed below.
 
 **Speakers**
 
-* Each speaker will have **7 minutes** to present their talk followed by **3 minutes** for questions. 
-* Each day, at the end of both oral sessions, speakers will meet with the audience to discuss their talk and research in breakout rooms. Breakout rooms will last 30 minutes and each speaker will be assigned a breakout room in SpatialChat.
-* Please do your very best to stay on time to allow for questions after your talk.
-* As a reminder, each speaker will receive a calendar invite for the time of their talk.
+* Each speaker will have **7 minutes** to present their paper followed by **3 minutes** for moderated questions. 
+* Each day, at the end of both oral sessions, speakers will meet with the audience to discuss their talk and research in **breakout rooms**. Breakout rooms will last 30 minutes and each speaker will be assigned a breakout room in [SpatialChat](https://spatial.chat/).
+* Please stay on time to allow for questions after your talk.
+* As a reminder, each speaker will receive a calendar invite from the conference organizers for the time of their talk.
 
 **Poster presenters**
 
