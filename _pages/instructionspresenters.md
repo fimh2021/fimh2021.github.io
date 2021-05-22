@@ -5,6 +5,8 @@ title: "Instructions for presenters"
 
 Thank you to all presenters for sharing their research at FIMH 2021!!
 
+Instructions for both talks' and posters' presentations are listed below.
+
 **Speakers**
 
 * Each speaker will have **7 minutes** to present their talk followed by **3 minutes** for questions. 
@@ -14,11 +16,11 @@ Thank you to all presenters for sharing their research at FIMH 2021!!
 
 **Poster presenters**
 
-Psters will be presented in SpatialChat, where rooms and posters will be setup by the conference organizers with the presenters' posters.
+Posters will be presented in SpatialChat, where rooms and posters will be setup by the conference organizers with the presenters' posters.
 Regarding the **poster format**, please see the instructions listed below:
 * Format: jpeg, highest quality. Please export from PDF or other formats to jpeg.
 * Sizing: 6912×5184 pixels. Equivalently, size ratio of 4:3, 48"x36", 144 dpi.
 * Confirm your poster looks good on laptop screens.
 * Filename format: Name your file lastname_title_fimh2021_abstractnumber.jpeg
 * Submission: Send a google drive or dropbox link to fimh2021posters@gmail.com.
-* Please submit by **June 18, 2021, 11:59 pm PDT**.
+* Please submit your poster by **June 18, 2021, 11:59 pm PDT**.
