@@ -25,7 +25,4 @@ Regarding the **poster format**, please see the instructions listed below:
 * Filename format: Name your file lastname_title_fimh2021_abstractnumber.jpeg
 * Submission: Send a google drive or dropbox link to this [email](mailto:fimh2021posters@gmail.com).
 * Please submit your poster by **June 18, 2021, 11:59 pm PDT**.
-
-**Poster presentation**
-
-On the day of the conference, each presenter will be required to be at their e-poster for **35 minutes** to present and answer questions. Detailed information on the allocated time slots will be released in the final [program](https://fimh2021.github.io/program/). Please check the conference program regularly for update.  
+* On the day of the conference, each presenter will be required to be at their e-poster for **35 minutes** to discuss their work and answer questions. Detailed information on the allocated time slots will be released in the final [program](https://fimh2021.github.io/program/). Please check the conference program regularly for updates.  
