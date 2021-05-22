@@ -27,4 +27,5 @@ Regarding the **poster format**, please see the instructions listed below:
 * Please submit your poster by **June 18, 2021, 11:59 pm PDT**.
 
 **Poster presentation**
-On the day of the conference, each presenter will be required to be at their e-poster for **35 minutes** to present and answer questions. Detailed information on the allocated time slots will be released in the final program. Please check the conference program regularly for update.  
+
+On the day of the conference, each presenter will be required to be at their e-poster for **35 minutes** to present and answer questions. Detailed information on the allocated time slots will be released in the final [program](https://fimh2021.github.io/program/). Please check the conference program regularly for update.  
