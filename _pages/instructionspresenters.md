@@ -1,5 +1,5 @@
 ---
-permalink: /instructionsresenters/
+permalink: /instructionspresenters/
 title: "Instructions for presenters"
 ---
 
