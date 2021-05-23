@@ -26,7 +26,7 @@ classes: wide
 			<div class="center">Oral Sessions<br>08:00am - 10:00am (PDT)<br><span class="smaller">11:00am - 13:00pm (EDT) | 16:00pm - 18:00pm (GMT) | 03:00am- 05:00am (NZST + 1 day)</span><br>
 		<p class="block-title">Session 1: Modeling Electrophysiology, ECG, and Arrhythmia<br><span class="smaller">Moderators: TBD</span></p>
 			
-		<h4>Scar-Related Ventricular Arrhythmia Prediction from Imaging using Explainable Deep Learning</h4><span class="smaller center">Buntheng LY, Sonny Finsterbach, Hubert Cochet, Maxime Sermesant</span><br>
+		<h4>Scar-Related Ventricular Arrhythmia Prediction from Imaging using Explainable Deep Learning</h4><span class="smaller center">Buntheng LY, Sonny Finsterbach, Marta Nuñez-Garcia, Hubert Cochet, Maxime Sermesant</span><br>
 		<h4>The Effect of Modeling Assumptions on the ECG in Monodomain and Bidomain Simulations</h4><span class="smaller">Dennis Ogiermann, Daniel Balzani, Luigi Perotti</span><br>
 		<h4>Simultaneous Multi-heartbeat ECGI Solution with a Time-varying Forward Model: a Joint Inverse Formulation</h4><span class="smaller"> Jake Bergquist, Jaume Coll-Font, Brian Zenger, Lindsay Rupp, Wilson Good, Dana Brooks, Rob MacLeod</span><br>
 		<h4>Deep Adaptive Electrocardiographic Imaging With Generative Forward Model for Error Reduction</h4><span class="smaller">Maryam Toloubidokhti, Prashnna K. Gyawali, Omar A. Gharbia, Xiajun Jiang, Jaume Coll-Font, Jake Bergquist,<br> Brian Zenger, Wilson W. Good, Dana H. Brooks, Rob S. MacLeod, Linwei Wang</span><br>&nbsp;<br>
