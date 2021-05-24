@@ -21,7 +21,7 @@ classes: wide
 		<h4>A Framework for Evaluating Myocardial Stiffness Using 3D-Printed Hearts</h4><span class="smaller">Fikunwa Kolawole, Mathias Peirlinck, Tyler Cork, Vicky Wang, Seraina Dual, Marc Levenston, Ellen Kuhl, Daniel Ennis</span><br>
 		<h4>Sensitivity of Myocardial Stiffness Estimates to Inter-observer Variability in LV Geometric Modeling</h4><span class="smaller">Abdallah Hasaballa, Thiranja Prasad Babarenda Gamage, Vicky Wang, Debbie Zhao, Charlene Mauger, Zhinuo Wang,<br> Bianca Freytag, Jane Cao, Alistair Young, Martyn Nash</span><br>
 		<h4>A Computational Approach on Sensitivity of Left Ventricular Wall Strains to Fiber Orientation</h4><span class="smaller">Luca Barbarotta, Peter Bovendeerd</span><br>
-		<h4>Theoretical Assessment of Focused Septal Growth in Hypertrophic Cardiomyopathy</h4><span class="smaller">Sandra Hager, Will Zhang, Renee Miller, Jack Lee, David Nordsletten</span><br>&nbsp;<br>
+		<h4>An Exploratory Assessment of Focused Septal Growth in Hypertrophic Cardiomyopathy</h4><span class="smaller">Sandra Hager, Will Zhang, Renee Miller, Jack Lee, David Nordsletten</span><br>&nbsp;<br>
 		</div>
 		<div class="center">
 			<p class="block-title">Session 6: Translational Cardiac Mechanics<br><span class="smaller">Moderators: TBD</span></p>
