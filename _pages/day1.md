@@ -79,7 +79,7 @@ Break<br>10:00am - 10:15am (PDT)<br><span class="smaller">13:00am - 13:15pm (EDT
 				<h4>Image-Derived Geometric Characteristics Predict Abdominal<br> Aortic Aneurysm Growth in a Machine Learning Model</h4><span class="smaller">Jordan Stoecker, Kevin Eddinger, Alison Pouch, Benjamin Jackson</span><br>
 				<h4>Shape Constraints in Deep Learning For Robust 2D Echocardiography Analysis</h4><span class="smaller">Yingyu YANG, Maxime Sermesant</span><br>
 				<h4>Impact of Image Resolution and Resampling on Motion Tracking of the Left Chambers from Cardiac Scans</h4><span class="smaller">Orod Razeghi, Marina Strocchi, Cesare Corrado, Henry Chubb, Ronak Rajani, Daniel Ennis, Steven Niederer</span><br>
-				<h4>Population-based Personalization of Geometric Models of Myocardial Infarction</h4><span class="smaller">Mom Kannara, Patrick CLARYSSE, Nicolas Duchateau</span><br>&nbsp;<br>
+				<h4>Population-based Personalization of Geometric Models of Myocardial Infarction</h4><span class="smaller">Kannara Mom, Patrick Clarysse, Nicolas Duchateau</span><br>&nbsp;<br>
 					</div>
 		</div>
 	</div>		
