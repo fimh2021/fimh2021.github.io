@@ -29,7 +29,7 @@ classes: wide
 			
 		<h4>CNN-based Cardiac Motion Extraction to Generate Deformable Geometric<br>Left Ventricle Myocardial Models From Cine MRI</h4><span class="smaller">Roshan Reddy Upendra, Brian Jamison Wentz, Richard Simon, Suzanne Shontz, Cristian Linte</span><br>
 		<h4>M-SiSSR: Regional Endocardial Function Using Multilabel Simultaneous Subdivision Surface Registration</h4><span class="smaller">Davis Vigneault, Francisco Contijoch, Christopher Bridge, Elliot McVeigh</span><br>
-		<h4>Investigation of the Impact of Normalization on the Study of<br>Interactions Between Myocardial Shape and Deformation</h4><span class="smaller">Maxime Di Folco, Pamela Moceri, Patrick CLARYSSE, Nicolas Duchateau, Nicolas Guigui</span><br>
+		<h4>Investigation of the Impact of Normalization on the Study of<br>Interactions Between Myocardial Shape and Deformation</h4><span class="smaller">Maxime Di Folco, Nicolas Guigui, Patrick Clarysse, Pamela Moceri, Nicolas Duchateau</span><br>
 		<h4>Arbitrary Point Tracking With Machine Learning to Measure Cardiac Strain in Tagged MRI</h4><span class="smaller">Michael Loecher, Ariel Hannum, Luigi Perotti, Daniel Ennis</span><br>&nbsp;<br>
 		</div>
 		<div class="center">
