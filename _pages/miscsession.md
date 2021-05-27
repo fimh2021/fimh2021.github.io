@@ -22,7 +22,7 @@ In this special theme session, clinicians and non-clinical speakers will introdu
 
 For more information, please go to this [page](https://m3disim.saclay.inria.fr/misc_special_session_fimh2021/).
 
-<img src="/assets/images/MISClogo.png" width="500px" />
+<img src="/assets/images/MIS_C_Logo_Combined.png" width="500px" />
   
 
 
