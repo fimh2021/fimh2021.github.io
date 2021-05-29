@@ -22,6 +22,7 @@ Regarding the **poster format**, please see the instructions listed below:
 * Format: jpeg, highest quality. Please export from PDF or other formats to jpeg.
 * Sizing: 6912×5184 pixels. Equivalently, size ratio of 4:3, 48"x36", 144 dpi.
 * Confirm your poster looks good on laptop screens.
+* Please include your <span style="color:red">LNCS paper submission number</span> on the top left of your poster.
 * Filename format: Name your file lastname_title_fimh2021_abstractnumber.jpeg
 * Submission: Send a google drive or dropbox link to this [email](mailto:fimh2021posters@gmail.com).
 * Please submit your poster by **June 16, 2021, 11:59 pm PDT**.
