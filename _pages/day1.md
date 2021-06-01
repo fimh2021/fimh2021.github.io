@@ -14,6 +14,7 @@ classes: wide
 	</div>
 	<div class="row">
 		<div class="detail-cell keynote"><div class="center">Keynote<br>07:20am - 08:00am (PDT)<br><span class="smaller">10:20am - 11:00am (EDT) | 15:20pm - 16:00pm (GMT) | 02:20am- 03:00am (NZST + 1 day)</span></div>
+		<h4>"Enabling Precision Cardiology through the Digital Twin and In Silico Trials"</h4>
 		<h4>Blanca Rodriguez, PhD</h4><p><b>Professor of Computational Medicine, Department of Computer Science, University of Oxford</b></p>
 
 <p><img align="right" src="/assets/images/BlancaRodriguez.jpg" width="280" style="margin-left: 12px;">Blanca Rodriguez, Ph.D. is a Wellcome Trust Fellow in Basic Biomedical Science and Professor of Computational Medicine in the Department of Computer Science at the University of Oxford. Her research focuses on investigating the variable response of human hearts to disease and therapies. Her team primarily focuses on computational modeling and simulation of the heart, combined with other approaches such as machine learning, to expand and augment the information extracted from experimental and clinical datasets. Her lab is part of the British Heart Foundation Centre of Research Excellence and is currently funded by the Wellcome Trust, the NC3Rs, the European Comission, the British Heart Foundation, EPSRC and the Royal Society. </p>
