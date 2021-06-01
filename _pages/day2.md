@@ -14,7 +14,7 @@ classes: wide
 	</div>
 	<div class="row">
 		<div class="detail-cell keynote"><div class="center">Keynote<br>07:50am - 08:30am (PDT)<br><span class="smaller">10:50am - 11:30am (EDT) | 15:50pm - 16:30pm (GMT) | 02:50am- 03:30am (NZST + 1 day)</span></div>
-		<h4>Title of keynote presentation: "UK Biobank's cardiovascular magnetic resonance study: from rationale, practicalities and lessons learnt to novel scientiﬁc insights"</h4>
+		<h4>"UK Biobank's cardiovascular magnetic resonance study: from rationale, practicalities and lessons learnt to novel scientiﬁc insights"</h4>
 		<h4>Steffen Petersen, MD</h4><p><b>Professor of Cardiovascular Medicine, William Harvey Research Institute, Queen Mary University of London</b></p>
 
 <p><img align="right" src="/assets/images/SteffenPetersen.jpg" width="250" style="margin-left: 12px;">Steffen Petersen, M.D. is a Professor of Cardiovascular Medicine at the William Harvey Research Institute, Queen Mary University of London and a Consultant Cardiologist and Clinical Director for Research at Barts Heart Centre, Barts Health NHS Trust. He is also the Cardiovascular Programme Director for the UCL Partners Academic Medical Centre. He is a world-leader in Cardiac MRI, author of several clinical guideline papers, and the UK Biobank cardiac imaging lead. The UK Biobank study is well underway and seeks to perform 100,000 CMR exams while also collecting substantial clinical data for deep phenotyping. </p>
