@@ -75,7 +75,7 @@ Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Details are as fol
 		<div class="cell-narrow">07:50am - 08:30am (PDT)<br><span class="smaller">10:50am - 11:30am (EDT)<br>15:50pm - 16:30pm (GMT)<br>02:50am- 03:30am (NZST + 1 day)</span></div><div class="cell keynote">Keynote<br><b>Steffen Petersen, MD</b><br>Queen Mary University of London &amp; Barts Heart Centre, Barts Health NHS Trust</div>
 	</div>	
 	<div class="row">
-		<div class="cell-narrow">08:30am - 10:30am (PDT)<br><span class="smaller">11:30am - 13:30pm (EDT)<br>16:30pm - 18:30pm (GMT)<br>03:30am- 05:30am (NZST + 1 day)</span></div><div class="cell session">Oral Sessions<br>Session 3: Atrial Microstructure, Modeling, and Thrombosis Prediction<br><br>Session 4: Cardiac Microstructure - Measures to Models</div>
+		<div class="cell-narrow">08:30am - 10:30am (PDT)<br><span class="smaller">11:30am - 13:30pm (EDT)<br>16:30pm - 18:30pm (GMT)<br>03:30am- 05:30am (NZST + 1 day)</span></div><div class="cell session">Oral Sessions<br>Session 3: Novel Approaches to Measuring Heart Deformation<br><br>Session 4: Cardiac Microstructure - Measures to Models</div>
 	</div>
 	<div class="row">
 		<div class="cell-narrow">10:30am - 10:45am (PDT)<br><span class="smaller">13:30pm - 13:45pm (EDT)<br>18:30pm - 18:45pm (GMT)<br>05:30am- 05:45am (NZST + 1 day)</span></div><div class="cell">Break</div>
