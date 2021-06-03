@@ -35,7 +35,13 @@ The Cardiac Atlas Project is a large-scale database of cardiac imaging exams, se
 
 The CAP workshop will focus on congenital heart disease (CHD). Patients with congenital heart disease often require serial imaging examinations to monitor progression and determine the optimal time for interventions. While current global metrics of cardiac size and function, such as indexed ventricular mass and volumes, can identify patients at risk of adverse outcomes, they are not adequate to explain the underlying mechanisms causing them. Recently, data sharing initiatives enable collation of larger numbers of cases in order to enable morphometric informatics approaches. 
 
-This workshop will highlight recent advances in statistical atlases and modelling of congenital heart disease cohorts. Statistical atlases enable quantification of changes associated with disease and treatment therapies, and models are compatible with computation analysis of the mechanisms leading to these changes. Example topics are tetralogy of Fallot, single ventricle pathologies, volume and pressure overload, fluid structure interaction, growth and remodelling. The application of electromechanical models for interpretation of changes in shape and function across cohorts will be highlighted. The workshop will range from introductions of CHD anatomy and physiology for non-clinicians, to applications of data science methods for prediction of outcomes.
+Detailed program can be found <a href="../../assets/FIMH CAP Workshop Programme_Final.pdf" download="FIMH CAP Workshop Programme_Final">here</a>. 
+
+**Invited speakers**
+* Tetralogy of Fallot: Insights into the failing heart  *Kuberan Pushparajah, King’s College London*
+* Biventricular Shape Markers Discriminate Pulmonary Valve Replacement in Repaired Tetralogy of Fallot  *Sachin Govil, University of California San Diego*
+* Right ventricular deformation and 4D flow analysis in tetralogy of Fallot *Liang Zhong, National Heart Centre Singapore , Duke NUS Medical School, National University of Singapore*
+* Biomechanical modeling for congenital heart diseases  *Radomir Chabiniok, University of Texas Southwestern Medical Center*
 
 <img src="/assets/images/CAP_Fig.png" width="400px" />
 
