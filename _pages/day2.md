@@ -51,21 +51,21 @@ Break<br>10:30am - 10:45am (PDT)<br><span class="smaller">13:30am - 13:45pm (EDT
 	</div>
 	<div class="row">
 		<div class="detail-cell poster"><div class="center">Poster Session - 2<br>10:45am - 12:00pm (PDT)<br><span class="smaller">13:45pm - 15:00pm (EDT) | 18:45pm - 20:00pm (GMT) | 05:45am- 07:00am (NZST + 1 day)</span><br>
-				<p class="block-title-poster">Novel Approaches to Measuring Heart Deformation</p>
-			
+				<p class="block-title-poster">Poster Session 2A (PS2A): Novel Approaches to Measuring Heart Deformation</p>
+				<p class="block-title-poster">PS2A Group 1 10:45am - 11:20am PDT </p>
 				<h4>An Image Registration Framework to Estimate 3D Myocardial Strains From Cine Cardiac MRI in Mice</h4><span class="smaller">Maziyar Keshavarzian, Saurabh Chavan, Elizabeth Fugate, Mohammed Arif, Diana Lindquist, Sakthivel Sadayappan, Reza Avazmohammadi</span><br>
 				<h4>Multiscale Graph Convolutional Networks for Cardiac Motion Analysis</h4><span class="smaller">Ping Lu, Wenjia Bai, Daniel Rueckert, Alison Noble</span><br>
 				<h4>Reproducibility of Left Ventricular CINE DENSE Strain in Pediatric Subjects with Duchenne Muscular Dystrophy</h4><span class="smaller">Zhan-Qiu Liu, Nyasha Maforo, Pierangelo Renella, Nancy Halnon, Holden Wu, Daniel Ennis</span><br>
 				&nbsp;<br>
 				</div>
-				<div class="center"><p class="block-title-poster">Cardiac Microstructure: Measures to Models</p>
-			
+				<div class="center"><p class="block-title-poster">Poster Session 2B (PS2B): Cardiac Microstructure: Measures to Models</p>
+				<p class="block-title-poster">PS2B Group 1 10:45am - 11:20am PDT </p>
 				<h4>Systematic Study of Joint Influence of Angular Resolution and Noise in Cardiac Diffusion Tensor Imaging</h4><span class="smaller">Yunlong HE, Lihui Wang, Yang Feng, Yong Xia, Patrick CLARYSSE, Yuemin Zhu</span><br>
 				<h4>Analysis of Location-dependent Cardiomyocyte Branching</h4><span class="smaller">Alexander Wilson, Greg Sands, Daniel Ennis</span><br>
 				<h4>Quantitative Interpretation of Myocardial Fiber Structure in the Left and Right Ventricle of an<br>Equine Heart Using Diffusion Tensor Cardiovascular Magnetic Resonance Imaging</h4><span class="smaller">Hilke Straatman, Imke van der Schoor, Martijn Froeling, Glenn van Steenkiste, Robert Holtackers, Tammo Delhaas</span><br>&nbsp;<br>
 				</div>
-				<div class="center"><p class="block-title-poster">Cardiovascular Flow: Measurements and Simulations</p>
-
+				<div class="center"><p class="block-title-poster">Poster Session 2C (PS2C) Cardiovascular Flow: Measurements and Simulations</p>
+				<p class="block-title-poster">PS2C Group 1 10:45am - 11:20am PDT </p>
 				<h4>The Role of Extra-coronary Vascular Conditions That Affect Coronary Fractional Flow Reserve Estimation</h4><span class="smaller">Jermiah Joseph, Ting-Yim Lee, Daniel Goldman, Christopher McIntyre, Sanjay Kharche</span><br>
 				<h4>In-silico Analysis of the Influence of Pulmonary Vein Configuration on<br>Left Atrial Haemodynamics and Thrombus Formation in a Large Cohort</h4><span class="smaller">Jordi Mill, Andy Olivares, Xabier Morales, Jordina AViles, Jerome Noailly, Xavier Iriart, Hubert Cochet, Oscar Camara</span><br>
 				<h4>3-D Intraventricular Vector Flow Mapping Using Triplane Doppler Echo</h4><span class="smaller">Florian Vixège, Alain Berod, Franck Nicoud, Pierre-Yves Courand, Didier Vray, Damien Garcia</span><br>
@@ -73,7 +73,8 @@ Break<br>10:30am - 10:45am (PDT)<br><span class="smaller">13:30am - 13:45pm (EDT
 				</div>
 				&nbsp;<br>
 				
-				<div class="center"><p class="block-title-poster">Cardiac Mechanics: Measures and Models</p>
+				<div class="center"><p class="block-title-poster">Poster Session 2D (PS2D): Cardiac Mechanics: Measures and Models</p>
+				<p class="block-title-poster">PS2D Group 1 10:45am - 11:20am PDT </p>
 				<h4>From Clinical Imaging to Patient-specific Computational Model:<br>Rapid Adaptation of the Living Heart Human Model to a Case of Aortic Stenosis</h4><span class="smaller">Andrew Wisneski, Salvatore Cutugno, Ashley Stroh, Salvatore Pasta, Jiang Yao, Vaikom Mahadevan, Julius Guccione</span><br>
 				<h4>Model-assisted Time-synchronization of Cardiac MR Image and Catheter Pressure Data</h4><span class="smaller">Maria Gusseva, Joshua S. Greer, Daniel A. Castellanos, Mohamed Abdelghafar Hussein, Gerald Greil,<br>Surendranath R. Veeram Reddy, Tarique Hussain, Dominique Chapelle, Radomir Chabiniok</span><br>
 				<h4>Effects of Fibre Orientation on Electrocardiographic and Mechanical Functions<br>in a Computational Human Biventricular Model</h4><span class="smaller">Lei Wang, Zhinuo Jenny Wang, Rubén Doste, Alfonso Santiago, Xin Zhou, Adria Quintanas, Mariano Vazquez, Blanca Rodriguez</span><br>
@@ -81,7 +82,8 @@ Break<br>10:30am - 10:45am (PDT)<br><span class="smaller">13:30am - 13:45pm (EDT
 				<h4>Modeling Patient-specific Periaortic Interactions With Static and Dynamic Structures Using a Moving Heterogeneous Elastic Foundation Boundary Condition</h4><span class="smaller">Johane Bracamonte, John Wilson, Joao Soares</span><br>
 				&nbsp;<br>
 				</div>
-				<div class="center"><p class="block-title-poster">Translational Cardiac Mechanics</p>
+				<div class="center"><p class="block-title-poster">Poster Session 2E (PS2E): Translational Cardiac Mechanics</p>
+				<p class="block-title-poster">PS2E Group 1 10:45am - 11:20am PDT </p>
 				<h4>Personal-by-design: a 3D Electromechanical Model of the Heart Tailored for Personalisation</h4><span class="smaller">Gaetan Desrues, Delphine Feuerstein, Thierry Legay, Serge Cazeau, Maxime Sermesant</span><br>
 				<h4>Cardiac Modeling for Multisystem Inflammatory Syndrome in Children (MIS-C)</h4><span class="smaller">Rebecca Waugh, Mohamed Abdelghafar Hussein, Jamie Weller, Tarique Hussain, Radomir Chabiniok</span><br>
 				<h4>High-speed Simulation of the 3D Behavior of Myocardium Using a Neural Network PDE Approach</h4><span class="smaller">Wenbo Zhang, David Li, Tan Bui-Thanh, Michael Sacks</span><br>&nbsp;<br>
