@@ -52,11 +52,12 @@ Break<br>10:00am - 10:15am (PDT)<br><span class="smaller">13:00am - 13:15pm (EDT
 	<div class="row">
 		<div class="detail-cell poster"><div class="center">Poster Session - 1<br>10:15am - 11:30am (PDT)<br><span class="smaller">13:15pm - 14:30pm (EDT) | 18:15pm - 19:30pm (GMT) | 05:15am- 06:30am (NZST + 1 day)</span><br>
 				<p class="block-title-poster">Session 1A: Modeling Electrophysiology, ECG, and Arrhythmia</p>
-	
+				<p class="block-title-poster">Group 1</p>
 				<h4>Fast and Accurate Uncertainty Quantification for the ECG With Random Electrodes Location</h4><span class="smaller">Michael Multerer, Simone Pezzuto</span><br>
 				<h4>A Volume Source Method for Solving ECGI Inverse Problem</h4><span class="smaller">Mohamadou Malal Diallo, Yves Coudière, Remi DUBOIS</span><br>
 				<h4>Sensitivity Analysis of a Smooth Muscle Cell Electrophysiological Model</h4><span class="smaller">Sanjay Kharche, Galina Mironova, Daniel Goldman, Christopher McIntyre, Donald Welsh</span><br>
 				<h4>Simplified Electrophysiology Modeling Framework to Assess Ventricular Arrhythmia Risk in Infarcted Patients</h4><span class="smaller">Dolors Serra, Pau Romero, Miguel Lozano, Ignacio Garcia-Fernandez, Alejandro Liberos, Miguel Rodrigo, Antonio Berruezo, Alfonso Bueno-Orovio, Rafa Sebastian</span><br>
+				<p class="block-title-poster">Group 2</p>
 				<h4>Spiral Waves Generation Using an Eikonal-reaction Cardiac Electrophysiology Model</h4><span class="smaller">Narimane Gassa, Nejib Zemzemi, Cesare Corrado, Yves Coudière</span><br>
 				<h4>Uncertainty Quantification of the Effects of Segmentation Variability in ECGI</h4><span class="smaller">Jess Tate, Wilson Good, Nejib Zemzemi, Machteld Boonstra, Peter van Dam, Dana Brooks, Akil Narayan, Rob MacLeod</span><br>
 				<h4>EP-Net 2.0: Out-of-domain Generalisation for Deep Learning Models of Cardiac Electrophysiology</h4><span class="smaller">Victoriya Kashtanova, Ibrahim Ayed, Nicolas Cedilnik, Maxime Sermesant, Patrick Gallinari</span><br>
