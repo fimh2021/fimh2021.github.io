@@ -21,6 +21,7 @@ Posters will be presented in [SpatialChat](https://spatial.chat/), where rooms a
 Regarding the **poster format**, please see the instructions listed below:
 * Format: jpeg, highest quality. Please export from PDF or other formats to jpeg.
 * Sizing: 6912×5184 pixels. Equivalently, size ratio of 4:3, 48"x36", 144 dpi.
+* **Landscape** orientation (not portrait).
 * Maximum file size 10 Mb.
 * Confirm your poster looks good on laptop screens.
 * Please include your <span style="color:red">LNCS paper submission number</span> on the top left of your poster.
