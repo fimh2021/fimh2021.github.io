@@ -51,32 +51,35 @@ Break<br>10:00am - 10:15am (PDT)<br><span class="smaller">13:00am - 13:15pm (EDT
 	</div>
 	<div class="row">
 		<div class="detail-cell poster"><div class="center">Poster Session - 1<br>10:15am - 11:30am (PDT)<br><span class="smaller">13:15pm - 14:30pm (EDT) | 18:15pm - 19:30pm (GMT) | 05:15am- 06:30am (NZST + 1 day)</span><br>
-				<p class="block-title-poster">Session 1A: Modeling Electrophysiology, ECG, and Arrhythmia</p>
-				<p class="block-title-poster">Group 1</p>
+				<p class="block-title-poster">Poster Session 1A (PS1A): Modeling Electrophysiology, ECG, and Arrhythmia</p>
+				<p class="block-title-poster">PS1A Group 1 10:15am - 10:50am PDT </p>
 				<h4>Fast and Accurate Uncertainty Quantification for the ECG With Random Electrodes Location</h4><span class="smaller">Michael Multerer, Simone Pezzuto</span><br>
 				<h4>A Volume Source Method for Solving ECGI Inverse Problem</h4><span class="smaller">Mohamadou Malal Diallo, Yves Coudière, Remi DUBOIS</span><br>
 				<h4>Sensitivity Analysis of a Smooth Muscle Cell Electrophysiological Model</h4><span class="smaller">Sanjay Kharche, Galina Mironova, Daniel Goldman, Christopher McIntyre, Donald Welsh</span><br>
 				<h4>Simplified Electrophysiology Modeling Framework to Assess Ventricular Arrhythmia Risk in Infarcted Patients</h4><span class="smaller">Dolors Serra, Pau Romero, Miguel Lozano, Ignacio Garcia-Fernandez, Alejandro Liberos, Miguel Rodrigo, Antonio Berruezo, Alfonso Bueno-Orovio, Rafa Sebastian</span><br>
-				<p class="block-title-poster">Group 2</p>
+				<p class="block-title-poster">PS1A Group 2 10:55am - 11:30am PDT </p>
 				<h4>Spiral Waves Generation Using an Eikonal-reaction Cardiac Electrophysiology Model</h4><span class="smaller">Narimane Gassa, Nejib Zemzemi, Cesare Corrado, Yves Coudière</span><br>
 				<h4>Uncertainty Quantification of the Effects of Segmentation Variability in ECGI</h4><span class="smaller">Jess Tate, Wilson Good, Nejib Zemzemi, Machteld Boonstra, Peter van Dam, Dana Brooks, Akil Narayan, Rob MacLeod</span><br>
 				<h4>EP-Net 2.0: Out-of-domain Generalisation for Deep Learning Models of Cardiac Electrophysiology</h4><span class="smaller">Victoriya Kashtanova, Ibrahim Ayed, Nicolas Cedilnik, Maxime Sermesant, Patrick Gallinari</span><br>
 
-				<div class="center"><p class="block-title-poster">Atrial Microstructure, Modeling, and Thrombosis Prediction</p></div>
+				<div class="center"><p class="block-title-poster">Poster Session 1B (PS1B): Atrial Microstructure, Modeling, and Thrombosis Prediction</p></div>
+				<p class="block-title-poster">PS1B Group 1 10:15am - 10:50am PDT </p>
 				<h4>Computational Modeling of the Role of Atrial Fibrillation on Cerebral Blood Perfusion.</h4><span class="smaller">Timothy Hunter, Jermiah Joseph, Udunna Anazodo, Sanjay Kharche, Christopher McIntyre, Daniel Goldman</span><br>
 				<h4>Intra-cardiac Signatures of Atrial Arrhythmias Identified by Machine Learning and Traditional Features</h4><span class="smaller">Miguel Rodrigo, Benjamin Pagano, Sumiran Takur, Alejandro Liberos, Rafa Sebastian, Sanjiv Narayan</span><br>
 				<h4>The Effect of Ventricular Myofibre Orientation on Atrial Dynamics</h4><span class="smaller">Marina Strocchi, Christoph M Augustin, Matthias A F Gsell, Elias Karabelas, Aurel Neic, Karli Gillette, Caroline Roney, Orod Razeghi, Jonathan M Behar, Christopher A Rinaldi, Edward Vigmond, Martin J Bishop, Gernot Plank, Steven Niederer</span><br>&nbsp;<br>
 					</div>
-				<div class="center"><p class="block-title-poster">Session 1B: Advanced Cardiac and Cardiovascular Image Processing</p>
-			
+				<div class="center"><p class="block-title-poster">Poster Session 1C (PS1C): Advanced Cardiac and Cardiovascular Image Processing</p>
+				<p class="block-title-poster">PS1C Group 1 10:15am - 10:50am PDT </p>
 				<h4>A Multistep Machine Learning Approach for Left Ventricle <br>Short Axis MR Image Segmentation and Surface Generation</h4><span class="smaller">Andre Von Zuben, Kylie Heckman, Felipe Viana, Luigi Perotti</span><br>
 				<h4>Domain Adaptation for Automatic Aorta Segmentation of 4D Flow<br> Magnetic Resonance Imaging Data From Multiple Vendor Scanners</h4><span class="smaller">Jordina AViles, Gonzalo Maso Talou, Oscar Camara, Marcos Mejía Córdova, Xabier Morales, Daniel Romero, Edward Ferdian, Kathleen Gilbert, Ayah Elsayed, Alistair Young,Lydia Dux-Santoy, Aroa Ruiz-Munoz, Gisela Teixido-Tura, Jose Rodriguez-Palomares, Andrea Guala</span><br>
 				<h4>Efficient Model Monitoring for Quality Control in Cardiac Image Segmentation</h4><span class="smaller">Francesco Galati, Maria A. Zuluaga</span><br>
 				<h4>Improved High Frame Rate Speckle Tracking for Echocardiography</h4><span class="smaller">Marta Orlowska, Alessandro Ramalli, Jan D’hooge</span><br>
+				<p class="block-title-poster">PS1C Group 2 10:55am - 11:30am PDT </p>
 				<h4>Assessment of Geometric Models for the Approximation of Aorta Cross-sections</h4><span class="smaller">Pau Romero, Dolors Serra, Miguel Lozano, Rafa Sebastian, Ignacio Garcia-Fernandez</span><br>
 				<h4>Optimisation of Left Atrial Motion Tracking using Retrospective Gated Computed Tomography Images</h4><span class="smaller">Charles Sillett, Orod Razeghi, Marina Strocchi, Caroline Roney, Hugh O'Brien, Daniel Ennis, Ulrike Haberland, Ronak Rajani, Steven Niederer</span><br>
 				<h4>Whole Heart Anatomical Refinement From CCTA using Extrapolation and Parcellation</h4><span class="smaller">Hao Xu, Steven Niederer, Steven Williams, David Newby, Michelle Williams, Alistair Young</span><br>
 				<h4>Three-dimensional Embedded Attentive RNN (3D-EAR) Segmentor <br>For Left Ventricle Delineation From Myocardial Velocity Mapping</h4><span class="smaller">Mengmeng Kuang, Yinzhe Wu, Lufei Gao, Diego Alonso-Álvarez, David Firmin, Jennifer Keegan, Peter Gatehouse, Guang Yang</span><br>
+				<p class="block-title-poster">PS1C Group 3 10:15am - 10:50am PDT </p>
 				<h4>Cardiac MRI Left Ventricular Segmentation and Function Quantification Using Pre-trained Neural Networks</h4><span class="smaller">Fumin Guo, Matthew Ng, Idan Roifman, Graham Wright</span><br>
 				<h4>Image-Derived Geometric Characteristics Predict Abdominal<br> Aortic Aneurysm Growth in a Machine Learning Model</h4><span class="smaller">Jordan Stoecker, Kevin Eddinger, Alison Pouch, Benjamin Jackson</span><br>
 				<h4>Shape Constraints in Deep Learning For Robust 2D Echocardiography Analysis</h4><span class="smaller">Yingyu YANG, Maxime Sermesant</span><br>
