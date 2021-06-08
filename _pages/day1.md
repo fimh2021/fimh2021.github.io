@@ -37,7 +37,7 @@ classes: wide
 			
 		<h4>Using the Universal Atrial Coordinate System for MRI and Electroanatomic<br>Data Registration in Patient-specific Atrial Model Construction and Simulation</h4><span class="smaller">Marianne Beach, Iain Sim, Arihant Mehta, Irum Kotadia, Daniel O’Hare, John Whitaker, Jose Alonso Solis-Lemus,<br> Orod Razeghi, Amedeo Chiribiri, Mark O’Neill, Steven Williams, Steven Niederer, Caroline Roney</span><br>
 		<h4>Learning Atrial Fiber Orientations and Conductivity Tensors From Intracardiac Maps<br>Using Physics-informed Neural Networks</h4><span class="smaller">Thomas Grandits, Simone Pezzuto, Francisco Sahli, Paris Perdikaris, Thomas Pock, Gernot Plank, Rolf Krause</span><br>
-		<h4>Geometric Deep Learning for the Assessment of Thrombosis Risk in the Left Atrial Appendage</h4><span class="smaller">Xabier Morales, Jordi Mill, Guillem Simeon, Kristine A. Juhl, Ole De Backer, Oscar Camara, Rasmus Reinhold Paulsen</span><br>
+		<h4>Geometric Deep Learning for the Assessment of Thrombosis Risk in the Left Atrial Appendage</h4><span class="smaller">Xabier Morales, Jordi Mill, Guillem Simeon, Kristine A. Juhl, Ole De Backer, Rasmus Reinhold Paulsen, Oscar Camara</span><br>
 		<h4>Shape Analysis and Computational Fluid Simulations to Assess Feline Left Atrial Function and Thrombogenesis</h4><span class="smaller">Andy Olivares, Maria Isabel Pons, Jordi Mill, Jose Novo Matos, Patricia Garcia-Canadilla, Inma Cerrada, Anna Guy, J. Ciaran Hutchinson, Ian C. Simcock, Owen J. Arthurs, Andrew C. Cook, Virginia Luis Fuentes, Oscar Camara</span><br>&nbsp;<br>
 		</div>
 	</div>	
