@@ -13,7 +13,7 @@ classes: wide
 		</div></div>
 	</div>
 	<div class="row">
-		<div class="detail-cell gray"><div class="center">Opening Remarks (Day 2)<br>Luigi Perotti, PhD<br>Department of Mechanical and Aerospace Engineering, University of Central Florida<br>07:40am - 07:50am (PDT)<br><span class="smaller">10:40am - 10:50am (EDT) | 15:40pm - 15:50pm (GMT) | 02:40am- 02:50am (NZST + 1 day)</span>
+		<div class="detail-cell gray"><div class="center"><b>Opening Remarks (Day 2)</b><br><b>Luigi Perotti, PhD</b><br>Department of Mechanical and Aerospace Engineering, University of Central Florida<br>07:40am - 07:50am (PDT)<br><span class="smaller">10:40am - 10:50am (EDT) | 15:40pm - 15:50pm (GMT) | 02:40am- 02:50am (NZST + 1 day)</span>
 		</div></div>
 	</div>
 	<div class="row">
