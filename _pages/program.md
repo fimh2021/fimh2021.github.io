@@ -75,7 +75,7 @@ Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Details are as fol
 		<div class="cell-narrow">07:00am - 07:40am (PDT)<br><span class="smaller">10:00am - 10:40am (EDT)<br>15:00pm - 15:40pm (GMT)<br>02:00am- 02:40am (NZST + 1 day)</span></div><div class="cell trainee">Trainee Event (Europe)</div>
 	</div>
 	<div class="row">
-		div class="cell-narrow">07:40am - 07:50am (PDT)<br><span class="smaller">10:40am - 10:50am (EDT)<br>15:40pm - 15:50pm (GMT)<br>02:40am- 02:50am (NZST + 1 day)</span></div><div class="cell trainee"><b>Opening Remark (Day 2)</b><br><b>Luigi Perotti, PhD</b><br>Department of Mechanical and Aerospace Engineering, University of Central Florida<br></div>
+		div class="cell-narrow">07:40am - 07:50am (PDT)<br><span class="smaller">10:40am - 10:50am (EDT)<br>15:40pm - 15:50pm (GMT)<br>02:40am- 02:50am (NZST + 1 day)</span></div><div class="cell"><b>Opening Remark (Day 2)</b><br><b>Luigi Perotti, PhD</b><br>Department of Mechanical and Aerospace Engineering, University of Central Florida<br></div>
 	</div>
 	<div class="row">
 		<div class="cell-narrow">07:50am - 08:30am (PDT)<br><span class="smaller">10:50am - 11:30am (EDT)<br>15:50pm - 16:30pm (GMT)<br>02:50am- 03:30am (NZST + 1 day)</span></div><div class="cell keynote"><b>Keynote</b><br><b>Steffen Petersen, MD</b><br>Queen Mary University of London &amp; Barts Heart Centre, Barts Health NHS Trust</div>
@@ -103,7 +103,7 @@ Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Details are as fol
 		<div class="cell-narrow">06:45am - 08:15am (PDT)<br><span class="smaller">09:45am - 11:15am (EDT)<br>14:45pm - 16:15pm (GMT)<br>01:45am- 03:15am (NZST + 1 day)</span></div><div class="cell special">Special Theme Session: MIS-C &amp; Covid</div>
 	</div>
 	<div class="row">
-		<div class="cell-narrow">08:15am - 08:30am (PDT)<br><span class="smaller">11:15am - 11:30am (EDT)<br>16:15pm - 16:30pm (GMT)<br>03:15am- 03:30am (NZST + 1 day)</span></div><div class="cell special"><b>Opening Remark (Day 3) </b><br><b>Vicky Wang, PhD</b><br>Department of Radiology, Stanford University<br></div>
+		<div class="cell-narrow">08:15am - 08:30am (PDT)<br><span class="smaller">11:15am - 11:30am (EDT)<br>16:15pm - 16:30pm (GMT)<br>03:15am- 03:30am (NZST + 1 day)</span></div><div class="cell"><b>Opening Remark (Day 3) </b><br><b>Vicky Wang, PhD</b><br>Department of Radiology, Stanford University<br></div>
 	</div>
 	<div class="row">
 		<div class="cell-narrow">08:30am - 10:30am (PDT)<br><span class="smaller">11:30am - 13:30pm (EDT)<br>16:30pm - 18:30pm (GMT)<br>03:30am- 05:30am (NZST + 1 day)</span></div><div class="cell session">Oral Sessions<br>Session 5: Cardiac Mechanics: Measures and Models<br><br>Session 6: Translational Cardiac Mechanics</div>
