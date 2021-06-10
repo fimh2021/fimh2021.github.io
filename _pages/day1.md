@@ -9,7 +9,7 @@ classes: wide
 <h3 class="date">Tuesday, June 22</h3>
 
 	<div class="row">
-		<div class="detail-cell gray"><div class="center">Opening Remarks<br><span class="smaller">07:00am - 07:20am (PDT) | 10:00am - 10:20am (EDT) | 15:00pm - 15:20pm (GMT) | 02:00am- 02:20am (NZST + 1 day)</span>
+		<div class="detail-cell gray"><div class="center"><b>Opening Remarks</b><br><span class="smaller">07:00am - 07:20am (PDT) | 10:00am - 10:20am (EDT) | 15:00pm - 15:20pm (GMT) | 02:00am- 02:20am (NZST + 1 day)</span>
 		<h4>Daniel Ennis, PhD</h4><p>Department of Radiology, Stanford University</p></div></div>
 	</div>
 	<div class="row">
@@ -25,8 +25,7 @@ classes: wide
 	<div class="row">
 		<div class="detail-cell session">
 			<div class="center">Oral Sessions<br>08:00am - 10:00am (PDT)<br><span class="smaller">11:00am - 13:00pm (EDT) | 16:00pm - 18:00pm (GMT) | 03:00am- 05:00am (NZST + 1 day)</span><br>
-		<p class="block-title">Session 1: Modeling Electrophysiology, ECG, and Arrhythmia<br><span class="smaller">Moderators: Linwei Wang and Caroline Roney</span></p>
-		<div class="center">08:00am - 08:40am (PDT)<br><span class="smaller">11:00am - 11:40pm (EDT) | 16:00pm - 16:40pm (GMT) | 03:00am- 03:40am (NZST + 1 day)</span><br>
+		<p class="block-title">Session 1: Modeling Electrophysiology, ECG, and Arrhythmia<br>Moderators: Linwei Wang and Caroline Roney<br><div class="center">08:00am - 08:40am (PDT)<br><span class="smaller">11:00am - 11:40pm (EDT) | 16:00pm - 16:40pm (GMT) | 03:00am- 03:40am (NZST + 1 day)</span><br></p>
 		<h4>Scar-Related Ventricular Arrhythmia Prediction from Imaging using Explainable Deep Learning</h4><span class="smaller center">Buntheng LY, Sonny Finsterbach, Marta Nuñez-Garcia, Hubert Cochet, Maxime Sermesant</span><br>
 		<h4>The Effect of Modeling Assumptions on the ECG in Monodomain and Bidomain Simulations</h4><span class="smaller">Dennis Ogiermann, Daniel Balzani, Luigi Perotti</span><br>
 		<h4>Simultaneous Multi-heartbeat ECGI Solution with a Time-varying Forward Model: a Joint Inverse Formulation</h4><span class="smaller"> Jake Bergquist, Jaume Coll-Font, Brian Zenger, Lindsay Rupp, Wilson Good, Dana Brooks, Rob MacLeod</span><br>
@@ -47,10 +46,7 @@ classes: wide
 </div>
 	<div class="row">
 		<div class="detail-cell">		
-			<div class="center">
-Break<br>10:00am - 10:15am (PDT)<br><span class="smaller">13:00am - 13:15pm (EDT) | 18:00pm - 18:15pm (GMT) | 05:00am- 05:15am (NZST + 1 day)</span>
-					</div>
-
+			<div class="center">Break<br>10:00am - 10:15am (PDT)<br><span class="smaller">13:00am - 13:15pm (EDT) | 18:00pm - 18:15pm (GMT) | 05:00am- 05:15am (NZST + 1 day)</span></div>
 	</div>
 	<div class="row">
 		<div class="detail-cell poster"><div class="center">Poster Session - 1<br>10:15am - 11:30am (PDT)<br><span class="smaller">13:15pm - 14:30pm (EDT) | 18:15pm - 19:30pm (GMT) | 05:15am- 06:30am (NZST + 1 day)</span><br>
