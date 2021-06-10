@@ -25,20 +25,23 @@ classes: wide
 	<div class="row">
 		<div class="detail-cell session">
 			<div class="center">Oral Sessions<br>08:00am - 10:00am (PDT)<br><span class="smaller">11:00am - 13:00pm (EDT) | 16:00pm - 18:00pm (GMT) | 03:00am- 05:00am (NZST + 1 day)</span><br>
-		<p class="block-title">Session 1: Modeling Electrophysiology, ECG, and Arrhythmia<br><span class="smaller">Moderators: TBD</span></p>
-			
+		<p class="block-title">Session 1: Modeling Electrophysiology, ECG, and Arrhythmia<br><span class="smaller">Moderators: Linwei Wang and Caroline Roney</span></p>
+		<div class="center">08:00am - 08:40am (PDT)<br><span class="smaller">11:00am - 11:40pm (EDT) | 16:00pm - 16:40pm (GMT) | 03:00am- 03:40am (NZST + 1 day)</span><br>
 		<h4>Scar-Related Ventricular Arrhythmia Prediction from Imaging using Explainable Deep Learning</h4><span class="smaller center">Buntheng LY, Sonny Finsterbach, Marta Nuñez-Garcia, Hubert Cochet, Maxime Sermesant</span><br>
 		<h4>The Effect of Modeling Assumptions on the ECG in Monodomain and Bidomain Simulations</h4><span class="smaller">Dennis Ogiermann, Daniel Balzani, Luigi Perotti</span><br>
 		<h4>Simultaneous Multi-heartbeat ECGI Solution with a Time-varying Forward Model: a Joint Inverse Formulation</h4><span class="smaller"> Jake Bergquist, Jaume Coll-Font, Brian Zenger, Lindsay Rupp, Wilson Good, Dana Brooks, Rob MacLeod</span><br>
 		<h4>Deep Adaptive Electrocardiographic Imaging With Generative Forward Model for Error Reduction</h4><span class="smaller">Maryam Toloubidokhti, Prashnna K. Gyawali, Omar A. Gharbia, Xiajun Jiang, Jaume Coll-Font, Jake Bergquist,<br> Brian Zenger, Wilson W. Good, Dana H. Brooks, Rob S. MacLeod, Linwei Wang</span><br>&nbsp;<br>
+		<div class="center">Break<br>08:40am - 08:50am (PDT)<br><span class="smaller">11:40am - 11:50pm (EDT) | 16:40pm - 16:50pm (GMT) | 03:40am- 03:50am (NZST + 1 day)</span><br>
 		</div>
 		<div class="center">
-			<p class="block-title">Session 2: Atrial Microstructure, Modeling, and Thrombosis Prediction<br><span class="smaller">Moderators: TBD</span></p>
+		<p class="block-title">Session 2: Atrial Microstructure, Modeling, and Thrombosis Prediction<br><span class="smaller">Moderators: Steven Niederer and Rafa Sebastian</span></p>
+		<div class="center">08:50am - 09:30am (PDT)<br><span class="smaller">11:50am - 12:30pm (EDT) | 16:50pm - 17:30pm (GMT) | 03:50am- 04:30am (NZST + 1 day)</span><br>
 			
 		<h4>Using the Universal Atrial Coordinate System for MRI and Electroanatomic<br>Data Registration in Patient-specific Atrial Model Construction and Simulation</h4><span class="smaller">Marianne Beach, Iain Sim, Arihant Mehta, Irum Kotadia, Daniel O’Hare, John Whitaker, Jose Alonso Solis-Lemus,<br> Orod Razeghi, Amedeo Chiribiri, Mark O’Neill, Steven Williams, Steven Niederer, Caroline Roney</span><br>
 		<h4>Learning Atrial Fiber Orientations and Conductivity Tensors From Intracardiac Maps<br>Using Physics-informed Neural Networks</h4><span class="smaller">Thomas Grandits, Simone Pezzuto, Francisco Sahli, Paris Perdikaris, Thomas Pock, Gernot Plank, Rolf Krause</span><br>
 		<h4>Geometric Deep Learning for the Assessment of Thrombosis Risk in the Left Atrial Appendage</h4><span class="smaller">Xabier Morales, Jordi Mill, Guillem Simeon, Kristine A. Juhl, Ole De Backer, Rasmus Reinhold Paulsen, Oscar Camara</span><br>
 		<h4>Shape Analysis and Computational Fluid Simulations to Assess Feline Left Atrial Function and Thrombogenesis</h4><span class="smaller">Andy Olivares, Maria Isabel Pons, Jordi Mill, Jose Novo Matos, Patricia Garcia-Canadilla, Inma Cerrada, Anna Guy, J. Ciaran Hutchinson, Ian C. Simcock, Owen J. Arthurs, Andrew C. Cook, Virginia Luis Fuentes, Oscar Camara</span><br>&nbsp;<br>
+		<div class="center"><b>Break-out Session</b><br>09:30am - 10:00am (PDT)<br><span class="smaller">12:30am - 13:00pm (EDT) | 17:30pm - 18:00pm (GMT) | 04:30am- 05:00am (NZST + 1 day)</span><br>
 		</div>
 	</div>	
 </div>
@@ -89,7 +92,7 @@ Break<br>10:00am - 10:15am (PDT)<br><span class="smaller">13:00am - 13:15pm (EDT
 		</div>
 	</div>		
 	<div class="row">
-		<div class="detail-cell gray"><div class="center">FIMH Town Hall Meeting (Pitch for FIMH 2023)<br>11:30am - 12:00pm (PDT)<br><span class="smaller">14:30pm - 15:00pm (EDT) | 19:30pm - 20:00pm (GMT) | 06:30am- 07:00am (NZST + 1 day)</span></div>
+		<div class="detail-cell gray"><div class="center">FIMH Town Hall Meeting (Pitch for FIMH 2023)<br>11:30am - 12:30pm (PDT)<br><span class="smaller">14:30pm - 15:30pm (EDT) | 19:30pm - 20:30pm (GMT) | 06:30am- 07:30am (NZST + 1 day)</span></div>
 		</div>
 	</div>	
 	<div class="row">
