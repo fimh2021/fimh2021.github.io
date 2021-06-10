@@ -13,7 +13,7 @@ classes: wide
 		<h4>Daniel Ennis, PhD</h4><p>Department of Radiology, Stanford University</p></div></div>
 	</div>
 	<div class="row">
-		<div class="detail-cell keynote"><div class="center">Keynote<br>07:20am - 08:00am (PDT)<br><span class="smaller">10:20am - 11:00am (EDT) | 15:20pm - 16:00pm (GMT) | 02:20am- 03:00am (NZST + 1 day)</span></div>
+		<div class="detail-cell keynote"><div class="center"><b>Keynote (Moderator: Alan Garfinkel)</b><br>07:20am - 08:00am (PDT)<br><span class="smaller">10:20am - 11:00am (EDT) | 15:20pm - 16:00pm (GMT) | 02:20am- 03:00am (NZST + 1 day)</span></div>
 		<h4>"Enabling Precision Cardiology through the Digital Twin and In Silico Trials"</h4>
 		<h4>Blanca Rodriguez, PhD</h4><p><b>Professor of Computational Medicine, Department of Computer Science, University of Oxford</b></p>
 
