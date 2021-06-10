@@ -32,7 +32,7 @@ classes: wide
 		<h4>In Silico Mapping of the Omecamtiv Mecarbil Effects From the Sarcomere to the Whole-heart and Back Again</h4><span class="smaller">Stefano Longobardi, Anna Sher, Steven Niederer</span><br>
 		<h4>On the Interrelationship Between Left Ventricle Infarction Geometry and Ischemic Mitral Regurgitation Grade</h4><span class="smaller">Hao Liu, Harshita Narang, Robert Gorman, Joseph Gorman, Michael Sacks</span><br>
 		<h4>Cardiac support for the right ventricle: effects of timing on hemodynamics-biomechanics tradeoff</h4><span class="smaller">Ileana Pirozzi, Ali Kight, Edgar Aranda-Michael, Rohan Shad, Yuanjia Zhu, Lewis K. Waldman, William Hiesinger, Mark Cutkosky</span><br>&nbsp;<br>
-		<div class="center"><b>Break-out Session</b><br>10:00am - 10:30am (PDT)<br><span class="smaller">13:00pm - 13:30pm (EDT) | 18:00pm - 18:30pm (GMT) | 05:00am- 05:30am (NZST + 1 day)</span><br>
+		<div class="center"><b>Break-out Session</b><br>10:00am - 10:30am (PDT)<br><span class="smaller">13:00pm - 13:30pm (EDT) | 18:00pm - 18:30pm (GMT) | 05:00am- 05:30am (NZST + 1 day)</span></div>
 		</div>
 	</div>	
 </div>
@@ -43,7 +43,7 @@ Break<br>10:30am - 10:50am (PDT)<br><span class="smaller">13:30am - 13:50pm (EDT
 			</div>
 	</div>
 	<div class="row">
-		<div class="detail-cell keynote"><div class="center">Keynote<br>10:50am - 11:30am (PDT)<br><span class="smaller">14:30pm - 15:00pm (EDT) | 19:30pm - 20:00pm (GMT) | 06:30am- 07:00am (NZST + 1 day)</span></div>
+		<div class="detail-cell keynote"><div class="center"><b>Keynote (Moderator: Seraina Dual)<b/><br>10:50am - 11:30am (PDT)<br><span class="smaller">14:30pm - 15:00pm (EDT) | 19:30pm - 20:00pm (GMT) | 06:30am- 07:00am (NZST + 1 day)</span></div>
 		<h4>Joseph Woo, MD</h4><p><b>Professor and Chair, Department of Cardiothoracic Surgery, Stanford University School of Medicine</b></p>
 <p><img align="right" src="/assets/images/JosephWoo.jpg" width="250" style="margin-left: 12px;">Joseph Woo, M.D. is a Professor and Chair of the Department of Cardiothoracic Surgery at the Stanford University School of Medicine. As an NIH funded investigator his laboratory explores the biomechanics optimization of cardiac valve repair operations and angiogenic bioengineering systems to optimize post-infarction remodeling. With over three hundred journal articles he is both highly productive and widely known for his contributions to clinical surgery, cardiovascular device development, and basic science research. </p>
 <p>Dr. Woo's website is available here: <a href="https://profiles.stanford.edu/joseph-woo" target="_blank">here</a>.</p>
