@@ -32,7 +32,7 @@ classes: wide
 		<h4>In Silico Mapping of the Omecamtiv Mecarbil Effects From the Sarcomere to the Whole-heart and Back Again</h4><span class="smaller">Stefano Longobardi, Anna Sher, Steven Niederer</span><br>
 		<h4>On the Interrelationship Between Left Ventricle Infarction Geometry and Ischemic Mitral Regurgitation Grade</h4><span class="smaller">Hao Liu, Harshita Narang, Robert Gorman, Joseph Gorman, Michael Sacks</span><br>
 		<h4>Cardiac support for the right ventricle: effects of timing on hemodynamics-biomechanics tradeoff</h4><span class="smaller">Ileana Pirozzi, Ali Kight, Edgar Aranda-Michael, Rohan Shad, Yuanjia Zhu, Lewis K. Waldman, William Hiesinger, Mark Cutkosky</span><br>&nbsp;<br>
-		<div class="center"><b>Break-out Session</b><br>10:00am - 10:30am (PDT)<br><span class="smaller">13:00pm - 13:30pm (EDT) | 18:00pm - 18:30pm (GMT) | 05:00am- 05:30am (NZST + 1 day)</span></div>
+		<div class="center"><b>Break-out Session</b><br>10:00am - 10:30am (PDT)<br><span class="smaller">13:00pm - 13:30pm (EDT) | 18:00pm - 18:30pm (GMT) | 05:00am- 05:30am (NZST + 1 day)</span>
 		</div>
 	</div>	
 </div>
