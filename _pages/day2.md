@@ -9,7 +9,11 @@ classes: wide
 <h3 class="date">Wednesday, June 23</h3>
 
 	<div class="row">
-		<div class="detail-cell trainee"><div class="center">Trainee Event (Europe)<br>07:00am - 07:45am (PDT)<br><span class="smaller">10:00am - 10:45am (EDT) | 15:00pm - 15:45pm (GMT) | 02:00am- 02:45am (NZST + 1 day)</span>
+		<div class="detail-cell trainee"><div class="center">Trainee Event (Europe)<br>07:00am - 07:40am (PDT)<br><span class="smaller">10:00am - 10:40am (EDT) | 15:00pm - 15:40pm (GMT) | 02:00am- 02:40am (NZST + 1 day)</span>
+		</div></div>
+	</div>
+	<div class="row">
+		<div class="detail-cell gray"><div class="center">Opening Remarks (Day 2)<br>Luigi Perotti, PhD<br>Department of Mechanical and Aerospace Engineering, University of Central Florida<br>07:40am - 07:50am (PDT)<br><span class="smaller">10:40am - 10:50am (EDT) | 15:40pm - 15:50pm (GMT) | 02:40am- 02:50am (NZST + 1 day)</span>
 		</div></div>
 	</div>
 	<div class="row">
@@ -25,21 +29,20 @@ classes: wide
 	<div class="row">
 		<div class="detail-cell session">
 			<div class="center">Oral Sessions<br>08:30am - 10:30am (PDT)<br><span class="smaller">11:30am - 13:30pm (EDT) | 16:30pm - 18:30pm (GMT) | 03:30am- 05:30am (NZST + 1 day)</span><br>
-		<p class="block-title">Session 3: Novel Approaches to Measuring Heart Deformation<br><span class="smaller">Moderators: TBD</span></p>
-			
+		<p class="block-title">Session 3: Novel Approaches to Measuring Heart Deformation<br>Moderators: Fred Epstein and Ping Lu<br>08:30am - 09:10am (PDT)<br><span class="smaller">11:30am - 12:10pm (EDT) | 16:30pm - 17:10pm (GMT) | 03:30am - 04:10am (NZST + 1 day)</span></p>
 		<h4>CNN-based Cardiac Motion Extraction to Generate Deformable Geometric<br>Left Ventricle Myocardial Models From Cine MRI</h4><span class="smaller">Roshan Reddy Upendra, Brian Jamison Wentz, Richard Simon, Suzanne Shontz, Cristian Linte</span><br>
 		<h4>M-SiSSR: Regional Endocardial Function Using Multilabel Simultaneous Subdivision Surface Registration</h4><span class="smaller">Davis Vigneault, Francisco Contijoch, Christopher Bridge, Elliot McVeigh</span><br>
 		<h4>Investigation of the Impact of Normalization on the Study of<br>Interactions Between Myocardial Shape and Deformation</h4><span class="smaller">Maxime Di Folco, Nicolas Guigui, Patrick Clarysse, Pamela Moceri, Nicolas Duchateau</span><br>
 		<h4>Arbitrary Point Tracking With Machine Learning to Measure Cardiac Strain in Tagged MRI</h4><span class="smaller">Michael Loecher, Ariel Hannum, Luigi Perotti, Daniel Ennis</span><br>&nbsp;<br>
+		<div class="center">Break<br>09:10am - 09:20am (PDT)<br><span class="smaller">12:10pm - 12:20pm (EDT) | 17:10pm - 17:20pm (GMT) | 04:10am- 04:20am (NZST + 1 day)</span><br>
 		</div>
 		<div class="center">
-			<p class="block-title">Session 4: Cardiac Microstructure – Measures to Models<br><span class="smaller">Moderators: TBD</span></p>
-		
-
+		<p class="block-title">Session 4: Cardiac Microstructure – Measures to Models<br>Moderators: Andrew Scott and Bianca Freytag<br>09:20am - 10:00am (PDT)<br><span class="smaller">12:20pm - 13:00pm (EDT) | 17:20pm - 18:00pm (GMT) | 04:20am- 05:00am (NZST + 1 day)</span></p>
 		<h4>Spatially Constrained Deep Learning Approach for Myocardial T1 Mapping</h4><span class="smaller">Maria Angeles Iglesias, Oscar Camara, Marta Sitges, Gaspar Delso</span><br>
 		<h4>Diffusion Biomarkers in Chronic Myocardial Infarction</h4><span class="smaller">Tanjib Rahman, Kevin Moulin, Daniel Ennis, Luigi Perotti</span><br>
 		<h4>A Methodology for Accessing the Local Arrangement of the Sheets That Make Up the Extracellular Heart Tissue</h4><span class="smaller">Shunli Wang, François Varray, Feng Yuan, isabelle Magnin</span><br>
 		<h4>A High-Fidelity 3D Micromechanical Model of Ventricular Myocardium</h4><span class="smaller">David Li, Emilio Mendiola, Reza Avazmohammadi, Frank Sachse, Michael Sacks</span><br>&nbsp;<br>
+		<div class="center"><b>Break-out Session</b><br>10:00am - 10:30am (PDT)<br><span class="smaller">13:00am - 13:30pm (EDT) | 18:00pm - 18:30pm (GMT) | 05:00am- 05:30am (NZST + 1 day)</span></div>
 		</div>
 	</div>	
 	</div>
