@@ -43,7 +43,7 @@ Break<br>10:30am - 10:50am (PDT)<br><span class="smaller">13:30am - 13:50pm (EDT
 			</div>
 	</div>
 	<div class="row">
-		<div class="detail-cell keynote"><div class="center"><b>Keynote (Moderator: Seraina Dual)<b/><br>10:50am - 11:30am (PDT)<br><span class="smaller">14:30pm - 15:00pm (EDT) | 19:30pm - 20:00pm (GMT) | 06:30am- 07:00am (NZST + 1 day)</span></div>
+		<div class="detail-cell keynote"><div class="center"><b>Keynote (Moderator: Seraina Dual)</b><br>10:50am - 11:30am (PDT)<br><span class="smaller">14:30pm - 15:00pm (EDT) | 19:30pm - 20:00pm (GMT) | 06:30am- 07:00am (NZST + 1 day)</span></div>
 		<h4>Joseph Woo, MD</h4><p><b>Professor and Chair, Department of Cardiothoracic Surgery, Stanford University School of Medicine</b></p>
 <p><img align="right" src="/assets/images/JosephWoo.jpg" width="250" style="margin-left: 12px;">Joseph Woo, M.D. is a Professor and Chair of the Department of Cardiothoracic Surgery at the Stanford University School of Medicine. As an NIH funded investigator his laboratory explores the biomechanics optimization of cardiac valve repair operations and angiogenic bioengineering systems to optimize post-infarction remodeling. With over three hundred journal articles he is both highly productive and widely known for his contributions to clinical surgery, cardiovascular device development, and basic science research. </p>
 <p>Dr. Woo's website is available here: <a href="https://profiles.stanford.edu/joseph-woo" target="_blank">here</a>.</p>
