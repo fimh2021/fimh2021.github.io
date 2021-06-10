@@ -17,7 +17,7 @@ classes: wide
 		</div></div>
 	</div>
 	<div class="row">
-		<div class="detail-cell keynote"><div class="center">Keynote<br>07:50am - 08:30am (PDT)<br><span class="smaller">10:50am - 11:30am (EDT) | 15:50pm - 16:30pm (GMT) | 02:50am- 03:30am (NZST + 1 day)</span></div>
+		<div class="detail-cell keynote"><div class="center"><b>Keynote (Moderator: Alistair Young)</b><br>07:50am - 08:30am (PDT)<br><span class="smaller">10:50am - 11:30am (EDT) | 15:50pm - 16:30pm (GMT) | 02:50am- 03:30am (NZST + 1 day)</span></div>
 		<h4>"UK Biobank's cardiovascular magnetic resonance study: from rationale, practicalities and lessons learnt to novel scientiﬁc insights"</h4>
 		<h4>Steffen Petersen, MD</h4><p><b>Professor of Cardiovascular Medicine, William Harvey Research Institute, Queen Mary University of London</b></p>
 
