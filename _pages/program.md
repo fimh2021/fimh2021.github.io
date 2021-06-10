@@ -31,7 +31,7 @@ Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Details are as fol
 		<div class="cell-narrow">10:30am - 12:30pm (PDT)<br><span class="smaller">13:30pm - 15:30pm (EDT)<br>18:30pm - 20:30pm (GMT)<br>05:30am- 07:30am (NZST + 1 day)</span></div><div class="cell"><a href="http://www.simvascular.org/" target="_blank">SimVascular Workshop and New User Training</a></div>
 	</div>	
 	<div class="row">
-		<div class="cell-narrow">12:30am - 13:30pm (PDT)<br><span class="smaller">15:30pm - 16:30pm (EDT)<br>20:30pm - 21:30pm (GMT)<br>07:30am- 08:30am (NZST + 1 day)</span></div><div class="cell"><b>Pre-conference Gathering</b></div>
+		<div class="cell-narrow">12:30am - 13:30pm (PDT)<br><span class="smaller">15:30pm - 16:30pm (EDT)<br>20:30pm - 21:30pm (GMT)<br>07:30am- 08:30am (NZST + 1 day)</span></div><div class="cell"><b>Pre-conference Gathering (Spatial Chat Mixer)</b></div>
 	</div>	
 </div>
 
