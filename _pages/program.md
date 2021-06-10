@@ -42,13 +42,13 @@ Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Details are as fol
 		<div class="cell-narrow headers">Time</div><div class="cell headers">Conference Day 1</div>
 	</div>
 	<div class="row">
-		<div class="cell-narrow">07:00am - 07:20am (PDT)<br><span class="smaller">10:00am - 10:20am (EDT)<br>15:00pm - 15:20pm (GMT)<br>02:00am- 02:20am (NZST + 1 day)</span></div><div class="cell">Opening Remarks (Day 1)<br><b>Daniel Ennis, PhD</b><br>Department of Radiology, Stanford University<br></div>
+		<div class="cell-narrow">07:00am - 07:20am (PDT)<br><span class="smaller">10:00am - 10:20am (EDT)<br>15:00pm - 15:20pm (GMT)<br>02:00am- 02:20am (NZST + 1 day)</span></div><div class="cell"><b>Opening Remarks (Day 1)</b><br><b>Daniel Ennis, PhD</b><br>Department of Radiology, Stanford University<br></div>
 	</div>
 	<div class="row">
-		<div class="cell-narrow">07:20am - 08:00am (PDT)<br><span class="smaller">10:20am - 11:00am (EDT)<br>15:20pm - 16:00pm (GMT)<br>02:20am- 03:00am (NZST + 1 day)</span></div><div class="cell keynote">Keynote<br><b>Blanca Rodriguez, PhD</b><br>Department of Computer Science, University of Oxford<br></div>
+		<div class="cell-narrow">07:20am - 08:00am (PDT)<br><span class="smaller">10:20am - 11:00am (EDT)<br>15:20pm - 16:00pm (GMT)<br>02:20am- 03:00am (NZST + 1 day)</span></div><div class="cell keynote"><b>Keynote</b><br><b>Blanca Rodriguez, PhD</b><br>Department of Computer Science, University of Oxford<br></div>
 	</div>	
 	<div class="row">
-		<div class="cell-narrow">08:00am - 10:00am (PDT)<br><span class="smaller">11:00am - 13:00pm (EDT)<br>16:00pm - 18:00pm (GMT)<br>03:00am- 05:00am (NZST + 1 day)</span></div><div class="cell session">Oral Sessions<br>Session 1: Modeling Electrophysiology, ECG, and Arrhythmia<br><br>Session 2: Atrial Microstructure, Modeling, and Thrombosis Prediction</div>
+		<div class="cell-narrow">08:00am - 10:00am (PDT)<br><span class="smaller">11:00am - 13:00pm (EDT)<br>16:00pm - 18:00pm (GMT)<br>03:00am- 05:00am (NZST + 1 day)</span></div><div class="cell session"><b>Oral Sessions</b><br>Session 1: Modeling Electrophysiology, ECG, and Arrhythmia<br><br>Session 2: Atrial Microstructure, Modeling, and Thrombosis Prediction</div>
 	</div>
 	<div class="row">
 		<div class="cell-narrow">10:00am - 10:15am (PDT)<br><span class="smaller">13:00am - 13:15pm (EDT)<br>18:00pm - 18:15pm (GMT)<br>05:00am- 05:15am (NZST + 1 day)</span></div><div class="cell">Break</div>
@@ -75,13 +75,13 @@ Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Details are as fol
 		<div class="cell-narrow">07:00am - 07:40am (PDT)<br><span class="smaller">10:00am - 10:40am (EDT)<br>15:00pm - 15:40pm (GMT)<br>02:00am- 02:40am (NZST + 1 day)</span></div><div class="cell trainee">Trainee Event (Europe)</div>
 	</div>
 	<div class="row">
-		div class="cell-narrow">07:40am - 07:50am (PDT)<br><span class="smaller">10:40am - 10:50am (EDT)<br>15:40pm - 15:50pm (GMT)<br>02:40am- 02:50am (NZST + 1 day)</span></div><div class="cell"><b>Opening Remark (Day 2)</b><br><b>Luigi Perotti, PhD</b><br>Department of Mechanical and Aerospace Engineering, University of Central Florida<br></div>
+		<div class="cell-narrow">07:40am - 07:50am (PDT)<br><span class="smaller">10:40am - 10:50am (EDT)<br>15:40pm - 15:50pm (GMT)<br>02:40am- 02:50am (NZST + 1 day)</span></div><div class="cell"><b>Opening Remark (Day 2)</b><br><b>Luigi Perotti, PhD</b><br>Department of Mechanical and Aerospace Engineering, University of Central Florida<br></div>
 	</div>
 	<div class="row">
 		<div class="cell-narrow">07:50am - 08:30am (PDT)<br><span class="smaller">10:50am - 11:30am (EDT)<br>15:50pm - 16:30pm (GMT)<br>02:50am- 03:30am (NZST + 1 day)</span></div><div class="cell keynote"><b>Keynote</b><br><b>Steffen Petersen, MD</b><br>Queen Mary University of London &amp; Barts Heart Centre, Barts Health NHS Trust</div>
 	</div>	
 	<div class="row">
-		<div class="cell-narrow">08:30am - 10:30am (PDT)<br><span class="smaller">11:30am - 13:30pm (EDT)<br>16:30pm - 18:30pm (GMT)<br>03:30am- 05:30am (NZST + 1 day)</span></div><div class="cell session">Oral Sessions<br>Session 3: Novel Approaches to Measuring Heart Deformation<br><br>Session 4: Cardiac Microstructure - Measures to Models</div>
+		<div class="cell-narrow">08:30am - 10:30am (PDT)<br><span class="smaller">11:30am - 13:30pm (EDT)<br>16:30pm - 18:30pm (GMT)<br>03:30am- 05:30am (NZST + 1 day)</span></div><div class="cell session"><b>Oral Sessions</b><br>Session 3: Novel Approaches to Measuring Heart Deformation<br><br>Session 4: Cardiac Microstructure - Measures to Models</div>
 	</div>
 	<div class="row">
 		<div class="cell-narrow">10:30am - 10:45am (PDT)<br><span class="smaller">13:30pm - 13:45pm (EDT)<br>18:30pm - 18:45pm (GMT)<br>05:30am- 05:45am (NZST + 1 day)</span></div><div class="cell">Break</div>
@@ -106,13 +106,13 @@ Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Details are as fol
 		<div class="cell-narrow">08:15am - 08:30am (PDT)<br><span class="smaller">11:15am - 11:30am (EDT)<br>16:15pm - 16:30pm (GMT)<br>03:15am- 03:30am (NZST + 1 day)</span></div><div class="cell"><b>Opening Remark (Day 3) </b><br><b>Vicky Wang, PhD</b><br>Department of Radiology, Stanford University<br></div>
 	</div>
 	<div class="row">
-		<div class="cell-narrow">08:30am - 10:30am (PDT)<br><span class="smaller">11:30am - 13:30pm (EDT)<br>16:30pm - 18:30pm (GMT)<br>03:30am- 05:30am (NZST + 1 day)</span></div><div class="cell session">Oral Sessions<br>Session 5: Cardiac Mechanics: Measures and Models<br><br>Session 6: Translational Cardiac Mechanics</div>
+		<div class="cell-narrow">08:30am - 10:30am (PDT)<br><span class="smaller">11:30am - 13:30pm (EDT)<br>16:30pm - 18:30pm (GMT)<br>03:30am- 05:30am (NZST + 1 day)</span></div><div class="cell session"><b>Oral Sessions</b><br>Session 5: Cardiac Mechanics: Measures and Models<br><br>Session 6: Translational Cardiac Mechanics</div>
 	</div>
 	<div class="row">
 		<div class="cell-narrow">10:30am - 10:50am (PDT)<br><span class="smaller">13:30pm - 13:50pm (EDT)<br>18:30pm - 18:50pm (GMT)<br>05:30am- 05:50am (NZST + 1 day)</span></div><div class="cell">Break</div>
 	</div>
 	<div class="row">
-		<div class="cell-narrow">10:50am - 11:30am (PDT)<br><span class="smaller">13:50pm - 14:30pm (EDT)<br>18:50pm - 19:30pm (GMT)<br>05:50am- 06:30am (NZST + 1 day)</span></div><div class="cell keynote">Keynote<br><b>Joseph Woo, MD</b><br>Department of Cardiothoracic Surgery, Stanford University</div>
+		<div class="cell-narrow">10:50am - 11:30am (PDT)<br><span class="smaller">13:50pm - 14:30pm (EDT)<br>18:50pm - 19:30pm (GMT)<br>05:50am- 06:30am (NZST + 1 day)</span></div><div class="cell keynote"><b>Keynote</b><br><b>Joseph Woo, MD</b><br>Department of Cardiothoracic Surgery, Stanford University</div>
 	</div>		
 	<div class="row">
 		<div class="cell-narrow">11:30am - 12:00pm (PDT)<br><span class="smaller">14:30pm - 15:00pm (EDT)<br>19:30pm - 20:00pm (GMT)<br>06:30am- 07:00am (NZST + 1 day)</span></div><div class="cell">Closing Remarks</div>
