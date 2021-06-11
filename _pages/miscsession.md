@@ -3,7 +3,7 @@ permalink: /miscsession/
 title: "Multisystem Inflammatory Syndrome in Children (MIS-C) "
 ---
 
-**June 24 - 07:00 am to 08:30 am PDT**
+**June 24 - 06:45 am to 08:15 am PDT**
 
 
 **Organizers:**       
