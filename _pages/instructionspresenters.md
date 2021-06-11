@@ -26,6 +26,6 @@ Regarding the **poster format**, please see the instructions listed below:
 * Confirm your poster looks good on laptop screens.
 * Please include your <span style="color:red">LNCS paper submission number</span> on the top left of your poster.
 * Filename format: Name your file lastname_title_fimh2021_abstractnumber.jpeg
-* Submission: Send a google drive or dropbox link to this [email](mailto:fimh2021posters@gmail.com).
+* Submission: Send the jpeg as an attachment to [email](mailto:fimh2021posters@gmail.com).
 * Please submit your poster by **June 16, 2021, 11:59 pm PDT**.
 * On the day of the conference, each presenter will be required to be at their e-poster for **35 minutes** to discuss their work and answer questions. Detailed information on the allocated time slots will be released in the final [program](https://fimh2021.github.io/program/). Please check the conference program regularly for updates.  
