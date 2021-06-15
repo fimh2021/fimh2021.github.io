@@ -48,7 +48,7 @@ classes: wide
 	</div>
 	<div class="row">
 		<div class="detail-cell poster"><div class="center">Poster Session - 1<br>10:15am - 11:30am (PDT)<br><span class="smaller">13:15pm - 14:30pm (EDT) | 18:15pm - 19:30pm (GMT) | 05:15am- 06:30am (NZST + 1 day)</span><br>
-				<p class="block-title-poster">Poster Session 1A (PS1A): Modeling Electrophysiology, ECG, and Arrhythmia</p>
+				<p class="block-title-poster">P-11: Modeling Electrophysiology, ECG, and Arrhythmia</p>
 				<p class="block-title-poster">PS1A Group 1 10:15am - 10:50am PDT </p>
 				<h4>Fast and Accurate Uncertainty Quantification for the ECG With Random Electrodes Location</h4><span class="smaller">Michael Multerer, Simone Pezzuto</span><br>
 				<h4>A Volume Source Method for Solving ECGI Inverse Problem</h4><span class="smaller">Mohamadou Malal Diallo, Yves Coudière, Remi DUBOIS</span><br>
