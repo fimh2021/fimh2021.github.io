@@ -16,6 +16,8 @@ sidebar-main:
   
   - title: "Navigate"
     children:
+      - title: "SpatialChat guidelines"
+        url: /spatialchatguide/
       - title: "Instructions for presenters"
         url: /instructionspresenters/
       - title: "E-mail List"
