@@ -49,7 +49,7 @@ classes: wide
 			<div class="center">Break<br>10:05am - 10:15am (PDT)<br><span class="smaller">13:05am - 13:15pm (EDT) | 18:05pm - 18:15pm (GMT) | 05:05am- 05:15am (NZST + 1 day)</span></div>
 	</div>
 	<div class="row">
-		<div class="detail-cell poster"><div class="center">Poster Session: P-11 -> P-16<br>10:15am - 11:30am (PDT)<br><span class="smaller">13:15pm - 14:30pm (EDT) | 18:15pm - 19:30pm (GMT) | 05:15am- 06:30am (NZST + 1 day)</span><br>
+		<div class="detail-cell poster"><div class="center"><b>Poster Session: P-11 -> P-16</b><br>10:15am - 11:30am (PDT)<br><span class="smaller">13:15pm - 14:30pm (EDT) | 18:15pm - 19:30pm (GMT) | 05:15am- 06:30am (NZST + 1 day)</span><br>
 				<p class="block-title-poster">Modeling Electrophysiology, ECG, and Arrhythmia<br>P-11: Electrophysiology (Spatial Chat Room ID)<br>10:15am - 10:50am PDT </p>
 				<h4>Fast and Accurate Uncertainty Quantification for the ECG With Random Electrodes Location</h4><span class="smaller">Michael Multerer, Simone Pezzuto</span><br>
 				<h4>A Volume Source Method for Solving ECGI Inverse Problem</h4><span class="smaller">Mohamadou Malal Diallo, Yves Coudière, Remi DUBOIS</span><br>
