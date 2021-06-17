@@ -53,7 +53,7 @@ Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Details are as fol
 		<div class="cell-narrow">10:05am - 10:15am (PDT)<br><span class="smaller">13:05am - 13:15pm (EDT)<br>18:05pm - 18:15pm (GMT)<br>05:05am- 05:15am (NZST + 1 day)</span></div><div class="cell">Break</div>
 	</div>
 	<div class="row">
-		<div class="cell-narrow">10:15am - 11:30am (PDT)<br><span class="smaller">13:15pm - 14:30pm (EDT)<br>18:15pm - 19:30pm (GMT)<br>05:15am- 06:30am (NZST + 1 day)</span></div><div class="cell session">Poster Session: P-11 -> P-16 </div>
+		<div class="cell-narrow">10:15am - 11:30am (PDT)<br><span class="smaller">13:15pm - 14:30pm (EDT)<br>18:15pm - 19:30pm (GMT)<br>05:15am- 06:30am (NZST + 1 day)</span></div><div class="cell poster">Poster Session: P-11 -> P-16 </div>
 	</div>		
 	<div class="row">
 		<div class="cell-narrow">11:30am - 12:45pm (PDT)<br><span class="smaller">14:30pm - 15:45pm (EDT)<br>19:30pm - 20:45pm (GMT)<br>06:30am- 07:45am (NZST + 1 day)</span></div><div class="cell">FIMH Town Hall Meeting (Pitch for FIMH 2023)</div>
