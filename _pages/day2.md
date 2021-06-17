@@ -53,7 +53,7 @@ Break<br>10:35am - 10:45am (PDT)<br><span class="smaller">13:35am - 13:45pm (EDT
 			</div>
 	</div>
 	<div class="row">
-		<div class="detail-cell poster"><div class="center">Poster Session: P-21-> P-25 <br>10:45am - 12:00pm (PDT)<br><span class="smaller">13:45pm - 15:00pm (EDT) | 18:45pm - 20:00pm (GMT) | 05:45am- 07:00am (NZST + 1 day)</span><br>
+	<div class="detail-cell poster"><div class="center"><b>Poster Session: P-21-> P-25</b> <br>10:45am - 12:00pm (PDT)<br><span class="smaller">13:45pm - 15:00pm (EDT) | 18:45pm - 20:00pm (GMT) | 05:45am- 07:00am (NZST + 1 day)</span><br>
 				<p class="block-title-poster">Novel Approaches to Measuring Heart Deformation<br> P-21: Deformation (Spatial Chat Room ID)<br>10:45am - 11:20am PDT </p>
 				<h4>An Image Registration Framework to Estimate 3D Myocardial Strains From Cine Cardiac MRI in Mice</h4><span class="smaller">Maziyar Keshavarzian, Saurabh Chavan, Elizabeth Fugate, Mohammed Arif, Diana Lindquist, Sakthivel Sadayappan, Reza Avazmohammadi</span><br>
 				<h4>Multiscale Graph Convolutional Networks for Cardiac Motion Analysis</h4><span class="smaller">Ping Lu, Wenjia Bai, Daniel Rueckert, Alison Noble</span><br>
