@@ -27,7 +27,7 @@ June 22 - 12:00 pm to 12:45 pm PDT
 -----------------------------
 
 **Session 2 (UK & Europe)**  
-June 23 - 07:00 am to 07:45 am PDT
+June 23 - 06:45 am to 07:30 am PDT
 
 <img src="https://eng.ox.ac.uk/media/1490/alsion-noble-2.jpg?center=0.5,0.5714285714285714&mode=crop&width=250&height=250&rnd=132454329310000000" width="200px" /> | <img src="https://www.qmul.ac.uk/whri/media/the-william-harvey-research-institute/staff-and-students/research-staff/Petersen,-Steffen.jpg"  width="200px" /> | <img src="https://www.cs.ox.ac.uk/files/8589//Photo_Blanca_WT2016.jpg" width="200px" /> | <img src="https://www.simula.no/sites/default/files/styles/employee-detail/public/user/images/simula_-_sam_wall_0985.jpg?itok=WFSrd4xs" width="200px" />
 
