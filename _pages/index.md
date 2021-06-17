@@ -16,9 +16,9 @@ title: "Welcome to FIMH-2021"
 <span style="color:red"> **Registration for FIMH 2021 is now open and can be found [here](https://www.eventbrite.com/e/fimh-2021-registration-142940529973)**
 </span>
 
-<!--- <br/><br/>
+<br/><br/>
 <span style="color:blue"> **The Lecture Notes in Computer Science Proceedings for FIMH 2021 is available [here](https://link.springer.com/book/10.1007/978-3-030-78710-3) until the end of July 2021.**
-</span> -->
+</span>
 
 ## The 11<sup>th</sup> biennial International Conference on Functional Imaging and Modeling of the Heart, will be held from June 21-25, 2021 as a fully virtual event.
 
