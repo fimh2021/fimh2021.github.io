@@ -3,6 +3,12 @@ permalink: /abstract_sub/
 title: "Manuscript Submission"
 ---
 
+#<br/><br/>
+#<span style="color:blue"> **The conference proceedings published in Lecture Notes in Computer Science is freely available [here](https://link.springer.com/book/10.1007/978-3-030-78710-3) until the end of July 2021. **
+#</span>
+
+---
+
 The conference proceedings will be published in Lecture Notes in Computer Science (LNCS) <img src="/assets/images/LNCS-Logo.jpg" width="100">
 
 The manuscript submission system can be accessed at [https://ocs.springer.com/ocs/home/FIMH2021](https://ocs.springer.com/ocs/home/FIMH2021). <ins>The submission system is now open.</ins>
