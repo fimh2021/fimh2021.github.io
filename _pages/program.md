@@ -74,7 +74,7 @@ Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Details are as fol
 		<div class="cell-narrow">06:45am - 07:30am (PDT)<br><span class="smaller">09:45am - 10:30am (EDT)<br>14:45pm - 15:30pm (GMT)<br>01:45am- 02:30am (NZST + 1 day)</span></div><div class="cell trainee">Meet the Expert (Europe)</div>
 	</div>
 	<div class="row">
-		<div class="cell-narrow">07:30am - 07:45am (PDT)<br><span class="smaller">10:30am - 10:45am (EDT)<br>15:30pm - 15:45pm (GMT)<br>02:30am- 02:45am (NZST + 1 day)</span></div><div class="cell"><b>Opening Remark (Day 2)</b><br><b>Luigi Perotti, PhD</b><br>Department of Mechanical and Aerospace Engineering, University of Central Florida<br></div>
+		<div class="cell-narrow">07:30am - 07:45am (PDT)<br><span class="smaller">10:30am - 10:45am (EDT)<br>15:30pm - 15:45pm (GMT)<br>02:30am- 02:45am (NZST + 1 day)</span></div><div class="cell"><b>Opening Remarks (Day 2)</b><br><b>Luigi Perotti, PhD</b><br>Department of Mechanical and Aerospace Engineering, University of Central Florida<br></div>
 	</div>
 	<div class="row">
 		<div class="cell-narrow">07:45am - 08:25am (PDT)<br><span class="smaller">10:45am - 11:25am (EDT)<br>15:45pm - 16:25pm (GMT)<br>02:45am- 03:25am (NZST + 1 day)</span></div><div class="cell keynote"><b>Keynote</b><br><b>Blanca Rodriguez, PhD</b><br>Department of Computer Science, University of Oxford<br></div>
@@ -102,7 +102,7 @@ Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Details are as fol
 		<div class="cell-narrow">06:45am - 08:15am (PDT)<br><span class="smaller">09:45am - 11:15am (EDT)<br>14:45pm - 16:15pm (GMT)<br>01:45am- 03:15am (NZST + 1 day)</span></div><div class="cell special">Special Theme Session: MIS-C &amp; Covid</div>
 	</div>
 	<div class="row">
-		<div class="cell-narrow">08:15am - 08:25am (PDT)<br><span class="smaller">11:15am - 11:25am (EDT)<br>16:15pm - 16:25pm (GMT)<br>03:15am- 03:25am (NZST + 1 day)</span></div><div class="cell"><b>Opening Remark (Day 3) </b><br><b>Vicky Wang, PhD</b><br>Department of Radiology, Stanford University<br></div>
+		<div class="cell-narrow">08:15am - 08:25am (PDT)<br><span class="smaller">11:15am - 11:25am (EDT)<br>16:15pm - 16:25pm (GMT)<br>03:15am- 03:25am (NZST + 1 day)</span></div><div class="cell"><b>Opening Remarks (Day 3) </b><br><b>Vicky Wang, PhD</b><br>Department of Radiology, Stanford University<br></div>
 	</div>
 	<div class="row">
 		<div class="cell-narrow">08:25am - 10:35am (PDT)<br><span class="smaller">11:25am - 13:35pm (EDT)<br>16:25pm - 18:35pm (GMT)<br>03:25am- 05:35am (NZST + 1 day)</span></div><div class="cell session"><b>Oral Sessions</b><br>Session 5: Cardiac Mechanics: Measures and Models<br><br>Session 6: Translational Cardiac Mechanics</div>
