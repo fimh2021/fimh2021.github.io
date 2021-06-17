@@ -116,6 +116,9 @@ Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Details are as fol
 	<div class="row">
 		<div class="cell-narrow">11:30am - 12:00pm (PDT)<br><span class="smaller">14:30pm - 15:00pm (EDT)<br>19:30pm - 20:00pm (GMT)<br>06:30am- 07:00am (NZST + 1 day)</span></div><div class="cell">Closing Remarks</div>
 	</div>	
+	<div class="row">
+		<div class="cell-narrow">12:00pm - 13:00pm (PDT)<br><span class="smaller">15:00pm - 16:00pm (EDT)<br>20:00pm - 21:00pm (GMT)<br>07:00am- 08:00am (NZST + 1 day)</span></div><div class="cell">Post-event Social</div>
+	</div>	
 </a>
 </div>
 
