@@ -95,6 +95,7 @@ classes: wide
 	<div class="row">
 		<div class="detail-cell">		
 			<div class="center">Break<br>12:45pm - 13:00pm (PDT)<br><span class="smaller">15:45pm - 16:00pm (EDT) | 20:45pm - 21:00pm (GMT) | 07:45am - 08:00am (NZST + 1 day)</span></div>
+	</div>
 	<div class="row">
 		<div class="detail-cell gray"><div class="center">Virtual Drinks on the Quad!<br>13:00pm - 14:00pm (PDT)<br><span class="smaller">16:00pm - 17:00pm (EDT) | 21:00pm - 22:00pm (GMT) | 08:00am- 09:00am (NZST + 1 day)</span></div>
 		</div>
