@@ -4,7 +4,7 @@ title: "Manuscript Submission"
 ---
 
 <br/><br/>
-<span style="color:blue"> **The conference proceedings published in Lecture Notes in Computer Science is freely available [here](https://link.springer.com/book/10.1007/978-3-030-78710-3) until the end of July 2021. **
+<span style="color:blue"> **The conference proceedings published in Lecture Notes in Computer Science is freely available [here](https://link.springer.com/book/10.1007/978-3-030-78710-3) until the end of July 2021.**
 </span>
 
 ---
