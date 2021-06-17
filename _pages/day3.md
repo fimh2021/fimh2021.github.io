@@ -13,12 +13,12 @@ classes: wide
 		</div></div>
 	</div>
 	<div class="row">
-		<div class="detail-cell gray"><div class="center"><b>Opening Remarks (Day 3)</b><br><span class="smaller">08:15am - 08:30am (PDT) | 11:15am - 11:30am (EDT) | 16:15pm - 16:30pm (GMT) | 03:15am- 03:30am (NZST + 1 day)</span>
+		<div class="detail-cell gray"><div class="center"><b>Opening Remarks (Day 3)</b><br><span class="smaller">08:15am - 08:25am (PDT) | 11:15am - 11:25am (EDT) | 16:15pm - 16:25pm (GMT) | 03:15am- 03:25am (NZST + 1 day)</span>
 		<h4>Vicky Wang, PhD</h4><p>Department of Radiology, Stanford University</p></div></div>
 	<div class="row">
 		<div class="detail-cell session">
-			<div class="center">Oral Sessions<br>08:30am - 10:30am (PDT)<br><span class="smaller">11:30am - 13:30pm (EDT) | 16:30pm - 18:30pm (GMT) | 03:30am - 05:30am (NZST + 1 day)</span><br>
-		<p class="block-title">Session 5: Cardiac Mechanics: Measures and Models<br>Moderators: David Nordsletten and Mathias Peirlinck<br>08:30am - 09:10am (PDT)<br><span class="smaller">11:30am - 12:10pm (EDT) | 16:30pm - 17:10pm (GMT) | 03:30am- 04:10am (NZST + 1 day)</span></p>
+			<div class="center">Oral Sessions<br>08:25am - 10:35am (PDT)<br><span class="smaller">11:25am - 13:35pm (EDT) | 16:25pm - 18:35pm (GMT) | 03:25am - 05:35am (NZST + 1 day)</span><br>
+		<p class="block-title">Session 5: Cardiac Mechanics: Measures and Models<br>Moderators: David Nordsletten and Mathias Peirlinck<br>08:25am - 09:10am (PDT)<br><span class="smaller">11:25am - 12:10pm (EDT) | 16:25pm - 17:10pm (GMT) | 03:25am- 04:10am (NZST + 1 day)</span></p>
 		<h4>A Framework for Evaluating Myocardial Stiffness Using 3D-Printed Hearts</h4><span class="smaller">Fikunwa Kolawole, Mathias Peirlinck, Tyler Cork, Vicky Wang, Seraina Dual, Marc Levenston, Ellen Kuhl, Daniel Ennis</span><br>
 		<h4>Sensitivity of Myocardial Stiffness Estimates to Inter-observer Variability in LV Geometric Modeling</h4><span class="smaller">Abdallah Hasaballa, Thiranja Prasad Babarenda Gamage, Vicky Wang, Debbie Zhao, Charlene Mauger, Zhinuo Wang,<br> Bianca Freytag, Jane Cao, Alistair Young, Martyn Nash</span><br>
 		<h4>A Computational Approach on Sensitivity of Left Ventricular Wall Strains to Fiber Orientation</h4><span class="smaller">Luca Barbarotta, Peter Bovendeerd</span><br>
@@ -26,20 +26,20 @@ classes: wide
 		<div class="center">Break<br>09:10am - 09:20am (PDT)<br><span class="smaller">12:10pm - 12:20pm (EDT) | 17:10pm - 17:20pm (GMT) | 04:10am- 04:20am (NZST + 1 day)</span><br>
 		</div>
 		<div class="center">
-			<p class="block-title">Session 6: Translational Cardiac Mechanics<br>Moderators: Vicky Wang and Alex Kaiser<br>09:20am - 10:00am (PDT)<br><span class="smaller">12:20pm - 13:00pm (EDT) | 17:20pm - 18:00pm (GMT) | 04:20am - 05:00am (NZST + 1 day)</span></p>
+			<p class="block-title">Session 6: Translational Cardiac Mechanics<br>Moderators: Vicky Wang and Alex Kaiser<br>09:20am - 10:05am (PDT)<br><span class="smaller">12:20pm - 13:05pm (EDT) | 17:20pm - 18:05m (GMT) | 04:20am - 05:05am (NZST + 1 day)</span></p>
 			
 		<h4>In Vivo Pressure-volume Loops and Chamber Stiffness Estimation Using Real-time 3D Echocardiography and Left Ventricular Catheterization – Application to Post-heart Transplant Patients </h4><span class="smaller">Bianca Freytag, Vicky Wang, Debbie Zhao, Kathleen Gilbert, Gina Quill, Abdallah Hasaballa, Thiranja Prasad Babarenda Gamage, <br>Rob Doughty, Malcolm Legget, Peter Ruygrok, Alistair Young, Martyn Nash</span><br>
 		<h4>In Silico Mapping of the Omecamtiv Mecarbil Effects From the Sarcomere to the Whole-heart and Back Again</h4><span class="smaller">Stefano Longobardi, Anna Sher, Steven Niederer</span><br>
 		<h4>On the Interrelationship Between Left Ventricle Infarction Geometry and Ischemic Mitral Regurgitation Grade</h4><span class="smaller">Hao Liu, Harshita Narang, Robert Gorman, Joseph Gorman, Michael Sacks</span><br>
 		<h4>Cardiac Support For The Right Ventricle: Efects of Timing On Hemodynamics-biomechanics Tradeoff</h4><span class="smaller">Ileana Pirozzi, Ali Kight, Edgar Aranda-Michael, Rohan Shad, Yuanjia Zhu, Lewis K. Waldman, William Hiesinger, Mark Cutkosky</span><br>&nbsp;<br>
-		<div class="center"><b>Break-out Session</b><br>10:00am - 10:30am (PDT)<br><span class="smaller">13:00pm - 13:30pm (EDT) | 18:00pm - 18:30pm (GMT) | 05:00am- 05:30am (NZST + 1 day)</span></div>
+		<div class="center"><b>Break-out Session</b><br>10:05am - 10:35am (PDT)<br><span class="smaller">13:05pm - 13:35pm (EDT) | 18:05pm - 18:35pm (GMT) | 05:05am- 05:35am (NZST + 1 day)</span></div>
 		</div>
 	</div>	
 </div>
 	<div class="row">
 		<div class="detail-cell">		
 			<div class="center">
-Break<br>10:30am - 10:50am (PDT)<br><span class="smaller">13:30am - 13:50pm (EDT) | 18:30pm - 18:50pm (GMT) | 05:30am- 05:50am (NZST + 1 day)</span></div>
+Break<br>10:35am - 10:50am (PDT)<br><span class="smaller">13:35am - 13:50pm (EDT) | 18:35pm - 18:50pm (GMT) | 05:35am- 05:50am (NZST + 1 day)</span></div>
 			</div>
 	</div>
 	<div class="row">
@@ -56,5 +56,10 @@ Break<br>10:30am - 10:50am (PDT)<br><span class="smaller">13:30am - 13:50pm (EDT
 		<div class="detail-cell gray"><div class="center">Closing Remarks<br>11:30am - 12:00pm (PDT)<br><span class="smaller">14:30pm - 15:00pm (EDT) | 19:30pm - 20:00pm (GMT) | 06:30am- 07:00am (NZST + 1 day)</span><br>
 				</div>
 		</div>
-	</div>					
+	</div>
+	<div class="row">
+		<div class="detail-cell gray"><div class="center">Post-event Social<br>12:00pm - 13:00pm (PDT)<br><span class="smaller">15:00pm - 16:00pm (EDT) | 20:00pm - 21:00pm (GMT) | 07:00am- 08:00am (NZST + 1 day)</span><br>
+				</div>
+		</div>
+	</div>	
 </div>
