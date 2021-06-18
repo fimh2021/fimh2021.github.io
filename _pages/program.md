@@ -38,7 +38,7 @@ Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Details are as fol
 		<div class="cell-narrow headers">Time</div><div class="cell headers">Conference Day 1</div>
 	</div>
 	<div class="row">
-		<div class="cell-narrow">06:30am - 07:00am (PDT)<br><span class="smaller">09:30pm - 10:00pm (EDT)<br>14:30pm - 15:00pm (GMT)<br>01:30am- 02:00am (NZST + 1 day)</span></div><div class="cell"><b>Coffee Hour (Spatial Chat Mixer)</b></div>
+		<div class="cell-narrow">06:30am - 07:00am (PDT)<br><span class="smaller">09:30am - 10:00am (EDT)<br>14:30am - 15:00am (GMT)<br>01:30am- 02:00am (NZST + 1 day)</span></div><div class="cell"><b>Coffee Hour (Spatial Chat Mixer)</b></div>
 	</div>	
 	<div class="row">
 		<div class="cell-narrow">07:00am - 07:15am (PDT)<br><span class="smaller">10:00am - 10:15am (EDT)<br>15:00pm - 15:15pm (GMT)<br>02:00am- 02:15am (NZST + 1 day)</span></div><div class="cell"><b>Opening Remarks (Day 1)</b><br><b>Daniel Ennis, PhD</b><br>Department of Radiology, Stanford University<br></div>
