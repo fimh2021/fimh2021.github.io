@@ -25,7 +25,7 @@ Due to the ongoing pandemic, FIMH 2021 will be fully virtual. Details are as fol
 		<div class="cell-narrow">08:00am - 10:00am (PDT)<br><span class="smaller">11:00am - 13:00pm (EDT)<br>16:00pm - 18:00pm (GMT)<br>03:00am- 05:00am (NZST + 1 day)</span></div><div class="cell"><a href="../../assets/FIMH CAP Workshop Programme_Final.pdf" download="FIMH CAP Workshop Programme_Final">Cardiac Atlas Project: Workshop on Congenital Heart Disease</a></div>
 	</div>
 	<div class="row">
-		<div class="cell-narrow">Zoom Link: https://stanford.zoom.us/j/96644750525</div>
+		<div class="cell">Zoom Link: https://stanford.zoom.us/j/96644750525</div>
 	</div>	
 	<div class="row">
 		<div class="cell-narrow">10:00am - 10:30am (PDT)<br><span class="smaller">13:00am - 13:30pm (EDT)<br>18:00pm - 18:30pm (GMT)<br>05:00am- 05:30am (NZST + 1 day)</span></div><div class="cell">Break</div>
