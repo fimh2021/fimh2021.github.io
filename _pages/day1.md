@@ -9,14 +9,14 @@ classes: wide
 <h3 class="date">Tuesday, June 22</h3>
 
 	<div class="row">
-		<div class="detail-cell gray"><div class="center"><b>Coffee Hour (Spatial Chat Mixer)</b><br><span class="smaller">06:30am - 07:00am (PDT) | 09:30am - 10:00am (EDT) | 14:30pm - 15:00pm (GMT) | 01:30am- 02:00am (NZST + 1 day)</span></div>
+		<div class="detail-cell gray"><div class="center"><b>Coffee Hour (Spatial Chat Mixer)</b><br><span class="smaller">06:30am - 07:00am (PDT) | 09:30am - 10:00am (EDT) | 14:30pm - 15:00pm (BST) | 01:30am- 02:00am (NZST + 1 day)</span></div>
 	</div>
 	<div class="row">
-		<div class="detail-cell gray"><div class="center"><b>Opening Remarks</b><br><span class="smaller">07:00am - 07:15am (PDT) | 10:00am - 10:15am (EDT) | 15:00pm - 15:15pm (GMT) | 02:00am- 02:15am (NZST + 1 day)</span>
+		<div class="detail-cell gray"><div class="center"><b>Opening Remarks</b><br><span class="smaller">07:00am - 07:15am (PDT) | 10:00am - 10:15am (EDT) | 15:00pm - 15:15pm (BST) | 02:00am- 02:15am (NZST + 1 day)</span>
 		<h4>Daniel Ennis, PhD</h4><p>Department of Radiology, Stanford University</p></div></div>
 	</div>
 	<div class="row">
-		<div class="detail-cell keynote"><div class="center"><b>Keynote (Moderator: Alistair Young)</b><br>07:15am - 07:55am (PDT)<br><span class="smaller">10:15am - 10:55am (EDT) | 15:15pm - 15:55pm (GMT) | 02:15am- 02:55am (NZST + 1 day)</span></div>
+		<div class="detail-cell keynote"><div class="center"><b>Keynote (Moderator: Alistair Young)</b><br>07:15am - 07:55am (PDT)<br><span class="smaller">10:15am - 10:55am (EDT) | 15:15pm - 15:55pm (BST) | 02:15am- 02:55am (NZST + 1 day)</span></div>
 		<h4>"UK Biobank's cardiovascular magnetic resonance study: from rationale, practicalities and lessons learnt to novel scientiﬁc insights"</h4>
 		<h4>Steffen Petersen, MD</h4><p><b>Professor of Cardiovascular Medicine, William Harvey Research Institute, Queen Mary University of London</b></p>
 
@@ -26,30 +26,30 @@ classes: wide
 	</div>	
 	<div class="row">
 		<div class="detail-cell session">
-			<div class="center">Oral Sessions<br>07:55am - 10:05am (PDT)<br><span class="smaller">10:55am - 13:05pm (EDT) | 15:55pm - 18:05pm (GMT) | 02:55am- 05:05am (NZST + 1 day)</span><br>
-		<p class="block-title">Session 1: Modeling Electrophysiology, ECG, and Arrhythmia<br>Moderators: Linwei Wang and Caroline Roney<br>07:55am - 08:40am (PDT)<br><span class="smaller">10:55am - 11:40pm (EDT) | 15:55pm - 16:40pm (GMT) | 02:55am- 03:40am (NZST + 1 day)</span></p>
+			<div class="center">Oral Sessions<br>07:55am - 10:05am (PDT)<br><span class="smaller">10:55am - 13:05pm (EDT) | 15:55pm - 18:05pm (BST) | 02:55am- 05:05am (NZST + 1 day)</span><br>
+		<p class="block-title">Session 1: Modeling Electrophysiology, ECG, and Arrhythmia<br>Moderators: Linwei Wang and Caroline Roney<br>07:55am - 08:40am (PDT)<br><span class="smaller">10:55am - 11:40pm (EDT) | 15:55pm - 16:40pm (BST) | 02:55am- 03:40am (NZST + 1 day)</span></p>
 		<h4>Scar-Related Ventricular Arrhythmia Prediction from Imaging using Explainable Deep Learning</h4><span class="smaller center">Buntheng LY, Sonny Finsterbach, Marta Nuñez-Garcia, Hubert Cochet, Maxime Sermesant</span><br>
 		<h4>The Effect of Modeling Assumptions on the ECG in Monodomain and Bidomain Simulations</h4><span class="smaller">Dennis Ogiermann, Daniel Balzani, Luigi Perotti</span><br>
 		<h4>Simultaneous Multi-heartbeat ECGI Solution with a Time-varying Forward Model: a Joint Inverse Formulation</h4><span class="smaller"> Jake Bergquist, Jaume Coll-Font, Brian Zenger, Lindsay Rupp, Wilson Good, Dana Brooks, Rob MacLeod</span><br>
 		<h4>Deep Adaptive Electrocardiographic Imaging With Generative Forward Model for Error Reduction</h4><span class="smaller">Maryam Toloubidokhti, Prashnna K. Gyawali, Omar A. Gharbia, Xiajun Jiang, Jaume Coll-Font, Jake Bergquist,<br> Brian Zenger, Wilson W. Good, Dana H. Brooks, Rob S. MacLeod, Linwei Wang</span><br>&nbsp;<br>
-		<div class="center">Break<br>08:40am - 08:50am (PDT)<br><span class="smaller">11:40am - 11:50pm (EDT) | 16:40pm - 16:50pm (GMT) | 03:40am- 03:50am (NZST + 1 day)</span><br>
+		<div class="center">Break<br>08:40am - 08:50am (PDT)<br><span class="smaller">11:40am - 11:50pm (EDT) | 16:40pm - 16:50pm (BST) | 03:40am- 03:50am (NZST + 1 day)</span><br>
 		</div>
 		<div class="center">
-		<p class="block-title">Session 2: Atrial Microstructure, Modeling, and Thrombosis Prediction<br>Moderators: Steven Niederer and Rafa Sebastian<br>08:50am - 09:35am (PDT)<br><span class="smaller">11:50am - 12:35pm (EDT) | 16:50pm - 17:35pm (GMT) | 03:50am- 04:35am (NZST + 1 day)</span></p>	
+		<p class="block-title">Session 2: Atrial Microstructure, Modeling, and Thrombosis Prediction<br>Moderators: Steven Niederer and Rafa Sebastian<br>08:50am - 09:35am (PDT)<br><span class="smaller">11:50am - 12:35pm (EDT) | 16:50pm - 17:35pm (BST) | 03:50am- 04:35am (NZST + 1 day)</span></p>	
 		<h4>Using the Universal Atrial Coordinate System for MRI and Electroanatomic<br>Data Registration in Patient-specific Atrial Model Construction and Simulation</h4><span class="smaller">Marianne Beach, Iain Sim, Arihant Mehta, Irum Kotadia, Daniel O’Hare, John Whitaker, Jose Alonso Solis-Lemus,<br> Orod Razeghi, Amedeo Chiribiri, Mark O’Neill, Steven Williams, Steven Niederer, Caroline Roney</span><br>
 		<h4>Learning Atrial Fiber Orientations and Conductivity Tensors From Intracardiac Maps<br>Using Physics-informed Neural Networks</h4><span class="smaller">Thomas Grandits, Simone Pezzuto, Francisco Sahli, Paris Perdikaris, Thomas Pock, Gernot Plank, Rolf Krause</span><br>
 		<h4>Geometric Deep Learning for the Assessment of Thrombosis Risk in the Left Atrial Appendage</h4><span class="smaller">Xabier Morales, Jordi Mill, Guillem Simeon, Kristine A. Juhl, Ole De Backer, Rasmus Reinhold Paulsen, Oscar Camara</span><br>
 		<h4>Shape Analysis and Computational Fluid Simulations to Assess Feline Left Atrial Function and Thrombogenesis</h4><span class="smaller">Andy Olivares, Maria Isabel Pons, Jordi Mill, Jose Novo Matos, Patricia Garcia-Canadilla, Inma Cerrada, Anna Guy, J. Ciaran Hutchinson, Ian C. Simcock, Owen J. Arthurs, Andrew C. Cook, Virginia Luis Fuentes, Oscar Camara</span><br>&nbsp;<br>
-		<div class="center"><b>Break-out Session</b><br>09:35am - 10:05am (PDT)<br><span class="smaller">12:35am - 13:05pm (EDT) | 17:35pm - 18:05pm (GMT) | 04:35am- 05:05am (NZST + 1 day)</span></div>
+		<div class="center"><b>Break-out Session</b><br>09:35am - 10:05am (PDT)<br><span class="smaller">12:35am - 13:05pm (EDT) | 17:35pm - 18:05pm (BST) | 04:35am- 05:05am (NZST + 1 day)</span></div>
 		</div>
 	</div>	
 </div>
 	<div class="row">
 		<div class="detail-cell">		
-			<div class="center">Break<br>10:05am - 10:15am (PDT)<br><span class="smaller">13:05am - 13:15pm (EDT) | 18:05pm - 18:15pm (GMT) | 05:05am- 05:15am (NZST + 1 day)</span></div>
+			<div class="center">Break<br>10:05am - 10:15am (PDT)<br><span class="smaller">13:05am - 13:15pm (EDT) | 18:05pm - 18:15pm (BST) | 05:05am- 05:15am (NZST + 1 day)</span></div>
 	</div>
 	<div class="row">
-		<div class="detail-cell poster"><div class="center"><b>Poster Session: P-11 -> P-16</b><br>10:15am - 11:30am (PDT)<br><span class="smaller">13:15pm - 14:30pm (EDT) | 18:15pm - 19:30pm (GMT) | 05:15am- 06:30am (NZST + 1 day)</span><br>
+		<div class="detail-cell poster"><div class="center"><b>Poster Session: P-11 -> P-16</b><br>10:15am - 11:30am (PDT)<br><span class="smaller">13:15pm - 14:30pm (EDT) | 18:15pm - 19:30pm (BST) | 05:15am- 06:30am (NZST + 1 day)</span><br>
 				<p class="block-title-poster">Modeling Electrophysiology, ECG, and Arrhythmia<br>P-11: Electrophysiology (Spatial Chat Room ID)<br>10:15am - 10:50am PDT </p>
 				<h4>Fast and Accurate Uncertainty Quantification for the ECG With Random Electrodes Location</h4><span class="smaller">Michael Multerer, Simone Pezzuto</span><br>
 				<h4>A Volume Source Method for Solving ECGI Inverse Problem</h4><span class="smaller">Mohamadou Malal Diallo, Yves Coudière, Remi DUBOIS</span><br>
@@ -85,19 +85,19 @@ classes: wide
 		</div>
 	</div>		
 	<div class="row">
-		<div class="detail-cell gray"><div class="center">FIMH Town Hall Meeting (Pitch for FIMH 2023)<br>11:30am - 12:45pm (PDT)<br><span class="smaller">14:30pm - 15:45pm (EDT) | 19:30pm - 20:45pm (GMT) | 06:30am- 07:45am (NZST + 1 day)</span></div>
+		<div class="detail-cell gray"><div class="center">FIMH Town Hall Meeting (Pitch for FIMH 2023)<br>11:30am - 12:45pm (PDT)<br><span class="smaller">14:30pm - 15:45pm (EDT) | 19:30pm - 20:45pm (BST) | 06:30am- 07:45am (NZST + 1 day)</span></div>
 		</div>
 	</div>	
 	<div class="row">
-		<div class="detail-cell trainee"><div class="center">Mee the Expert (US)<br>12:00pm - 12:45pm (PDT)<br><span class="smaller">15:00pm - 15:45pm (EDT) | 20:00pm - 20:45pm (GMT) | 07:00am- 07:45am (NZST + 1 day)</span></div>
+		<div class="detail-cell trainee"><div class="center">Mee the Expert (US)<br>12:00pm - 12:45pm (PDT)<br><span class="smaller">15:00pm - 15:45pm (EDT) | 20:00pm - 20:45pm (BST) | 07:00am- 07:45am (NZST + 1 day)</span></div>
 		</div>
 	</div>	
 	<div class="row">
 		<div class="detail-cell">		
-			<div class="center">Break<br>12:45pm - 13:00pm (PDT)<br><span class="smaller">15:45pm - 16:00pm (EDT) | 20:45pm - 21:00pm (GMT) | 07:45am - 08:00am (NZST + 1 day)</span></div>
+			<div class="center">Break<br>12:45pm - 13:00pm (PDT)<br><span class="smaller">15:45pm - 16:00pm (EDT) | 20:45pm - 21:00pm (BST) | 07:45am - 08:00am (NZST + 1 day)</span></div>
 	</div>
 	<div class="row">
-		<div class="detail-cell gray"><div class="center">Virtual Drinks on the Quad!<br>13:00pm - 14:00pm (PDT)<br><span class="smaller">16:00pm - 17:00pm (EDT) | 21:00pm - 22:00pm (GMT) | 08:00am- 09:00am (NZST + 1 day)</span></div>
+		<div class="detail-cell gray"><div class="center">Virtual Drinks on the Quad!<br>13:00pm - 14:00pm (PDT)<br><span class="smaller">16:00pm - 17:00pm (EDT) | 21:00pm - 22:00pm (BST) | 08:00am- 09:00am (NZST + 1 day)</span></div>
 		</div>
 	</div>					
 </div>
