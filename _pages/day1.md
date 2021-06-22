@@ -89,7 +89,7 @@ classes: wide
 		</div>
 	</div>	
 	<div class="row">
-		<div class="detail-cell trainee"><div class="center">Mee the Expert (US)<br>12:00pm - 12:45pm (PDT)<br><span class="smaller">15:00pm - 15:45pm (EDT) | 20:00pm - 20:45pm (BST) | 07:00am- 07:45am (NZST + 1 day)</span></div>
+		<div class="detail-cell trainee"><div class="center">Meet the Expert (US)<br>12:00pm - 12:45pm (PDT)<br><span class="smaller">15:00pm - 15:45pm (EDT) | 20:00pm - 20:45pm (BST) | 07:00am- 07:45am (NZST + 1 day)</span></div>
 		</div>
 	</div>	
 	<div class="row">
