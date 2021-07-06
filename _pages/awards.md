@@ -1,6 +1,6 @@
 ---
 permalink: /awards/
-title: "FIMH best presentation awards"
+title: "FIMH best presentations awards"
 ---
 **FIMH 2021 - Best oral presentations award**
 
