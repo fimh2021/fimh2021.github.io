@@ -7,7 +7,7 @@ title: "FIMH best presentation awards"
 Best oral presentations awards were selected by the FIMH board based on three main topics: Electrophysiology, Imaging & Image Analysis, and Mechanics.
 
 <ins> Electrophysiology </ins>
-``Learning Atrial Fiber Orientations and Conductivity Tensors From Intracardiac Maps Using Physics-informed Neural Networks"
+<span style="color:blue">``Learning Atrial Fiber Orientations and Conductivity Tensors From Intracardiac Maps Using Physics-informed Neural Networks"</span>.
 Thomas Grandits, Simone Pezzuto, Francisco Sahli, Paris Perdikaris, Thomas Pock, Gernot Plank, Rolf Krause
 
 <ins> Imaging & Image Analysis </ins>
