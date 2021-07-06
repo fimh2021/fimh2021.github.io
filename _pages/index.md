@@ -19,7 +19,7 @@ title: "Welcome to FIMH-2021"
 <span style="color:blue"> **The Lecture Notes in Computer Science Proceedings for FIMH 2021 is available [here](https://link.springer.com/book/10.1007/978-3-030-78710-3) until the end of July 2021.**
 </span>
 
-<span style="color:blue"> **The best posters and oral presentations awards announced at FIMH 2021 have been posted [here](https://fimh2021.github.io/awards/)**
+<span style="color:green"> **The best poster and oral presentations awards announced at FIMH 2021 have been posted [here](https://fimh2021.github.io/awards/)**
 </span> Congratulations again to all Awardees!  
 
 ## The 11<sup>th</sup> biennial International Conference on Functional Imaging and Modeling of the Heart, will be held from June 21-25, 2021 as a fully virtual event.
