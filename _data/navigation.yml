@@ -16,6 +16,8 @@ sidebar-main:
   
   - title: "Navigate"
     children:
+      - title: "Best Presentations Awards"
+        url: /awards/
       - title: "SpatialChat guidelines"
         url: /spatialchatguide/
       - title: "Instructions for presenters"
