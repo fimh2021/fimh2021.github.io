@@ -17,7 +17,7 @@ classes: wide
 	</div>
 	<div class="row">
 		<div class="detail-cell keynote"><div class="center"><b>Keynote (Moderator: Alistair Young)</b><br>07:15am - 07:55am (PDT)<br><span class="smaller">10:15am - 10:55am (EDT) | 15:15pm - 15:55pm (BST) | 02:15am- 02:55am (NZST + 1 day)</span></div>
-		<h4>"UK Biobank's cardiovascular magnetic resonance study: from rationale, practicalities and lessons learnt to novel scientiﬁc insights"</h4>
+		<h4><a href="https://mediaspace.stanford.edu/media/06.22.2021_D1_Keynote_Petersen/1_jdoqom8r">"UK Biobank's cardiovascular magnetic resonance study: from rationale, practicalities and lessons learnt to novel scientiﬁc insights"</a></h4>
 		<h4>Steffen Petersen, MD</h4><p><b>Professor of Cardiovascular Medicine, William Harvey Research Institute, Queen Mary University of London</b></p>
 
 <p><img align="right" src="/assets/images/SteffenPetersen.jpg" width="250" style="margin-left: 12px;">Steffen Petersen, M.D. is a Professor of Cardiovascular Medicine at the William Harvey Research Institute, Queen Mary University of London and a Consultant Cardiologist and Clinical Director for Research at Barts Heart Centre, Barts Health NHS Trust. He is also the Cardiovascular Programme Director for the UCL Partners Academic Medical Centre. He is a world-leader in Cardiac MRI, author of several clinical guideline papers, and the UK Biobank cardiac imaging lead. The UK Biobank study is well underway and seeks to perform 100,000 CMR exams while also collecting substantial clinical data for deep phenotyping. </p>
