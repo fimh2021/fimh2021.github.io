@@ -13,7 +13,7 @@ classes: wide
 		</div></div>
 	</div>
 	<div class="row">
-		<div class="detail-cell gray"><div class="center"><b><a href="url">Opening Remarks (Day 3)</a></b><br><span class="smaller">08:15am - 08:25am (PDT) | 11:15am - 11:25am (EDT) | 16:15pm - 16:25pm (BST) | 03:15am- 03:25am (NZST + 1 day)</span>
+		<div class="detail-cell gray"><div class="center"><b><a href="https://mediaspace.stanford.edu/media/6.24.2021_D3_OPENING_Vicky_Wang/1_utj1u412">Opening Remarks (Day 3)</a></b><br><span class="smaller">08:15am - 08:25am (PDT) | 11:15am - 11:25am (EDT) | 16:15pm - 16:25pm (BST) | 03:15am- 03:25am (NZST + 1 day)</span>
 		<h4>Vicky Wang, PhD</h4><p>Department of Radiology, Stanford University</p></div></div>
 	<div class="row">
 		<div class="detail-cell session">
