@@ -13,12 +13,12 @@ classes: wide
 		</div></div>
 	</div>
 	<div class="row">
-		<div class="detail-cell gray"><div class="center"><b>Opening Remarks (Day 2)</b><br><b>Luigi Perotti, PhD</b><br>Department of Mechanical and Aerospace Engineering, University of Central Florida<br>07:30am - 07:45am (PDT)<br><span class="smaller">10:30am - 10:45am (EDT) | 15:30pm - 15:45pm (BST) | 02:30am- 02:45am (NZST + 1 day)</span>
+		<div class="detail-cell gray"><div class="center"><b><a href="https://mediaspace.stanford.edu/media/06.23.2021_D2_OPENING_Luigi_Perotti/1_jhq3pipw">Opening Remarks (Day 2)</a></b><br><b>Luigi Perotti, PhD</b><br>Department of Mechanical and Aerospace Engineering, University of Central Florida<br>07:30am - 07:45am (PDT)<br><span class="smaller">10:30am - 10:45am (EDT) | 15:30pm - 15:45pm (BST) | 02:30am- 02:45am (NZST + 1 day)</span>
 		</div></div>
 	</div>
 	<div class="row">
 		<div class="detail-cell keynote"><div class="center"><b>Keynote (Moderator: Alan Garfinkel)</b><br>07:45am - 08:25am (PDT)<br><span class="smaller">10:45am - 11:25am (EDT) | 15:45pm - 16:25pm (BST) | 02:45am- 03:25am (NZST + 1 day)</span></div>
-		<h4>"Enabling Precision Cardiology through the Digital Twin and In Silico Trials"</h4>
+		<h4><a href="https://mediaspace.stanford.edu/media/06.23.2021_D2_Keynote_BlancaRodriguez/1_j9jhmjmt">"Enabling Precision Cardiology through the Digital Twin and In Silico Trials"</a></h4>
 		<h4>Blanca Rodriguez, PhD</h4><p><b>Professor of Computational Medicine, Department of Computer Science, University of Oxford</b></p>
 
 <p><img align="right" src="/assets/images/BlancaRodriguez.jpg" width="280" style="margin-left: 12px;">Blanca Rodriguez, Ph.D. is a Wellcome Trust Fellow in Basic Biomedical Science and Professor of Computational Medicine in the Department of Computer Science at the University of Oxford. Her research focuses on investigating the variable response of human hearts to disease and therapies. Her team primarily focuses on computational modeling and simulation of the heart, combined with other approaches such as machine learning, to expand and augment the information extracted from experimental and clinical datasets. Her lab is part of the British Heart Foundation Centre of Research Excellence and is currently funded by the Wellcome Trust, the NC3Rs, the European Comission, the British Heart Foundation, EPSRC and the Royal Society. </p>
@@ -30,18 +30,18 @@ classes: wide
 		<div class="detail-cell session">
 			<div class="center">Oral Sessions<br>08:25am - 10:35am (PDT)<br><span class="smaller">11:25am - 13:35pm (EDT) | 16:25pm - 18:35pm (BST) | 03:25am- 05:35am (NZST + 1 day)</span><br>
 		<p class="block-title">Session 3: Novel Approaches to Measuring Heart Deformation<br>Moderators: Fred Epstein and Ping Lu<br>08:25am - 09:10am (PDT)<br><span class="smaller">11:25am - 12:10pm (EDT) | 16:25pm - 17:10pm (BST) | 03:25am - 04:10am (NZST + 1 day)</span></p>
-		<h4>CNN-based Cardiac Motion Extraction to Generate Deformable Geometric<br>Left Ventricle Myocardial Models From Cine MRI</h4><span class="smaller">Roshan Reddy Upendra, Brian Jamison Wentz, Richard Simon, Suzanne Shontz, Cristian Linte</span><br>
-		<h4>M-SiSSR: Regional Endocardial Function Using Multilabel Simultaneous Subdivision Surface Registration</h4><span class="smaller">Davis Vigneault, Francisco Contijoch, Christopher Bridge, Elliot McVeigh</span><br>
-		<h4>Investigation of the Impact of Normalization on the Study of<br>Interactions Between Myocardial Shape and Deformation</h4><span class="smaller">Maxime Di Folco, Nicolas Guigui, Patrick Clarysse, Pamela Moceri, Nicolas Duchateau</span><br>
-		<h4>Arbitrary Point Tracking With Machine Learning to Measure Cardiac Strain in Tagged MRI</h4><span class="smaller">Michael Loecher, Ariel Hannum, Luigi Perotti, Daniel Ennis</span><br>&nbsp;<br>
+		<h4><a href="https://mediaspace.stanford.edu/media/06.23.2021_D2S3_S1_RoshanReddyUpendra/1_swlorvok">CNN-based Cardiac Motion Extraction to Generate Deformable Geometric<br>Left Ventricle Myocardial Models From Cine MRI</a></h4><span class="smaller">Roshan Reddy Upendra, Brian Jamison Wentz, Richard Simon, Suzanne Shontz, Cristian Linte</span><br>
+		<h4><a href="https://mediaspace.stanford.edu/media/06.23.2021_D2S3_S2_DVigneault/1_3lkodr12">M-SiSSR: Regional Endocardial Function Using Multilabel Simultaneous Subdivision Surface Registration</a></h4><span class="smaller">Davis Vigneault, Francisco Contijoch, Christopher Bridge, Elliot McVeigh</span><br>
+		<h4><a href="https://mediaspace.stanford.edu/media/06.23.2021_D2S3_S3_DiFolco/1_dtulcdfr">Investigation of the Impact of Normalization on the Study of<br>Interactions Between Myocardial Shape and Deformation</a></h4><span class="smaller">Maxime Di Folco, Nicolas Guigui, Patrick Clarysse, Pamela Moceri, Nicolas Duchateau</span><br>
+		<h4><a href="https://mediaspace.stanford.edu/media/06.23.2021_D2S3_S4_MLoecher/1_5r7ez7h6">Arbitrary Point Tracking With Machine Learning to Measure Cardiac Strain in Tagged MRI</a></h4><span class="smaller">Michael Loecher, Ariel Hannum, Luigi Perotti, Daniel Ennis</span><br>&nbsp;<br>
 		<div class="center">Break<br>09:10am - 09:20am (PDT)<br><span class="smaller">12:10pm - 12:20pm (EDT) | 17:10pm - 17:20pm (BST) | 04:10am- 04:20am (NZST + 1 day)</span><br>
 		</div>
 		<div class="center">
 		<p class="block-title">Session 4: Cardiac Microstructure – Measures to Models<br>Moderators: Andrew Scott and Bianca Freytag<br>09:20am - 10:05am (PDT)<br><span class="smaller">12:20pm - 13:05pm (EDT) | 17:20pm - 18:05pm (BST) | 04:20am- 05:05am (NZST + 1 day)</span></p>
-		<h4>Spatially Constrained Deep Learning Approach for Myocardial T1 Mapping</h4><span class="smaller">Marian Angeles Iglesias, Oscar Camara, Marta Sitges, Gaspar Delso</span><br>
-		<h4>Diffusion Biomarkers in Chronic Myocardial Infarction</h4><span class="smaller">Tanjib Rahman, Kevin Moulin, Daniel Ennis, Luigi Perotti</span><br>
-		<h4>A Methodology for Accessing the Local Arrangement of the Sheets That Make Up the Extracellular Heart Tissue</h4><span class="smaller">Shunli Wang, François Varray, Feng Yuan, isabelle Magnin</span><br>
-		<h4>A High-Fidelity 3D Micromechanical Model of Ventricular Myocardium</h4><span class="smaller">David Li, Emilio Mendiola, Reza Avazmohammadi, Frank Sachse, Michael Sacks</span><br>&nbsp;<br>
+		<h4><a href="https://mediaspace.stanford.edu/media/06.23.2021_D2S4_S1_MIglesias/1_qj19bpk5">Spatially Constrained Deep Learning Approach for Myocardial T1 Mapping</a></h4><span class="smaller">Marian Angeles Iglesias, Oscar Camara, Marta Sitges, Gaspar Delso</span><br>
+		<h4><a href="https://mediaspace.stanford.edu/media/06.23.2021_D2S4_S2_TanjibRahman/1_hincbjvb">Diffusion Biomarkers in Chronic Myocardial Infarction</a></h4><span class="smaller">Tanjib Rahman, Kevin Moulin, Daniel Ennis, Luigi Perotti</span><br>
+		<h4><a href="https://mediaspace.stanford.edu/media/06.23.2021_D2S4_S3_WANG+Shunli/1_2oz8t1l9">A Methodology for Accessing the Local Arrangement of the Sheets That Make Up the Extracellular Heart Tissue</a></h4><span class="smaller">Shunli Wang, François Varray, Feng Yuan, isabelle Magnin</span><br>
+		<h4><a href="https://mediaspace.stanford.edu/media/06.23.2021_D2S4_S4_DavidLi/1_nvf669yv">A High-Fidelity 3D Micromechanical Model of Ventricular Myocardium</a></h4><span class="smaller">David Li, Emilio Mendiola, Reza Avazmohammadi, Frank Sachse, Michael Sacks</span><br>&nbsp;<br>
 		<div class="center"><b>Break-out Session</b><br>10:05am - 10:35am (PDT)<br><span class="smaller">13:05am - 13:35pm (EDT) | 18:05pm - 18:35pm (BST) | 05:05am- 05:35am (NZST + 1 day)</span></div>
 		</div>
 	</div>	
