@@ -12,7 +12,7 @@ classes: wide
 		<div class="detail-cell gray"><div class="center"><b>Coffee Hour (Spatial Chat Mixer)</b><br><span class="smaller">06:30am - 07:00am (PDT) | 09:30am - 10:00am (EDT) | 14:30pm - 15:00pm (BST) | 01:30am- 02:00am (NZST + 1 day)</span></div>
 	</div>
 	<div class="row">
-		<div class="detail-cell gray"><div class="center"><b>Opening Remarks</b><br><span class="smaller">07:00am - 07:15am (PDT) | 10:00am - 10:15am (EDT) | 15:00pm - 15:15pm (BST) | 02:00am- 02:15am (NZST + 1 day)</span>
+		<div class="detail-cell gray"><div class="center"><b><a href="https://mediaspace.stanford.edu/media/06.22.2021_D1_OPENING/1_07kyd1sa">Opening Remarks</a></b><br><span class="smaller">07:00am - 07:15am (PDT) | 10:00am - 10:15am (EDT) | 15:00pm - 15:15pm (BST) | 02:00am- 02:15am (NZST + 1 day)</span>
 		<h4>Daniel Ennis, PhD</h4><p>Department of Radiology, Stanford University</p></div></div>
 	</div>
 	<div class="row">
